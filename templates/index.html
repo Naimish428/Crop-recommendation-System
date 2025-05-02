@@ -4,7 +4,64 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Crop Recommendation System</title>
-    <link rel="stylesheet" href="/static/styles.css">
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(to right, #43cea2, #185a9d);
+            color: #fff;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 600px;
+            background-color: rgba(0, 0, 0, 0.6);
+            margin: 60px auto;
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 30px;
+            color: #fff;
+        }
+
+        label {
+            display: block;
+            margin: 15px 0 5px;
+            font-weight: bold;
+        }
+
+        select,
+        input[type="number"] {
+            width: 100%;
+            padding: 10px;
+            margin-top: 5px;
+            border-radius: 5px;
+            border: none;
+            font-size: 1em;
+        }
+
+        button {
+            margin-top: 25px;
+            width: 100%;
+            padding: 12px;
+            background-color: #00c9a7;
+            border: none;
+            border-radius: 5px;
+            font-size: 1.1em;
+            font-weight: bold;
+            color: white;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        button:hover {
+            background-color: #00a383;
+        }
+    </style>
 </head>
 <body>
     <div class="container">
@@ -16,7 +73,6 @@
                     <option value="{{ state }}">{{ state }}</option>
                 {% endfor %}
             </select>
-            <br><br>
 
             <label for="season">Select Season:</label>
             <select name="season" id="season" required>
@@ -24,15 +80,12 @@
                     <option value="{{ season }}">{{ season }}</option>
                 {% endfor %}
             </select>
-            <br><br>
 
             <label for="area">Enter Area of Production (in hectares):</label>
             <input type="number" step="0.01" name="area" required>
-            <br><br>
 
             <label for="crop_productivity">Enter Productivity (tons/hectare):</label>
             <input type="number" step="0.01" name="crop_productivity" required>
-            <br><br>
 
             <button type="submit">Get Recommendation</button>
         </form>
