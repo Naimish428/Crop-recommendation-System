@@ -1,0 +1,2350 @@
+State_Name,Crop_Year,Season,Crop,Area,Production,crop_productivity
+Andhra Pradesh,2000,Kharif     ,Arhar/Tur,251268,124791,0.496645016
+Andhra Pradesh,2000,Kharif     ,Bajra,92898,114026,1.227432238
+Andhra Pradesh,2000,Kharif     ,Dry chillies,100379,248632,2.476932426
+Andhra Pradesh,2000,Kharif     ,Groundnut,1461958,1599583,1.094137451
+Andhra Pradesh,2000,Kharif     ,Maize,43578,113479,2.604043325
+Andhra Pradesh,2000,Kharif     ,Moong(Green Gram),91663,40688,0.443886846
+Andhra Pradesh,2000,Kharif     ,Onion,13371,186601,13.95565029
+Andhra Pradesh,2000,Kharif     ,Ragi,64665,73383,1.134817908
+Andhra Pradesh,2000,Kharif     ,Rice,1886639,5143420,2.726234325
+Andhra Pradesh,2000,Kharif     ,Sunflower,163853,142794,0.871476262
+Andhra Pradesh,2000,Rabi       ,Arhar/Tur,3331,1652,0.495947163
+Andhra Pradesh,2000,Rabi       ,Bajra,5425,7234,1.333456221
+Andhra Pradesh,2000,Rabi       ,Dry chillies,27677,54065,1.953427033
+Andhra Pradesh,2000,Rabi       ,Groundnut,149045,246918,1.656667449
+Andhra Pradesh,2000,Rabi       ,Maize,34803,187379,5.383989886
+Andhra Pradesh,2000,Rabi       ,Moong(Green Gram),122384,41013,0.335117336
+Andhra Pradesh,2000,Rabi       ,Onion,5151,105041,20.392351
+Andhra Pradesh,2000,Rabi       ,Ragi,14208,24611,1.732193131
+Andhra Pradesh,2000,Rabi       ,Rice,808102,2897247,3.585249139
+Andhra Pradesh,2000,Rabi       ,Wheat,1492,851,0.570375335
+Andhra Pradesh,2001,Kharif     ,Arhar/Tur,189334,94170,0.497375009
+Andhra Pradesh,2001,Kharif     ,Bajra,52358,49827,0.951659727
+Andhra Pradesh,2001,Kharif     ,Dry chillies,100762,313335,3.109654433
+Andhra Pradesh,2001,Kharif     ,Groundnut,1322625,734787,0.555552027
+Andhra Pradesh,2001,Kharif     ,Maize,27765,74214,2.672933549
+Andhra Pradesh,2001,Kharif     ,Moong(Green Gram),44530,21512,0.483090052
+Andhra Pradesh,2001,Kharif     ,Onion,13985,194037,13.87465141
+Andhra Pradesh,2001,Kharif     ,Ragi,59188,67928,1.147665067
+Andhra Pradesh,2001,Kharif     ,Rice,1546987,4156586,2.686891357
+Andhra Pradesh,2001,Kharif     ,Sunflower,238944,197711,0.827436554
+Andhra Pradesh,2001,Rabi       ,Arhar/Tur,2712,1450,0.534660767
+Andhra Pradesh,2001,Rabi       ,Bajra,2820,4236,1.50212766
+Andhra Pradesh,2001,Rabi       ,Dry chillies,25954,50371,1.940779841
+Andhra Pradesh,2001,Rabi       ,Groundnut,131398,265348,2.019421909
+Andhra Pradesh,2001,Rabi       ,Maize,30420,196908,6.472978304
+Andhra Pradesh,2001,Rabi       ,Moong(Green Gram),129878,39646,0.305255702
+Andhra Pradesh,2001,Rabi       ,Onion,5966,112416,18.84277573
+Andhra Pradesh,2001,Rabi       ,Ragi,12154,21238,1.747408261
+Andhra Pradesh,2001,Rabi       ,Rice,968366,3667106,3.786900821
+Andhra Pradesh,2001,Rabi       ,Wheat,1629,1126,0.691221608
+Andhra Pradesh,2002,Kharif     ,Arhar/Tur,193830,60945,0.314425012
+Andhra Pradesh,2002,Kharif     ,Bajra,51201,40025,0.781723013
+Andhra Pradesh,2002,Kharif     ,Dry chillies,102139,193934,1.898726246
+Andhra Pradesh,2002,Kharif     ,Groundnut,1173377,487858,0.415772595
+Andhra Pradesh,2002,Kharif     ,Maize,32761,31749,0.969109612
+Andhra Pradesh,2002,Kharif     ,Moong(Green Gram),61850,9343,0.151059014
+Andhra Pradesh,2002,Kharif     ,Onion,12552,150053,11.95450924
+Andhra Pradesh,2002,Kharif     ,Ragi,51719,52994,1.024652449
+Andhra Pradesh,2002,Kharif     ,Rice,1354708,3532074,2.607258538
+Andhra Pradesh,2002,Kharif     ,Soyabean,2439,0,0
+Andhra Pradesh,2002,Kharif     ,Sunflower,378688,247547,0.653696447
+Andhra Pradesh,2002,Rabi       ,Arhar/Tur,3426,1382,0.403385873
+Andhra Pradesh,2002,Rabi       ,Bajra,1449,1196,0.825396825
+Andhra Pradesh,2002,Rabi       ,Dry chillies,22988,39155,1.703279972
+Andhra Pradesh,2002,Rabi       ,Groundnut,101783,172266,1.692483028
+Andhra Pradesh,2002,Rabi       ,Maize,42052,291419,6.929967659
+Andhra Pradesh,2002,Rabi       ,Moong(Green Gram),108621,27677,0.254803399
+Andhra Pradesh,2002,Rabi       ,Onion,5303,80210,15.12540072
+Andhra Pradesh,2002,Rabi       ,Ragi,8736,11264,1.289377289
+Andhra Pradesh,2002,Rabi       ,Rice,512434,1783334,3.48012427
+Andhra Pradesh,2002,Rabi       ,Wheat,1411,1302,0.922749823
+Andhra Pradesh,2003,Kharif     ,Arhar/Tur,246874,86923,0.352094591
+Andhra Pradesh,2003,Kharif     ,Bajra,93207,120071,1.288218696
+Andhra Pradesh,2003,Kharif     ,Dry chillies,113975,466529,4.093257293
+Andhra Pradesh,2003,Kharif     ,Groundnut,1177611,550255,0.467263808
+Andhra Pradesh,2003,Kharif     ,Maize,47355,81259,1.715953965
+Andhra Pradesh,2003,Kharif     ,Moong(Green Gram),121588,66192,0.544395829
+Andhra Pradesh,2003,Kharif     ,Onion,13942,203378,14.58743365
+Andhra Pradesh,2003,Kharif     ,Ragi,55292,68475,1.238425089
+Andhra Pradesh,2003,Kharif     ,Rice,1367841,3707460,2.710446609
+Andhra Pradesh,2003,Kharif     ,Soyabean,1696,1868,1.101415094
+Andhra Pradesh,2003,Kharif     ,Sunflower,427759,270965,0.633452481
+Andhra Pradesh,2003,Rabi       ,Arhar/Tur,2153,941,0.437064561
+Andhra Pradesh,2003,Rabi       ,Bajra,1652,1619,0.980024213
+Andhra Pradesh,2003,Rabi       ,Dry chillies,26139,55089,2.107540457
+Andhra Pradesh,2003,Rabi       ,Groundnut,119623,212252,1.774341055
+Andhra Pradesh,2003,Rabi       ,Maize,73876,413710,5.600059559
+Andhra Pradesh,2003,Rabi       ,Moong(Green Gram),188335,63721,0.338338599
+Andhra Pradesh,2003,Rabi       ,Onion,4647,75947,16.34323219
+Andhra Pradesh,2003,Rabi       ,Ragi,10217,17916,1.753548008
+Andhra Pradesh,2003,Rabi       ,Rice,589482,2346639,3.980849288
+Andhra Pradesh,2003,Rabi       ,Wheat,1154,343,0.297227036
+Andhra Pradesh,2004,Kharif     ,Arhar/Tur,223000,115098,0.516134529
+Andhra Pradesh,2004,Kharif     ,Bajra,62499,67960,1.087377398
+Andhra Pradesh,2004,Kharif     ,Dry chillies,108007,398973,3.693955021
+Andhra Pradesh,2004,Kharif     ,Groundnut,1529378,1191873,0.779318782
+Andhra Pradesh,2004,Kharif     ,Maize,44060,129205,2.932478438
+Andhra Pradesh,2004,Kharif     ,Moong(Green Gram),58404,21727,0.372012191
+Andhra Pradesh,2004,Kharif     ,Onion,17953,304591,16.96602239
+Andhra Pradesh,2004,Kharif     ,Ragi,53677,59086,1.100769417
+Andhra Pradesh,2004,Kharif     ,Rice,1564201,4765811,3.046802169
+Andhra Pradesh,2004,Kharif     ,Soyabean,2206,1347,0.610607434
+Andhra Pradesh,2004,Kharif     ,Sunflower,372498,233388,0.62654833
+Andhra Pradesh,2004,Rabi       ,Arhar/Tur,1573,1112,0.706929434
+Andhra Pradesh,2004,Rabi       ,Bajra,3488,4623,1.325401376
+Andhra Pradesh,2004,Rabi       ,Dry chillies,21880,63542,2.904113346
+Andhra Pradesh,2004,Rabi       ,Groundnut,116788,250273,2.142968456
+Andhra Pradesh,2004,Rabi       ,Maize,80655,583029,7.228677701
+Andhra Pradesh,2004,Rabi       ,Moong(Green Gram),136875,44591,0.325778995
+Andhra Pradesh,2004,Rabi       ,Onion,4414,83921,19.01246035
+Andhra Pradesh,2004,Rabi       ,Ragi,7340,13224,1.801634877
+Andhra Pradesh,2004,Rabi       ,Rice,663481,2626867,3.959219631
+Andhra Pradesh,2004,Rabi       ,Sunflower,253035,165450,0.653862114
+Andhra Pradesh,2004,Rabi       ,Wheat,789,176,0.223067174
+Andhra Pradesh,2005,Kharif     ,Arhar/Tur,229011,137406,0.59999738
+Andhra Pradesh,2005,Kharif     ,Bajra,50466,60728,1.203344826
+Andhra Pradesh,2005,Kharif     ,Dry chillies,69954,262361,3.750478886
+Andhra Pradesh,2005,Kharif     ,Groundnut,1547866,848130,0.547935028
+Andhra Pradesh,2005,Kharif     ,Maize,43883,180228,4.107011827
+Andhra Pradesh,2005,Kharif     ,Moong(Green Gram),38092,26386,0.692691379
+Andhra Pradesh,2005,Kharif     ,Onion,17192,322327,18.74866217
+Andhra Pradesh,2005,Kharif     ,Ragi,47184,48084,1.019074262
+Andhra Pradesh,2005,Kharif     ,Rice,1595180,3627084,2.273777254
+Andhra Pradesh,2005,Kharif     ,Soyabean,3107,1713,0.551335694
+Andhra Pradesh,2005,Rabi       ,Bajra,4001,4614,1.153211697
+Andhra Pradesh,2005,Rabi       ,Dry chillies,18607,44859,2.410866878
+Andhra Pradesh,2005,Rabi       ,Groundnut,128145,260799,2.035186703
+Andhra Pradesh,2005,Rabi       ,Maize,75945,567377,7.47089341
+Andhra Pradesh,2005,Rabi       ,Moong(Green Gram),123234,37420,0.303649967
+Andhra Pradesh,2005,Rabi       ,Onion,6230,138672,22.25874799
+Andhra Pradesh,2005,Rabi       ,Ragi,8563,15548,1.81571879
+Andhra Pradesh,2005,Rabi       ,Rice,925543,3661637,3.956204088
+Andhra Pradesh,2005,Rabi       ,Wheat,1089,641,0.588613407
+Andhra Pradesh,2006,Kharif     ,Arhar/Tur,150683,53282,0.35360326
+Andhra Pradesh,2006,Kharif     ,Bajra,37878,36060,0.952003802
+Andhra Pradesh,2006,Kharif     ,Dry chillies,97072,407848,4.201499918
+Andhra Pradesh,2006,Kharif     ,Groundnut,1044939,294580,0.281911193
+Andhra Pradesh,2006,Kharif     ,Maize,40781,126215,3.094946176
+Andhra Pradesh,2006,Kharif     ,Moong(Green Gram),36345,12702,0.349484111
+Andhra Pradesh,2006,Kharif     ,Onion,15656,262501,16.76679867
+Andhra Pradesh,2006,Kharif     ,Ragi,45887,43546,0.948983372
+Andhra Pradesh,2006,Kharif     ,Rice,1681062,4302910,2.559637896
+Andhra Pradesh,2006,Kharif     ,Soyabean,916,933,1.018558952
+Andhra Pradesh,2006,Rabi       ,Arhar/Tur,617,327,0.529983793
+Andhra Pradesh,2006,Rabi       ,Bajra,3036,3794,1.249670619
+Andhra Pradesh,2006,Rabi       ,Dry chillies,24400,75435,3.091598361
+Andhra Pradesh,2006,Rabi       ,Groundnut,110011,229469,2.085873231
+Andhra Pradesh,2006,Rabi       ,Maize,93630,709453,7.577197479
+Andhra Pradesh,2006,Rabi       ,Moong(Green Gram),130512,48807,0.373965612
+Andhra Pradesh,2006,Rabi       ,Onion,4769,82020,17.19857412
+Andhra Pradesh,2006,Rabi       ,Ragi,7747,12828,1.655866787
+Andhra Pradesh,2006,Rabi       ,Rice,807821,3313482,4.10175274
+Andhra Pradesh,2006,Rabi       ,Wheat,896,235,0.262276786
+Andhra Pradesh,2007,Kharif     ,Arhar/Tur,208000,136000,0.653846154
+Andhra Pradesh,2007,Kharif     ,Bajra,48000,74000,1.541666667
+Andhra Pradesh,2007,Kharif     ,Dry chillies,109000,449000,4.119266055
+Andhra Pradesh,2007,Kharif     ,Groundnut,1444000,1967000,1.362188366
+Andhra Pradesh,2007,Kharif     ,Maize,49000,223000,4.551020408
+Andhra Pradesh,2007,Kharif     ,Moong(Green Gram),57000,28000,0.49122807
+Andhra Pradesh,2007,Kharif     ,Onion,20000,326000,16.3
+Andhra Pradesh,2007,Kharif     ,Ragi,43000,50000,1.162790698
+Andhra Pradesh,2007,Kharif     ,Rice,1734000,5573000,3.213956171
+Andhra Pradesh,2007,Kharif     ,Sunflower,105000,66000,0.628571429
+Andhra Pradesh,2007,Rabi       ,Bajra,2000,3000,1.5
+Andhra Pradesh,2007,Rabi       ,Dry chillies,25000,60000,2.4
+Andhra Pradesh,2007,Rabi       ,Groundnut,145000,291000,2.006896552
+Andhra Pradesh,2007,Rabi       ,Maize,133000,1035000,7.781954887
+Andhra Pradesh,2007,Rabi       ,Moong(Green Gram),136000,39000,0.286764706
+Andhra Pradesh,2007,Rabi       ,Onion,4000,59000,14.75
+Andhra Pradesh,2007,Rabi       ,Ragi,7000,8000,1.142857143
+Andhra Pradesh,2007,Rabi       ,Rice,842000,3307000,3.927553444
+Andhra Pradesh,2007,Rabi       ,Sunflower,229000,255000,1.113537118
+Andhra Pradesh,2008,Kharif     ,Arhar/Tur,180492,74045,0.410239789
+Andhra Pradesh,2008,Kharif     ,Bajra,35466,42205,1.19001297
+Andhra Pradesh,2008,Kharif     ,Dry chillies,101109,417612,4.130314809
+Andhra Pradesh,2008,Kharif     ,Groundnut,1450854,407157,0.280632648
+Andhra Pradesh,2008,Kharif     ,Maize,53056,207450,3.910019602
+Andhra Pradesh,2008,Kharif     ,Moong(Green Gram),21702,8546,0.393788591
+Andhra Pradesh,2008,Kharif     ,Onion,22847,383929,16.80435068
+Andhra Pradesh,2008,Kharif     ,Ragi,41098,37424,0.910603922
+Andhra Pradesh,2008,Kharif     ,Rice,1777376,5206963,2.929578772
+Andhra Pradesh,2008,Kharif     ,Soyabean,453,618,1.364238411
+Andhra Pradesh,2008,Rabi       ,Arhar/Tur,633,368,0.58135861
+Andhra Pradesh,2008,Rabi       ,Bajra,1799,4131,2.296275709
+Andhra Pradesh,2008,Rabi       ,Dry chillies,20581,68390,3.322967786
+Andhra Pradesh,2008,Rabi       ,Groundnut,114877,250431,2.179992514
+Andhra Pradesh,2008,Rabi       ,Maize,198299,1751018,8.830190773
+Andhra Pradesh,2008,Rabi       ,Moong(Green Gram),101802,34629,0.340160311
+Andhra Pradesh,2008,Rabi       ,Onion,4076,71149,17.45559372
+Andhra Pradesh,2008,Rabi       ,Ragi,4890,8354,1.708384458
+Andhra Pradesh,2008,Rabi       ,Rice,918349,3673623,4.000247183
+Andhra Pradesh,2008,Rabi       ,Wheat,1033,705,0.682478219
+Andhra Pradesh,2009,Kharif     ,Arhar/Tur,162154,86342,0.532469134
+Andhra Pradesh,2009,Kharif     ,Bajra,26185,39973,1.526561008
+Andhra Pradesh,2009,Kharif     ,Dry chillies,98780,439756,4.451872849
+Andhra Pradesh,2009,Kharif     ,Groundnut,974067,360086,0.369672723
+Andhra Pradesh,2009,Kharif     ,Maize,44998,164474,3.655140228
+Andhra Pradesh,2009,Kharif     ,Moong(Green Gram),21628,4065,0.187950805
+Andhra Pradesh,2009,Kharif     ,Onion,20354,329597,16.19322983
+Andhra Pradesh,2009,Kharif     ,Ragi,37199,40589,1.091131482
+Andhra Pradesh,2009,Kharif     ,Rice,1467985,4320894,2.943418359
+Andhra Pradesh,2009,Kharif     ,Soyabean,167,133,0.796407186
+Andhra Pradesh,2009,Rabi       ,Arhar/Tur,8556,5460,0.638148668
+Andhra Pradesh,2009,Rabi       ,Bajra,2419,5276,2.181066556
+Andhra Pradesh,2009,Rabi       ,Dry chillies,23583,90889,3.854005004
+Andhra Pradesh,2009,Rabi       ,Groundnut,113696,287666,2.530132986
+Andhra Pradesh,2009,Rabi       ,Maize,168354,1230694,7.310155981
+Andhra Pradesh,2009,Rabi       ,Moong(Green Gram),83641,33327,0.398452912
+Andhra Pradesh,2009,Rabi       ,Onion,4140,103510,25.00241546
+Andhra Pradesh,2009,Rabi       ,Ragi,5908,10982,1.858835477
+Andhra Pradesh,2009,Rabi       ,Rice,857744,3248177,3.786883965
+Andhra Pradesh,2009,Rabi       ,Wheat,790,427,0.540506329
+Andhra Pradesh,2010,Kharif     ,Arhar/Tur,292829,111907,0.382158188
+Andhra Pradesh,2010,Kharif     ,Bajra,44541,79982,1.795693855
+Andhra Pradesh,2010,Kharif     ,Dry chillies,98156,321255,3.272902319
+Andhra Pradesh,2010,Kharif     ,Groundnut,1316601,856202,0.650312433
+Andhra Pradesh,2010,Kharif     ,Maize,49027,203376,4.148244845
+Andhra Pradesh,2010,Kharif     ,Moong(Green Gram),66018,17096,0.258959678
+Andhra Pradesh,2010,Kharif     ,Onion,22820,453197,19.85964067
+Andhra Pradesh,2010,Kharif     ,Ragi,34778,39747,1.142877681
+Andhra Pradesh,2010,Kharif     ,Rice,1796839,3973878,2.211593804
+Andhra Pradesh,2010,Kharif     ,Soyabean,1962,3345,1.704892966
+Andhra Pradesh,2010,Rabi       ,Arhar/Tur,3845,2316,0.602340702
+Andhra Pradesh,2010,Rabi       ,Bajra,3671,8324,2.267502043
+Andhra Pradesh,2010,Rabi       ,Dry chillies,20030,77075,3.847978033
+Andhra Pradesh,2010,Rabi       ,Groundnut,109510,249610,2.279335221
+Andhra Pradesh,2010,Rabi       ,Maize,184393,1681079,9.116826561
+Andhra Pradesh,2010,Rabi       ,Moong(Green Gram),101319,35591,0.351276661
+Andhra Pradesh,2010,Rabi       ,Onion,6146,137736,22.41067361
+Andhra Pradesh,2010,Rabi       ,Ragi,4847,7140,1.47307613
+Andhra Pradesh,2010,Rabi       ,Rice,975538,3909200,4.007224731
+Andhra Pradesh,2010,Rabi       ,Wheat,757,1061,1.401585205
+Arunachal Pradesh,2000,Kharif     ,Maize,38429,52297,1.360873299
+Arunachal Pradesh,2000,Kharif     ,Rice,118601,132690,1.118793265
+Arunachal Pradesh,2000,Rabi       ,Wheat,4397,6226,1.415965431
+Arunachal Pradesh,2001,Kharif     ,Maize,38577,52511,1.361199679
+Arunachal Pradesh,2001,Kharif     ,Rice,119455,134621,1.126959943
+Arunachal Pradesh,2001,Rabi       ,Wheat,3805,5341,1.403679369
+Arunachal Pradesh,2002,Kharif     ,Maize,40548,55941,1.379624149
+Arunachal Pradesh,2002,Kharif     ,Rice,124584,152500,1.224073717
+Arunachal Pradesh,2002,Rabi       ,Wheat,4114,6250,1.519202722
+Arunachal Pradesh,2003,Kharif     ,Maize,38605,54510,1.411993265
+Arunachal Pradesh,2003,Kharif     ,Rice,119205,154589,1.296833187
+Arunachal Pradesh,2003,Rabi       ,Wheat,4150,6320,1.522891566
+Arunachal Pradesh,2004,Kharif     ,Maize,37800,54985,1.45462963
+Arunachal Pradesh,2004,Kharif     ,Rice,121642,134950,1.109403002
+Arunachal Pradesh,2004,Rabi       ,Wheat,4278,6652,1.554932211
+Arunachal Pradesh,2005,Kharif     ,Maize,41853,57898,1.383365589
+Arunachal Pradesh,2005,Kharif     ,Rice,122267,146191,1.195670132
+Arunachal Pradesh,2005,Rabi       ,Wheat,3976,6140,1.544265594
+Arunachal Pradesh,2006,Kharif     ,Maize,46281,63524,1.372571898
+Arunachal Pradesh,2006,Kharif     ,Rice,123038,144635,1.175531137
+Arunachal Pradesh,2006,Rabi       ,Wheat,3979,6301,1.583563709
+Arunachal Pradesh,2007,Kharif     ,Maize,42736,57430,1.343831898
+Arunachal Pradesh,2007,Kharif     ,Rice,124029,158146,1.275072765
+Arunachal Pradesh,2007,Rabi       ,Wheat,3558,5294,1.487914559
+Arunachal Pradesh,2008,Kharif     ,Maize,42897,58830,1.371424575
+Arunachal Pradesh,2008,Kharif     ,Rice,126799,164538,1.29762853
+Arunachal Pradesh,2008,Rabi       ,Wheat,3278,5169,1.576876144
+Arunachal Pradesh,2009,Kharif     ,Maize,43630,60144,1.378501031
+Arunachal Pradesh,2009,Kharif     ,Rice,121468,143894.6,1.184629697
+Arunachal Pradesh,2009,Rabi       ,Wheat,3170,4770,1.504731861
+Arunachal Pradesh,2010,Kharif     ,Maize,45061,64714,1.436142118
+Arunachal Pradesh,2010,Kharif     ,Rice,121570,155993,1.283153739
+Arunachal Pradesh,2010,Rabi       ,Wheat,3699,5872,1.587456069
+Assam,2000,Kharif     ,Arhar/Tur,7280,5159,0.708653846
+Assam,2000,Kharif     ,Maize,20241,14616,0.722098711
+Assam,2000,Rabi       ,Wheat,70301,85695,1.218972703
+Assam,2001,Kharif     ,Arhar/Tur,7236,5125,0.708264234
+Assam,2001,Kharif     ,Maize,19600,13940,0.71122449
+Assam,2001,Rabi       ,Masoor,21308,11217,0.526422001
+Assam,2001,Rabi       ,Moong(Green Gram),8206,3740,0.455764075
+Assam,2001,Rabi       ,Wheat,72245,85300,1.180704547
+Assam,2002,Kharif     ,Arhar/Tur,7013,4961,0.707400542
+Assam,2002,Kharif     ,Maize,19812,14194,0.716434484
+Assam,2002,Rabi       ,Masoor,19730,10694,0.542017233
+Assam,2002,Rabi       ,Moong(Green Gram),7161,3286,0.458874459
+Assam,2002,Rabi       ,Wheat,69061,77952,1.128741258
+Assam,2003,Kharif     ,Arhar/Tur,7012,4940,0.70450656
+Assam,2003,Kharif     ,Maize,19569,14051,0.718023404
+Assam,2003,Rabi       ,Masoor,21736,11721,0.539243651
+Assam,2003,Rabi       ,Moong(Green Gram),7595,3513,0.462541145
+Assam,2003,Rabi       ,Wheat,69954,73186,1.04620179
+Assam,2004,Kharif     ,Arhar/Tur,6733,4751,0.705628992
+Assam,2004,Rabi       ,Masoor,20386,11041,0.541597175
+Assam,2004,Rabi       ,Moong(Green Gram),7293,3429,0.470176882
+Assam,2004,Rabi       ,Wheat,63854,68083,1.06622921
+Assam,2005,Kharif     ,Arhar/Tur,6473,4529,0.699675575
+Assam,2005,Kharif     ,Maize,18969,13745,0.7246033
+Assam,2005,Rabi       ,Masoor,18583,9877,0.531507292
+Assam,2005,Rabi       ,Moong(Green Gram),7512,3428,0.456336528
+Assam,2005,Rabi       ,Wheat,49961,53735,1.07553892
+Assam,2006,Kharif     ,Arhar/Tur,6676,4769,0.71434991
+Assam,2006,Kharif     ,Maize,18657,13557,0.726644155
+Assam,2006,Rabi       ,Masoor,20137,10602,0.526493519
+Assam,2006,Rabi       ,Moong(Green Gram),7374,3395,0.46040141
+Assam,2006,Rabi       ,Wheat,59573,67413,1.131603243
+Assam,2007,Kharif     ,Arhar/Tur,5893,4230,0.717800781
+Assam,2007,Kharif     ,Maize,18362,13317,0.725247794
+Assam,2007,Rabi       ,Masoor,22469,10592,0.471405047
+Assam,2007,Rabi       ,Moong(Green Gram),7719,3550,0.459904133
+Assam,2007,Rabi       ,Wheat,56069,70797,1.262676345
+Assam,2008,Kharif     ,Arhar/Tur,5368,3811,0.709947839
+Assam,2008,Kharif     ,Maize,17382,12619,0.7259809
+Assam,2008,Rabi       ,Masoor,21726,11084,0.510172144
+Assam,2008,Rabi       ,Moong(Green Gram),5634,2586,0.458998935
+Assam,2008,Rabi       ,Wheat,50053,54551,1.089864743
+Assam,2009,Kharif     ,Arhar/Tur,6191,4408,0.712001292
+Assam,2009,Kharif     ,Maize,19481,13981,0.717673631
+Assam,2009,Rabi       ,Banana,44980,621747,13.82274344
+Assam,2009,Rabi       ,Masoor,23227,11661,0.502045034
+Assam,2009,Rabi       ,Moong(Green Gram),7519,3439,0.457374651
+Assam,2009,Rabi       ,Wheat,60067,65301,1.087136031
+Assam,2010,Kharif     ,Arhar/Tur,7137,5098,0.714305731
+Assam,2010,Kharif     ,Maize,19772,14110,0.713635444
+Assam,2010,Rabi       ,Banana,47628,653502,13.72096246
+Assam,2010,Rabi       ,Masoor,23895,11820,0.494664156
+Assam,2010,Rabi       ,Moong(Green Gram),9022,4243,0.470294835
+Assam,2010,Rabi       ,Wheat,44772,56216,1.255606182
+Bihar,2000,Kharif     ,Arhar/Tur,43604,58858,1.349830291
+Bihar,2000,Kharif     ,Bajra,1534,1266,0.825293351
+Bihar,2000,Kharif     ,Groundnut,96,106,1.104166667
+Bihar,2000,Kharif     ,Maize,272957,477141,1.748044564
+Bihar,2000,Kharif     ,Moong(Green Gram),9229,5165.1,0.559659768
+Bihar,2000,Kharif     ,Ragi,22452,24827,1.105781222
+Bihar,2000,Kharif     ,Rice,591705,786858,1.329814688
+Bihar,2000,Kharif     ,Sunflower,10838,16707,1.541520576
+Bihar,2000,Rabi       ,Maize,191502,549109,2.867379975
+Bihar,2000,Rabi       ,Masoor,172202,170805,0.991887435
+Bihar,2000,Rabi       ,Moong(Green Gram),177813,103366,0.581318576
+Bihar,2000,Rabi       ,Wheat,2067333,4437958,2.146706892
+Bihar,2001,Kharif     ,Arhar/Tur,41954,53809,1.282571388
+Bihar,2001,Kharif     ,Bajra,828,598,0.722222222
+Bihar,2001,Kharif     ,Groundnut,245,137,0.559183673
+Bihar,2001,Kharif     ,Moong(Green Gram),7902,4465,0.565046824
+Bihar,2001,Kharif     ,Ragi,19726,17318,0.877927608
+Bihar,2001,Kharif     ,Rice,126106,243661,1.932191965
+Bihar,2001,Kharif     ,Sunflower,13150,16108,1.224942966
+Bihar,2001,Rabi       ,Maize,187399,622294,3.320690078
+Bihar,2001,Rabi       ,Masoor,170834,140299,0.821259234
+Bihar,2001,Rabi       ,Wheat,2181543,4499130,2.062361365
+Bihar,2002,Kharif     ,Arhar/Tur,37680,42966,1.140286624
+Bihar,2002,Kharif     ,Bajra,1018,1048,1.029469548
+Bihar,2002,Kharif     ,Groundnut,371,183,0.493261456
+Bihar,2002,Kharif     ,Moong(Green Gram),10659,5746,0.53907496
+Bihar,2002,Kharif     ,Ragi,20695,14237,0.687943948
+Bihar,2002,Kharif     ,Sunflower,13359,17393,1.30196871
+Bihar,2002,Rabi       ,Maize,187707,520263,2.77167607
+Bihar,2002,Rabi       ,Masoor,179581,156613,0.872102283
+Bihar,2002,Rabi       ,Wheat,2130933,4040610,1.896169424
+Bihar,2003,Kharif     ,Arhar/Tur,38855,48100,1.237935916
+Bihar,2003,Kharif     ,Bajra,1568,1638,1.044642857
+Bihar,2003,Kharif     ,Groundnut,468,231,0.493589744
+Bihar,2003,Kharif     ,Maize,259030,438013,1.690974018
+Bihar,2003,Kharif     ,Moong(Green Gram),8398,4231,0.503810431
+Bihar,2003,Kharif     ,Ragi,15187,10236,0.673997498
+Bihar,2003,Kharif     ,Rice,190236,270831,1.423657983
+Bihar,2003,Kharif     ,Sunflower,17531,24157,1.377959044
+Bihar,2003,Rabi       ,Maize,196338,594736,3.02914362
+Bihar,2003,Rabi       ,Masoor,171037,159754,0.934031818
+Bihar,2003,Rabi       ,Moong(Green Gram),24894,11255,0.452116976
+Bihar,2003,Rabi       ,Wheat,2076839,3688941,1.776228682
+Bihar,2004,Kharif     ,Arhar/Tur,35839,44223,1.233935099
+Bihar,2004,Kharif     ,Bajra,1200,1297,1.080833333
+Bihar,2004,Kharif     ,Groundnut,539,266,0.493506494
+Bihar,2004,Kharif     ,Maize,270973,443819,1.63787167
+Bihar,2004,Kharif     ,Moong(Green Gram),7323,3617,0.493923255
+Bihar,2004,Kharif     ,Ragi,15570,10512,0.675144509
+Bihar,2004,Kharif     ,Sunflower,16555,23429,1.415221987
+Bihar,2004,Rabi       ,Maize,192685,596181,3.094070633
+Bihar,2004,Rabi       ,Masoor,178768,127032,0.710596975
+Bihar,2004,Rabi       ,Wheat,2027643,3263385,1.609447521
+Bihar,2005,Kharif     ,Arhar/Tur,34204,45211,1.321804467
+Bihar,2005,Kharif     ,Bajra,4338,4591,1.058321807
+Bihar,2005,Kharif     ,Groundnut,911,450,0.493962678
+Bihar,2005,Kharif     ,Maize,276983,456105,1.646689508
+Bihar,2005,Kharif     ,Moong(Green Gram),8247,4898,0.593912938
+Bihar,2005,Kharif     ,Ragi,14237,12825,0.900821802
+Bihar,2005,Kharif     ,Sunflower,22713,30541,1.344648439
+Bihar,2005,Rabi       ,Maize,212073,637203,3.004639912
+Bihar,2005,Rabi       ,Masoor,159358,117763,0.738983923
+Bihar,2005,Rabi       ,Wheat,2001771,2821120,1.409312054
+Bihar,2006,Kharif     ,Arhar/Tur,35631,44278,1.242681934
+Bihar,2006,Kharif     ,Bajra,4106,4417,1.075742815
+Bihar,2006,Kharif     ,Maize,259494,397591,1.532178008
+Bihar,2006,Kharif     ,Moong(Green Gram),6987,4067,0.582081008
+Bihar,2006,Kharif     ,Ragi,14328,12452,0.86906756
+Bihar,2006,Rabi       ,Maize,206084,744274,3.611507929
+Bihar,2006,Rabi       ,Masoor,167871,121853,0.725872843
+Bihar,2006,Rabi       ,Sunflower,22828,30506,1.336341335
+Bihar,2006,Rabi       ,Wheat,2076727,4155541,2.001004947
+Bihar,2007,Kharif     ,Arhar/Tur,30860,42667,1.382598833
+Bihar,2007,Kharif     ,Bajra,3497,3856,1.102659422
+Bihar,2007,Kharif     ,Groundnut,1207,868,0.71913836
+Bihar,2007,Kharif     ,Moong(Green Gram),8834,5358,0.606520263
+Bihar,2007,Kharif     ,Ragi,13222,7996,0.60474966
+Bihar,2007,Rabi       ,Maize,214521,858245,4.000750509
+Bihar,2007,Rabi       ,Masoor,158487,126134,0.795863383
+Bihar,2007,Rabi       ,Sunflower,22052,30646,1.389715219
+Bihar,2007,Rabi       ,Wheat,2131232,4977463,2.335486235
+Bihar,2008,Kharif     ,Arhar/Tur,28141,33149,1.177960982
+Bihar,2008,Kharif     ,Bajra,2960,3547,1.198310811
+Bihar,2008,Kharif     ,Groundnut,1734,857,0.494232987
+Bihar,2008,Kharif     ,Moong(Green Gram),8587,5609,0.653196693
+Bihar,2008,Kharif     ,Potato,60334,452453,7.499138131
+Bihar,2008,Kharif     ,Ragi,11435,9296,0.81294272
+Bihar,2008,Rabi       ,Maize,206266,726382,3.521578932
+Bihar,2008,Rabi       ,Masoor,163773,132948,0.811782162
+Bihar,2008,Rabi       ,Potato,91591,488043,5.328503892
+Bihar,2008,Rabi       ,Sunflower,22052,30646,1.389715219
+Bihar,2008,Rabi       ,Wheat,2158345,4413017,2.044630029
+Bihar,2009,Kharif     ,Arhar/Tur,27032,36586,1.353432968
+Bihar,2009,Kharif     ,Bajra,2951,3279,1.111148763
+Bihar,2009,Kharif     ,Moong(Green Gram),8351,5537,0.663034367
+Bihar,2009,Kharif     ,Ragi,10024,8062,0.804269753
+Bihar,2009,Rabi       ,Maize,209236,544140,2.600604103
+Bihar,2009,Rabi       ,Masoor,178162,159184,0.893478969
+Bihar,2009,Rabi       ,Sunflower,18203,25575,1.404988189
+Bihar,2009,Rabi       ,Wheat,2116098,4403841,2.081113918
+Bihar,2010,Kharif     ,Arhar/Tur,25503,39439,1.546445516
+Bihar,2010,Kharif     ,Bajra,4851,5424,1.118119975
+Bihar,2010,Kharif     ,Groundnut,362,371,1.024861878
+Bihar,2010,Kharif     ,Moong(Green Gram),9298,6080,0.653904065
+Bihar,2010,Kharif     ,Ragi,9014,8853,0.982138895
+Bihar,2010,Rabi       ,Maize,237723,922285,3.879662464
+Bihar,2010,Rabi       ,Masoor,172692,162224,0.939383411
+Bihar,2010,Rabi       ,Sunflower,17424,24986,1.433999082
+Bihar,2010,Rabi       ,Wheat,2100181,5094030,2.425519515
+Chhattisgarh,2000,Kharif     ,Arhar/Tur,49383,21185,0.428993783
+Chhattisgarh,2000,Kharif     ,Bajra,78,31,0.397435897
+Chhattisgarh,2000,Kharif     ,Groundnut,34187,31965,0.935004534
+Chhattisgarh,2000,Kharif     ,Maize,93364,125668,1.3460006
+Chhattisgarh,2000,Kharif     ,Moong(Green Gram),9836,2639,0.268300122
+Chhattisgarh,2000,Kharif     ,Ragi,11183,2630,0.235178396
+Chhattisgarh,2000,Kharif     ,Rice,3769746,2369295,0.628502557
+Chhattisgarh,2000,Kharif     ,Soyabean,12662,6926,0.546990997
+Chhattisgarh,2000,Kharif     ,Sunflower,1235,513,0.415384615
+Chhattisgarh,2000,Rabi       ,Masoor,12614,3418,0.270968765
+Chhattisgarh,2000,Rabi       ,Moong(Green Gram),4327,940,0.217240582
+Chhattisgarh,2000,Rabi       ,Wheat,77844,79488,1.021119161
+Chhattisgarh,2001,Kharif     ,Arhar/Tur,50323,20180,0.401009479
+Chhattisgarh,2001,Kharif     ,Bajra,80,36,0.45
+Chhattisgarh,2001,Kharif     ,Groundnut,33804,41748,1.235001775
+Chhattisgarh,2001,Kharif     ,Maize,93820,69708,0.742997229
+Chhattisgarh,2001,Kharif     ,Moong(Green Gram),9669,2887,0.298583101
+Chhattisgarh,2001,Kharif     ,Ragi,10860,3210,0.29558011
+Chhattisgarh,2001,Kharif     ,Rice,3810112,5073721,1.331646156
+Chhattisgarh,2001,Kharif     ,Soyabean,10622,8162,0.768405197
+Chhattisgarh,2001,Kharif     ,Sunflower,2885,1184,0.410398614
+Chhattisgarh,2001,Rabi       ,Masoor,15946,5162,0.323717547
+Chhattisgarh,2001,Rabi       ,Moong(Green Gram),5558,1536,0.276358402
+Chhattisgarh,2001,Rabi       ,Wheat,97861,103480,1.057418175
+Chhattisgarh,2002,Kharif     ,Arhar/Tur,55718,24126,0.433001902
+Chhattisgarh,2002,Kharif     ,Bajra,66,26,0.393939394
+Chhattisgarh,2002,Kharif     ,Groundnut,34349,38127,1.109988646
+Chhattisgarh,2002,Kharif     ,Maize,93955,122611,1.304997073
+Chhattisgarh,2002,Kharif     ,Moong(Green Gram),9625,2253,0.234077922
+Chhattisgarh,2002,Kharif     ,Ragi,10523,2184,0.207545377
+Chhattisgarh,2002,Kharif     ,Rice,3777661,2634853,0.697482649
+Chhattisgarh,2002,Kharif     ,Soyabean,15155,8335,0.549983504
+Chhattisgarh,2002,Kharif     ,Sunflower,2591,996,0.384407565
+Chhattisgarh,2002,Rabi       ,Masoor,14999,4634,0.30895393
+Chhattisgarh,2002,Rabi       ,Moong(Green Gram),6822,1698,0.248900616
+Chhattisgarh,2002,Rabi       ,Wheat,93846,98592,1.050572214
+Chhattisgarh,2003,Kharif     ,Arhar/Tur,52307,31541,0.602997687
+Chhattisgarh,2003,Kharif     ,Bajra,47,19,0.404255319
+Chhattisgarh,2003,Kharif     ,Groundnut,36318,40240,1.107990528
+Chhattisgarh,2003,Kharif     ,Maize,98575,135048,1.370002536
+Chhattisgarh,2003,Kharif     ,Moong(Green Gram),9804,2713,0.276723786
+Chhattisgarh,2003,Kharif     ,Ragi,10647,3109,0.292007138
+Chhattisgarh,2003,Kharif     ,Rice,3828992,5567644,1.454075642
+Chhattisgarh,2003,Kharif     ,Soyabean,20835,18376,0.881977442
+Chhattisgarh,2003,Kharif     ,Sunflower,6092,2076,0.340774787
+Chhattisgarh,2003,Rabi       ,Masoor,18024,6163,0.341932978
+Chhattisgarh,2003,Rabi       ,Moong(Green Gram),8197,2081,0.253873368
+Chhattisgarh,2003,Rabi       ,Wheat,106109,113138,1.066243203
+Chhattisgarh,2004,Kharif     ,Arhar/Tur,52499,26879,0.511990705
+Chhattisgarh,2004,Kharif     ,Bajra,49,17,0.346938776
+Chhattisgarh,2004,Kharif     ,Groundnut,34086,38108,1.117995658
+Chhattisgarh,2004,Kharif     ,Maize,97851,139927,1.430000715
+Chhattisgarh,2004,Kharif     ,Moong(Green Gram),9939,2554,0.256967502
+Chhattisgarh,2004,Kharif     ,Ragi,10108,2665,0.263652552
+Chhattisgarh,2004,Kharif     ,Rice,3843825,4586818,1.19329522
+Chhattisgarh,2004,Kharif     ,Soyabean,32336,30978,0.958003464
+Chhattisgarh,2004,Kharif     ,Sunflower,5607,1985,0.354021759
+Chhattisgarh,2004,Rabi       ,Masoor,18880,4878,0.258368644
+Chhattisgarh,2004,Rabi       ,Moong(Green Gram),6428,1334,0.207529558
+Chhattisgarh,2004,Rabi       ,Wheat,99245,85215,0.858632677
+Chhattisgarh,2005,Kharif     ,Arhar/Tur,50719,22470,0.44302924
+Chhattisgarh,2005,Kharif     ,Bajra,81,31,0.382716049
+Chhattisgarh,2005,Kharif     ,Groundnut,32816,35525,1.082551195
+Chhattisgarh,2005,Kharif     ,Maize,101587,109598,1.078858515
+Chhattisgarh,2005,Kharif     ,Moong(Green Gram),10068,2745,0.272646007
+Chhattisgarh,2005,Kharif     ,Rice,3854352,5267537,1.366646585
+Chhattisgarh,2005,Kharif     ,Soyabean,46785,41879,0.89513733
+Chhattisgarh,2005,Kharif     ,Sunflower,7795,2857,0.366516998
+Chhattisgarh,2005,Rabi       ,Masoor,18857,6820,0.361669407
+Chhattisgarh,2005,Rabi       ,Moong(Green Gram),6999,1576,0.225175025
+Chhattisgarh,2005,Rabi       ,Wheat,97074,85191,0.877588232
+Chhattisgarh,2006,Kharif     ,Arhar/Tur,53835,22890,0.425188075
+Chhattisgarh,2006,Kharif     ,Bajra,71,34,0.478873239
+Chhattisgarh,2006,Kharif     ,Groundnut,33083,37698,1.139497627
+Chhattisgarh,2006,Kharif     ,Maize,100145,123489,1.233102002
+Chhattisgarh,2006,Kharif     ,Moong(Green Gram),9516,2699,0.283627575
+Chhattisgarh,2006,Kharif     ,Potato,1781,7189,4.03649635
+Chhattisgarh,2006,Kharif     ,Ragi,9296,2576,0.277108434
+Chhattisgarh,2006,Kharif     ,Rice,3905319,5441525,1.393362488
+Chhattisgarh,2006,Kharif     ,Soyabean,64474,64166,0.995222881
+Chhattisgarh,2006,Kharif     ,Sunflower,6493,2724,0.419528723
+Chhattisgarh,2006,Rabi       ,Masoor,16871,5490,0.325410468
+Chhattisgarh,2006,Rabi       ,Moong(Green Gram),6971,1635,0.234543107
+Chhattisgarh,2006,Rabi       ,Potato,9513,37815,3.975086723
+Chhattisgarh,2006,Rabi       ,Wheat,93213,93952,1.007928079
+Chhattisgarh,2007,Kharif     ,Arhar/Tur,50376,26282,0.52171669
+Chhattisgarh,2007,Kharif     ,Bajra,68,31,0.455882353
+Chhattisgarh,2007,Kharif     ,Groundnut,31653,39994,1.263513727
+Chhattisgarh,2007,Kharif     ,Maize,100591,157130,1.562068177
+Chhattisgarh,2007,Kharif     ,Moong(Green Gram),9211,2615,0.283899685
+Chhattisgarh,2007,Kharif     ,Potato,1910,8060,4.219895288
+Chhattisgarh,2007,Kharif     ,Ragi,9338,2596,0.278003855
+Chhattisgarh,2007,Kharif     ,Rice,3902881,5634972,1.443798056
+Chhattisgarh,2007,Kharif     ,Soyabean,72379,83611,1.155183133
+Chhattisgarh,2007,Kharif     ,Sunflower,6227,2192,0.352015417
+Chhattisgarh,2007,Rabi       ,Masoor,16758,5580,0.332975295
+Chhattisgarh,2007,Rabi       ,Moong(Green Gram),6937,1627,0.234539426
+Chhattisgarh,2007,Rabi       ,Potato,9653,40677,4.213923133
+Chhattisgarh,2007,Rabi       ,Wheat,95020,104548,1.100273627
+Chhattisgarh,2008,Kharif     ,Arhar/Tur,49185,28660,0.582697977
+Chhattisgarh,2008,Kharif     ,Bajra,121,48,0.396694215
+Chhattisgarh,2008,Kharif     ,Groundnut,30047,37747,1.256265185
+Chhattisgarh,2008,Kharif     ,Maize,99375,139844,1.40723522
+Chhattisgarh,2008,Kharif     ,Moong(Green Gram),9230,2423,0.262513543
+Chhattisgarh,2008,Kharif     ,Potato,690,2668,3.866666667
+Chhattisgarh,2008,Kharif     ,Ragi,9084,2550,0.280713342
+Chhattisgarh,2008,Kharif     ,Rice,3928815,4707499,1.198198184
+Chhattisgarh,2008,Kharif     ,Soyabean,81764,79859,0.976701238
+Chhattisgarh,2008,Kharif     ,Sunflower,4550,1875,0.412087912
+Chhattisgarh,2008,Rabi       ,Masoor,15349,4997,0.325558668
+Chhattisgarh,2008,Rabi       ,Moong(Green Gram),6972,1559,0.223608721
+Chhattisgarh,2008,Rabi       ,Potato,10093,42582,4.218963638
+Chhattisgarh,2008,Rabi       ,Wheat,94834,97424,1.02731088
+Chhattisgarh,2009,Kharif     ,Arhar/Tur,52999,27610,0.520953226
+Chhattisgarh,2009,Kharif     ,Bajra,70,20,0.285714286
+Chhattisgarh,2009,Kharif     ,Groundnut,30615,45057,1.471729544
+Chhattisgarh,2009,Kharif     ,Maize,101721,145368,1.42908544
+Chhattisgarh,2009,Kharif     ,Moong(Green Gram),9429,2343,0.248488705
+Chhattisgarh,2009,Kharif     ,Ragi,8889,2202,0.247721903
+Chhattisgarh,2009,Kharif     ,Rice,3837610,4347316,1.132818603
+Chhattisgarh,2009,Kharif     ,Soyabean,83734,77837,0.929574605
+Chhattisgarh,2009,Kharif     ,Sunflower,4523,589,0.130223303
+Chhattisgarh,2009,Rabi       ,Masoor,15654,4797,0.306439249
+Chhattisgarh,2009,Rabi       ,Moong(Green Gram),7089,1597,0.225278601
+Chhattisgarh,2009,Rabi       ,Wheat,109163,118923,1.089407583
+Chhattisgarh,2010,Kharif     ,Arhar/Tur,54465,23901,0.438832278
+Chhattisgarh,2010,Kharif     ,Bajra,76,37,0.486842105
+Chhattisgarh,2010,Kharif     ,Groundnut,29584,37349,1.262472958
+Chhattisgarh,2010,Kharif     ,Maize,104861,190489,1.816585766
+Chhattisgarh,2010,Kharif     ,Moong(Green Gram),9155,2648,0.289240852
+Chhattisgarh,2010,Kharif     ,Ragi,8063,2243,0.278184299
+Chhattisgarh,2010,Kharif     ,Rice,3937796,6637737,1.685647758
+Chhattisgarh,2010,Kharif     ,Soyabean,95758,112391,1.173698281
+Chhattisgarh,2010,Kharif     ,Sunflower,4056,1326,0.326923077
+Chhattisgarh,2010,Rabi       ,Masoor,16094,5025,0.31222816
+Chhattisgarh,2010,Rabi       ,Moong(Green Gram),7116,1607,0.225829117
+Chhattisgarh,2010,Rabi       ,Wheat,103701,121745,1.174000251
+Gujarat,2000,Kharif     ,Arhar/Tur,317900,107200,0.33721296
+Gujarat,2000,Kharif     ,Bajra,847200,550900,0.650259679
+Gujarat,2000,Kharif     ,Groundnut,1712200,629600,0.367714052
+Gujarat,2000,Kharif     ,Maize,382900,288500,0.753460434
+Gujarat,2000,Kharif     ,Moong(Green Gram),149500,38200,0.255518395
+Gujarat,2000,Kharif     ,Ragi,19600,14000,0.714285714
+Gujarat,2000,Kharif     ,Rice,583500,472600,0.809940017
+Gujarat,2000,Rabi       ,Wheat,286100,649000,2.268437609
+Gujarat,2001,Kharif     ,Arhar/Tur,332300,187000,0.562744508
+Gujarat,2001,Kharif     ,Bajra,799900,1008800,1.261157645
+Gujarat,2001,Kharif     ,Groundnut,1850700,2592100,1.400605176
+Gujarat,2001,Kharif     ,Maize,443500,884600,1.994588501
+Gujarat,2001,Kharif     ,Moong(Green Gram),168400,76700,0.455463183
+Gujarat,2001,Kharif     ,Ragi,21000,21500,1.023809524
+Gujarat,2001,Kharif     ,Rice,664000,1028700,1.549246988
+Gujarat,2001,Rabi       ,Wheat,470100,1144700,2.435013827
+Gujarat,2002,Kharif     ,Arhar/Tur,313000,197100,0.62971246
+Gujarat,2002,Kharif     ,Bajra,798100,677700,0.849141712
+Gujarat,2002,Kharif     ,Groundnut,1972600,1001300,0.507604177
+Gujarat,2002,Kharif     ,Maize,464500,792600,1.706350915
+Gujarat,2002,Kharif     ,Moong(Green Gram),140200,32300,0.230385164
+Gujarat,2002,Kharif     ,Ragi,24600,15900,0.646341463
+Gujarat,2002,Kharif     ,Rice,469000,541700,1.155010661
+Gujarat,2002,Rabi       ,Wheat,435600,856600,1.966483012
+Gujarat,2003,Kharif     ,Arhar/Tur,296700,258000,0.869565217
+Gujarat,2003,Kharif     ,Bajra,900700,1234300,1.370378594
+Gujarat,2003,Kharif     ,Groundnut,1912800,4336500,2.267095358
+Gujarat,2003,Kharif     ,Maize,484400,831900,1.717382329
+Gujarat,2003,Kharif     ,Moong(Green Gram),206800,121200,0.586073501
+Gujarat,2003,Kharif     ,Ragi,20800,24000,1.153846154
+Gujarat,2003,Kharif     ,Rice,651400,1193200,1.831747006
+Gujarat,2003,Rabi       ,Wheat,759500,2036500,2.681369322
+Gujarat,2004,Kharif     ,Arhar/Tur,254400,236000,0.927672956
+Gujarat,2004,Kharif     ,Bajra,770100,785900,1.020516816
+Gujarat,2004,Kharif     ,Groundnut,1924500,1705500,0.886204209
+Gujarat,2004,Kharif     ,Maize,459500,412500,0.897714908
+Gujarat,2004,Kharif     ,Moong(Green Gram),173100,71700,0.414211438
+Gujarat,2004,Kharif     ,Ragi,24300,25800,1.061728395
+Gujarat,2004,Kharif     ,Rice,665600,1157300,1.738731971
+Gujarat,2004,Rabi       ,Wheat,727400,1805500,2.482128128
+Gujarat,2005,Kharif     ,Arhar/Tur,263700,276000,1.046643914
+Gujarat,2005,Kharif     ,Bajra,781600,831300,1.063587513
+Gujarat,2005,Kharif     ,Groundnut,1851900,3204900,1.730601004
+Gujarat,2005,Kharif     ,Maize,456900,722400,1.581089954
+Gujarat,2005,Kharif     ,Moong(Green Gram),153700,92400,0.601171113
+Gujarat,2005,Kharif     ,Ragi,21700,23200,1.069124424
+Gujarat,2005,Kharif     ,Rice,648300,1209300,1.86534012
+Gujarat,2005,Rabi       ,Wheat,858800,2319200,2.700512343
+Gujarat,2006,Kharif     ,Arhar/Tur,256800,215300,0.838395639
+Gujarat,2006,Kharif     ,Bajra,742300,528400,0.711841573
+Gujarat,2006,Kharif     ,Groundnut,1752400,1675800,0.956288519
+Gujarat,2006,Kharif     ,Maize,447700,201700,0.450524905
+Gujarat,2006,Kharif     ,Moong(Green Gram),193200,67000,0.34679089
+Gujarat,2006,Kharif     ,Ragi,20400,20500,1.004901961
+Gujarat,2006,Kharif     ,Rice,655600,1045200,1.594264796
+Gujarat,2006,Rabi       ,Wheat,1072300,2791500,2.603282663
+Gujarat,2007,Kharif     ,Arhar/Tur,265100,294200,1.109769898
+Gujarat,2007,Kharif     ,Bajra,728200,851700,1.169596265
+Gujarat,2007,Kharif     ,Groundnut,1712400,3049200,1.780658725
+Gujarat,2007,Kharif     ,Maize,424000,583100,1.375235849
+Gujarat,2007,Kharif     ,Moong(Green Gram),209400,114400,0.546322827
+Gujarat,2007,Kharif     ,Ragi,21700,18200,0.838709677
+Gujarat,2007,Kharif     ,Rice,726000,1376300,1.895730028
+Gujarat,2007,Rabi       ,Wheat,1273900,3837700,3.012559856
+Gujarat,2008,Kharif     ,Arhar/Tur,266100,262700,0.987222849
+Gujarat,2008,Kharif     ,Bajra,528700,535200,1.012294307
+Gujarat,2008,Kharif     ,Groundnut,1795400,2456000,1.367940292
+Gujarat,2008,Kharif     ,Maize,418900,602600,1.438529482
+Gujarat,2008,Kharif     ,Moong(Green Gram),162000,70100,0.432716049
+Gujarat,2008,Kharif     ,Ragi,19400,20000,1.030927835
+Gujarat,2008,Kharif     ,Rice,722100,1225500,1.697133361
+Gujarat,2008,Kharif     ,Tobacco,49200,70100,1.424796748
+Gujarat,2008,Rabi       ,Onion,54400,1502800,27.625
+Gujarat,2008,Rabi       ,Wheat,1091400,2592600,2.375481034
+Gujarat,2009,Kharif     ,Arhar/Tur,266600,241500,0.905851463
+Gujarat,2009,Kharif     ,Bajra,498800,432400,0.866880513
+Gujarat,2009,Kharif     ,Groundnut,1757600,1633200,0.929221666
+Gujarat,2009,Kharif     ,Maize,411700,396600,0.963322808
+Gujarat,2009,Kharif     ,Moong(Green Gram),165500,59700,0.360725076
+Gujarat,2009,Kharif     ,Ragi,14700,11000,0.74829932
+Gujarat,2009,Kharif     ,Rice,658500,1228400,1.865451784
+Gujarat,2009,Kharif     ,Tobacco,62800,101500,1.616242038
+Gujarat,2009,Rabi       ,Onion,38500,1051400,27.30909091
+Gujarat,2009,Rabi       ,Tobacco,62800,101500,1.616242038
+Gujarat,2009,Rabi       ,Wheat,878000,2351300,2.678018223
+Gujarat,2010,Kharif     ,Arhar/Tur,276700,272900,0.986266715
+Gujarat,2010,Kharif     ,Bajra,489500,559200,1.142390194
+Gujarat,2010,Kharif     ,Groundnut,1691200,3159100,1.867963576
+Gujarat,2010,Kharif     ,Maize,422500,692100,1.638106509
+Gujarat,2010,Kharif     ,Moong(Green Gram),177400,89200,0.502818489
+Gujarat,2010,Kharif     ,Ragi,20000,13900,0.695
+Gujarat,2010,Kharif     ,Rice,728300,1423800,1.954963614
+Gujarat,2010,Kharif     ,Soyabean,84000,68100,0.810714286
+Gujarat,2010,Kharif     ,Tobacco,59900,104500,1.74457429
+Gujarat,2010,Rabi       ,Maize,110000,220000,2
+Gujarat,2010,Rabi       ,Tobacco,88000,176000,2
+Gujarat,2010,Rabi       ,Wheat,1588600,5013400,3.155860506
+Haryana,2000,Kharif     ,Arhar/Tur,14482,11400,0.787184091
+Haryana,2000,Kharif     ,Bajra,608321,656000,1.078378027
+Haryana,2000,Kharif     ,Groundnut,340,200,0.588235294
+Haryana,2000,Kharif     ,Maize,15429,34000,2.203642491
+Haryana,2000,Kharif     ,Moong(Green Gram),5331,1200,0.225098481
+Haryana,2000,Kharif     ,Rice,1054282,2695000,2.556242068
+Haryana,2000,Rabi       ,Masoor,6493,5200,0.800862467
+Haryana,2000,Rabi       ,Sunflower,1254,1500,1.196172249
+Haryana,2000,Rabi       ,Wheat,2354779,9669000,4.106117814
+Haryana,2001,Kharif     ,Arhar/Tur,17903,13900,0.776406189
+Haryana,2001,Kharif     ,Bajra,585474,832000,1.421070791
+Haryana,2001,Kharif     ,Groundnut,485,300,0.618556701
+Haryana,2001,Kharif     ,Maize,17944,47000,2.61925992
+Haryana,2001,Kharif     ,Moong(Green Gram),13620,3100,0.227606461
+Haryana,2001,Kharif     ,Rice,1027505,2726000,2.653028452
+Haryana,2001,Rabi       ,Masoor,9325,7500,0.804289544
+Haryana,2001,Rabi       ,Sunflower,2581,3700,1.433552886
+Haryana,2001,Rabi       ,Wheat,2299876,9437000,4.103264698
+Haryana,2002,Kharif     ,Arhar/Tur,36972,30400,0.82224386
+Haryana,2002,Kharif     ,Bajra,513720,458000,0.891536245
+Haryana,2002,Kharif     ,Groundnut,2512,1900,0.756369427
+Haryana,2002,Kharif     ,Maize,15886,29000,1.825506735
+Haryana,2002,Kharif     ,Moong(Green Gram),18329,2800,0.15276338
+Haryana,2002,Kharif     ,Rice,905651,2468000,2.72511155
+Haryana,2002,Rabi       ,Masoor,6028,5400,0.895819509
+Haryana,2002,Rabi       ,Sunflower,1872,2800,1.495726496
+Haryana,2002,Rabi       ,Wheat,2267140,9188000,4.052683116
+Haryana,2003,Kharif     ,Arhar/Tur,25807,31000,1.201224474
+Haryana,2003,Kharif     ,Bajra,624513,886300,1.41918583
+Haryana,2003,Kharif     ,Groundnut,1538,1100,0.715214564
+Haryana,2003,Kharif     ,Maize,16570,41000,2.474351237
+Haryana,2003,Kharif     ,Moong(Green Gram),25215,4000,0.158635733
+Haryana,2003,Kharif     ,Rice,1015191,2790000,2.748251314
+Haryana,2003,Rabi       ,Masoor,6264,5100,0.814176245
+Haryana,2003,Rabi       ,Sunflower,5785,9700,1.676750216
+Haryana,2003,Rabi       ,Wheat,2315496,9114000,3.936089719
+Haryana,2004,Kharif     ,Arhar/Tur,28860,30100,1.042966043
+Haryana,2004,Kharif     ,Bajra,565313,746000,1.319622935
+Haryana,2004,Kharif     ,Groundnut,2071,1500,0.724287784
+Haryana,2004,Kharif     ,Maize,15768,39000,2.473363775
+Haryana,2004,Kharif     ,Moong(Green Gram),16039,6100,0.380322963
+Haryana,2004,Kharif     ,Rice,1024236,3010000,2.938775829
+Haryana,2004,Rabi       ,Masoor,5911,4700,0.795127728
+Haryana,2004,Rabi       ,Sunflower,5334,9200,1.724784402
+Haryana,2004,Rabi       ,Wheat,2316674,9043000,3.903440881
+Haryana,2005,Kharif     ,Arhar/Tur,30067,24400,0.811520937
+Haryana,2005,Kharif     ,Bajra,631660,706000,1.117689896
+Haryana,2005,Kharif     ,Groundnut,3784,2900,0.766384778
+Haryana,2005,Kharif     ,Maize,17469,36000,2.060793405
+Haryana,2005,Kharif     ,Moong(Green Gram),17866,7700,0.430986231
+Haryana,2005,Kharif     ,Rice,1046588,3194000,3.051821729
+Haryana,2005,Rabi       ,Masoor,5205,3900,0.749279539
+Haryana,2005,Rabi       ,Sunflower,14504,25000,1.723662438
+Haryana,2005,Rabi       ,Wheat,2302682,8502000,3.692216294
+Haryana,2006,Kharif     ,Arhar/Tur,27412,29800,1.087115132
+Haryana,2006,Kharif     ,Bajra,618985,1021000,1.649474543
+Haryana,2006,Kharif     ,Groundnut,1654,1300,0.785973398
+Haryana,2006,Kharif     ,Maize,13412,30000,2.236802863
+Haryana,2006,Kharif     ,Moong(Green Gram),21380,9300,0.434985968
+Haryana,2006,Kharif     ,Rice,1042036,3371000,3.235012994
+Haryana,2006,Rabi       ,Masoor,4461,3500,0.784577449
+Haryana,2006,Rabi       ,Sunflower,7000,12200,1.742857143
+Haryana,2006,Rabi       ,Wheat,2377067,10059000,4.231685518
+Haryana,2007,Kharif     ,Arhar/Tur,28779,30600,1.063275305
+Haryana,2007,Kharif     ,Bajra,627983,1156000,1.840814162
+Haryana,2007,Kharif     ,Groundnut,1314,1000,0.761035008
+Haryana,2007,Kharif     ,Maize,13777,37000,2.685635479
+Haryana,2007,Kharif     ,Moong(Green Gram),21796,9600,0.440447789
+Haryana,2007,Kharif     ,Rice,1072545,3606000,3.362096695
+Haryana,2007,Rabi       ,Masoor,3430,2600,0.758017493
+Haryana,2007,Rabi       ,Sunflower,8655,16200,1.871750433
+Haryana,2007,Rabi       ,Wheat,2460680,10232000,4.158200172
+Haryana,2008,Kharif     ,Arhar/Tur,33431,35800,1.070862373
+Haryana,2008,Kharif     ,Bajra,612934,1087000,1.773437271
+Haryana,2008,Kharif     ,Groundnut,1544,1400,0.906735751
+Haryana,2008,Kharif     ,Maize,11769,25200,2.141218455
+Haryana,2008,Kharif     ,Moong(Green Gram),14380,6500,0.45201669
+Haryana,2008,Kharif     ,Rice,1211149,3299000,2.72385974
+Haryana,2008,Rabi       ,Masoor,4858,3600,0.741045698
+Haryana,2008,Rabi       ,Sunflower,6544,11800,1.803178484
+Haryana,2008,Rabi       ,Wheat,2461420,11360000,4.615222108
+Haryana,2009,Kharif     ,Arhar/Tur,19853,21600,1.087996776
+Haryana,2009,Kharif     ,Bajra,583809,930000,1.592986747
+Haryana,2009,Kharif     ,Groundnut,1729,1600,0.925390399
+Haryana,2009,Kharif     ,Maize,12199,26000,2.13132224
+Haryana,2009,Kharif     ,Moong(Green Gram),14899,6600,0.442982751
+Haryana,2009,Kharif     ,Rice,1206435,3628000,3.007207185
+Haryana,2009,Rabi       ,Masoor,4646,3600,0.774860095
+Haryana,2009,Rabi       ,Sunflower,6189,11100,1.793504605
+Haryana,2009,Rabi       ,Wheat,2487756,10488000,4.215847535
+Haryana,2010,Kharif     ,Arhar/Tur,21927,23700,1.080859215
+Haryana,2010,Kharif     ,Bajra,659592,1183000,1.793532972
+Haryana,2010,Kharif     ,Groundnut,2318,2400,1.035375324
+Haryana,2010,Kharif     ,Maize,9662,19000,1.96646657
+Haryana,2010,Kharif     ,Moong(Green Gram),25983,11900,0.457991764
+Haryana,2010,Kharif     ,Rice,1243281,3465000,2.786980578
+Haryana,2010,Kharif     ,Soyabean,2,0,0
+Haryana,2010,Kharif     ,Sunflower,4002,7400,1.849075462
+Haryana,2010,Rabi       ,Masoor,3663,3300,0.900900901
+Haryana,2010,Rabi       ,Wheat,2503963,11578000,4.623870241
+Himachal Pradesh,2000,Kharif     ,Arhar/Tur,272,44,0.161764706
+Himachal Pradesh,2000,Kharif     ,Bajra,116,41,0.353448276
+Himachal Pradesh,2000,Kharif     ,Groundnut,137,82.3,0.600729927
+Himachal Pradesh,2000,Kharif     ,Maize,298052,683642,2.293700428
+Himachal Pradesh,2000,Kharif     ,Masoor,993,276,0.277945619
+Himachal Pradesh,2000,Kharif     ,Moong(Green Gram),288,81,0.28125
+Himachal Pradesh,2000,Kharif     ,Rice,81519,124893,1.532072278
+Himachal Pradesh,2000,Kharif     ,Soyabean,649,585,0.901386749
+Himachal Pradesh,2000,Rabi       ,Wheat,362660,261319,0.720561959
+Himachal Pradesh,2001,Kharif     ,Arhar/Tur,1480,339,0.229054054
+Himachal Pradesh,2001,Kharif     ,Bajra,110,57,0.518181818
+Himachal Pradesh,2001,Kharif     ,Groundnut,129,75,0.581395349
+Himachal Pradesh,2001,Kharif     ,Maize,301282,668228,2.217948633
+Himachal Pradesh,2001,Kharif     ,Masoor,751,278,0.370173103
+Himachal Pradesh,2001,Kharif     ,Moong(Green Gram),94,32,0.340425532
+Himachal Pradesh,2001,Kharif     ,Rice,80579,137418,1.705382296
+Himachal Pradesh,2001,Kharif     ,Soyabean,661,725,1.096822995
+Himachal Pradesh,2001,Rabi       ,Wheat,366518,637068,1.738162928
+Himachal Pradesh,2002,Kharif     ,Arhar/Tur,334,52,0.155688623
+Himachal Pradesh,2002,Kharif     ,Bajra,102,57,0.558823529
+Himachal Pradesh,2002,Kharif     ,Groundnut,194,88,0.453608247
+Himachal Pradesh,2002,Kharif     ,Maize,299801,483333,1.612179412
+Himachal Pradesh,2002,Kharif     ,Masoor,872,359,0.411697248
+Himachal Pradesh,2002,Kharif     ,Moong(Green Gram),394,112,0.284263959
+Himachal Pradesh,2002,Kharif     ,Rice,83273,85653,1.028580692
+Himachal Pradesh,2002,Kharif     ,Soyabean,697,1124,1.612625538
+Himachal Pradesh,2002,Rabi       ,Wheat,359439,495558,1.378698472
+Himachal Pradesh,2003,Kharif     ,Bajra,312,173,0.554487179
+Himachal Pradesh,2003,Kharif     ,Maize,298467,729571,2.444394188
+Himachal Pradesh,2003,Kharif     ,Rice,81335,120624,1.483051577
+Himachal Pradesh,2003,Rabi       ,Wheat,365359,496930,1.360114299
+Himachal Pradesh,2004,Kharif     ,Bajra,281,150,0.533807829
+Himachal Pradesh,2004,Kharif     ,Maize,297887,636294,2.136024734
+Himachal Pradesh,2004,Kharif     ,Rice,79519,109129,1.372363838
+Himachal Pradesh,2004,Rabi       ,Wheat,367770,687452,1.869244365
+Himachal Pradesh,2005,Kharif     ,Arhar/Tur,43,20,0.465116279
+Himachal Pradesh,2005,Kharif     ,Bajra,304,144,0.473684211
+Himachal Pradesh,2005,Kharif     ,Dry chillies,600,130,0.216666667
+Himachal Pradesh,2005,Kharif     ,Groundnut,63,34,0.53968254
+Himachal Pradesh,2005,Kharif     ,Maize,295351,543061,1.838697008
+Himachal Pradesh,2005,Kharif     ,Moong(Green Gram),381,159,0.417322835
+Himachal Pradesh,2005,Kharif     ,Ragi,3323,3409,1.025880229
+Himachal Pradesh,2005,Kharif     ,Rice,79366,112139,1.41293501
+Himachal Pradesh,2005,Kharif     ,Soyabean,580,820,1.413793103
+Himachal Pradesh,2005,Kharif     ,Turmeric,147,89,0.605442177
+Himachal Pradesh,2005,Rabi       ,Garlic,2986,1965,0.658070998
+Himachal Pradesh,2005,Rabi       ,Masoor,738,141,0.191056911
+Himachal Pradesh,2005,Rabi       ,Onion,829,4045,4.879372738
+Himachal Pradesh,2005,Rabi       ,Wheat,358453,365885,1.020733541
+Himachal Pradesh,2006,Kharif     ,Arhar/Tur,150,51,0.34
+Himachal Pradesh,2006,Kharif     ,Bajra,360,181,0.502777778
+Himachal Pradesh,2006,Kharif     ,Dry chillies,623,158,0.253611557
+Himachal Pradesh,2006,Kharif     ,Groundnut,105,80,0.761904762
+Himachal Pradesh,2006,Kharif     ,Maize,299037,695376,2.325384484
+Himachal Pradesh,2006,Kharif     ,Moong(Green Gram),452,202,0.446902655
+Himachal Pradesh,2006,Kharif     ,Ragi,2950,3158,1.070508475
+Himachal Pradesh,2006,Kharif     ,Rice,79206,123485,1.559035932
+Himachal Pradesh,2006,Kharif     ,Soyabean,638,1073,1.681818182
+Himachal Pradesh,2006,Kharif     ,Turmeric,187,99,0.529411765
+Himachal Pradesh,2006,Rabi       ,Garlic,2932,2490,0.849249659
+Himachal Pradesh,2006,Rabi       ,Masoor,727,397,0.54607978
+Himachal Pradesh,2006,Rabi       ,Onion,893,7617,8.529675252
+Himachal Pradesh,2006,Rabi       ,Wheat,362245,596493,1.646656269
+Himachal Pradesh,2007,Kharif     ,Arhar/Tur,49,17,0.346938776
+Himachal Pradesh,2007,Kharif     ,Dry chillies,669,254,0.379671151
+Himachal Pradesh,2007,Kharif     ,Groundnut,97,94,0.969072165
+Himachal Pradesh,2007,Kharif     ,Maize,300150,682615,2.27424621
+Himachal Pradesh,2007,Kharif     ,Masoor,607,352,0.579901153
+Himachal Pradesh,2007,Kharif     ,Moong(Green Gram),685,324,0.472992701
+Himachal Pradesh,2007,Kharif     ,Potato,13583,123839,9.11720533
+Himachal Pradesh,2007,Kharif     ,Ragi,1845,2489,1.349051491
+Himachal Pradesh,2007,Kharif     ,Rice,78571,121453,1.545773886
+Himachal Pradesh,2007,Kharif     ,Soyabean,626,1052,1.680511182
+Himachal Pradesh,2007,Kharif     ,Sugarcane,2697,58442,21.66926214
+Himachal Pradesh,2007,Kharif     ,Turmeric,142,72,0.507042254
+Himachal Pradesh,2007,Rabi       ,Garlic,4299,5486,1.276110723
+Himachal Pradesh,2007,Rabi       ,Onion,823,7036,8.549210207
+Himachal Pradesh,2007,Rabi       ,Wheat,366592,504360,1.375807437
+Himachal Pradesh,2008,Kharif     ,Arhar/Tur,15,2,0.133333333
+Himachal Pradesh,2008,Kharif     ,Bajra,203,113,0.556650246
+Himachal Pradesh,2008,Kharif     ,Dry chillies,640,199,0.3109375
+Himachal Pradesh,2008,Kharif     ,Groundnut,81,66,0.814814815
+Himachal Pradesh,2008,Kharif     ,Maize,297718,676644,2.27276819
+Himachal Pradesh,2008,Kharif     ,Moong(Green Gram),109,45,0.412844037
+Himachal Pradesh,2008,Kharif     ,Potato,7954,78928,9.923057581
+Himachal Pradesh,2008,Kharif     ,Ragi,2273,2442,1.074351078
+Himachal Pradesh,2008,Kharif     ,Rice,77709,118277,1.522050213
+Himachal Pradesh,2008,Kharif     ,Soyabean,738,1235,1.673441734
+Himachal Pradesh,2008,Kharif     ,Sugarcane,2338,53068,22.69803251
+Himachal Pradesh,2008,Kharif     ,Turmeric,208,110,0.528846154
+Himachal Pradesh,2008,Rabi       ,Garlic,4036,1246,0.308721506
+Himachal Pradesh,2008,Rabi       ,Masoor,661,215,0.32526475
+Himachal Pradesh,2008,Rabi       ,Onion,776,4611,5.942010309
+Himachal Pradesh,2008,Rabi       ,Potato,3889,24702,6.351761378
+Himachal Pradesh,2008,Rabi       ,Wheat,359961,381180,1.058948053
+Himachal Pradesh,2010,Kharif     ,Arhar/Tur,9,3,0.333333333
+Himachal Pradesh,2010,Kharif     ,Bajra,208,111,0.533653846
+Himachal Pradesh,2010,Kharif     ,Garlic,3,4,1.333333333
+Himachal Pradesh,2010,Kharif     ,Groundnut,66,49,0.742424242
+Himachal Pradesh,2010,Kharif     ,Maize,296370,670900,2.263724399
+Himachal Pradesh,2010,Kharif     ,Moong(Green Gram),436,205,0.470183486
+Himachal Pradesh,2010,Kharif     ,Potato,7258,61107,8.419261505
+Himachal Pradesh,2010,Kharif     ,Ragi,2321,2110,0.909090909
+Himachal Pradesh,2010,Kharif     ,Rice,77064,128917,1.672856327
+Himachal Pradesh,2010,Kharif     ,Soyabean,584,836,1.431506849
+Himachal Pradesh,2010,Rabi       ,Garlic,1458,1601,1.098079561
+Himachal Pradesh,2010,Rabi       ,Masoor,606,353,0.582508251
+Himachal Pradesh,2010,Rabi       ,Onion,831,7494,9.018050542
+Himachal Pradesh,2010,Rabi       ,Potato,3823,31098,8.134449385
+Himachal Pradesh,2010,Rabi       ,Wheat,357244,614891,1.721207354
+Karnataka,2000,Kharif     ,Arhar/Tur,582763,263533,0.452212992
+Karnataka,2000,Kharif     ,Bajra,461048,340498,0.738530478
+Karnataka,2000,Kharif     ,Groundnut,883611,881807,0.997958378
+Karnataka,2000,Kharif     ,Maize,599893,1961879,3.270381551
+Karnataka,2000,Kharif     ,Moong(Green Gram),435355,180709,0.415084242
+Karnataka,2000,Kharif     ,Ragi,983456,1788947,1.819041218
+Karnataka,2000,Kharif     ,Rice,1120549,2792657,2.492222116
+Karnataka,2000,Kharif     ,Soyabean,62553,65266,1.043371221
+Karnataka,2000,Kharif     ,Sunflower,188140,100627.1,0.534852238
+Karnataka,2000,Rabi       ,Bajra,160,129,0.80625
+Karnataka,2000,Rabi       ,Groundnut,179804,199299,1.108423617
+Karnataka,2000,Rabi       ,Maize,57797,142674,2.468536429
+Karnataka,2000,Rabi       ,Moong(Green Gram),15474,4147,0.267997932
+Karnataka,2000,Rabi       ,Ragi,28464,25009,0.878618606
+Karnataka,2000,Rabi       ,Rice,52005,106335,2.04470724
+Karnataka,2000,Rabi       ,Sunflower,261152,110005,0.421229782
+Karnataka,2000,Rabi       ,Wheat,266310,249880,0.938304983
+Karnataka,2001,Kharif     ,Arhar/Tur,482100,147437,0.305822443
+Karnataka,2001,Kharif     ,Bajra,208213,111091,0.533544976
+Karnataka,2001,Kharif     ,Groundnut,854741,585707,0.685245004
+Karnataka,2001,Kharif     ,Maize,505574,1274858,2.521605146
+Karnataka,2001,Kharif     ,Moong(Green Gram),251332,65336,0.259958939
+Karnataka,2001,Kharif     ,Ragi,903752,1478594,1.636061663
+Karnataka,2001,Kharif     ,Rice,1087967,2393946,2.200384754
+Karnataka,2001,Kharif     ,Soyabean,48444,40217,0.830175047
+Karnataka,2001,Kharif     ,Sunflower,124184,59516,0.479256587
+Karnataka,2001,Rabi       ,Bajra,442,221,0.5
+Karnataka,2001,Rabi       ,Maize,65189,152769,2.343478194
+Karnataka,2001,Rabi       ,Moong(Green Gram),7111,2090,0.293910842
+Karnataka,2001,Rabi       ,Ragi,40407,46560,1.152275596
+Karnataka,2001,Rabi       ,Rice,53480,99699,1.864229619
+Karnataka,2001,Rabi       ,Sunflower,418198,168890,0.403851764
+Karnataka,2001,Rabi       ,Wheat,260486,198822,0.763273266
+Karnataka,2002,Kharif     ,Arhar/Tur,513749,240665,0.4684486
+Karnataka,2002,Kharif     ,Bajra,303868,119475,0.393180592
+Karnataka,2002,Kharif     ,Groundnut,716940,393733,0.549185427
+Karnataka,2002,Kharif     ,Maize,578711,1165155,2.013362456
+Karnataka,2002,Kharif     ,Moong(Green Gram),402442,26399,0.06559703
+Karnataka,2002,Kharif     ,Ragi,680801,646398,0.949466878
+Karnataka,2002,Kharif     ,Rice,1030464,2103709,2.041516249
+Karnataka,2002,Kharif     ,Soyabean,57543,47760,0.829988009
+Karnataka,2002,Kharif     ,Sunflower,298271,136481,0.457573817
+Karnataka,2002,Rabi       ,Bajra,271,215,0.793357934
+Karnataka,2002,Rabi       ,Groundnut,126977,145254,1.143939454
+Karnataka,2002,Rabi       ,Maize,59503,149203,2.507487017
+Karnataka,2002,Rabi       ,Moong(Green Gram),10484,1831,0.174647081
+Karnataka,2002,Rabi       ,Ragi,79418,60139,0.757246468
+Karnataka,2002,Rabi       ,Rice,50456,102312,2.027746948
+Karnataka,2002,Rabi       ,Sunflower,543248,216128,0.397844079
+Karnataka,2002,Rabi       ,Wheat,246855,147748,0.598521399
+Karnataka,2003,Kharif     ,Arhar/Tur,532251,199627,0.375061766
+Karnataka,2003,Kharif     ,Bajra,318328,191079,0.600258224
+Karnataka,2003,Kharif     ,Groundnut,677779,294577,0.43462102
+Karnataka,2003,Kharif     ,Maize,545546,1066107,1.954201845
+Karnataka,2003,Kharif     ,Moong(Green Gram),264392,39470,0.149285909
+Karnataka,2003,Kharif     ,Ragi,926430,1103578,1.191215742
+Karnataka,2003,Kharif     ,Rice,944272,2100123,2.224065735
+Karnataka,2003,Kharif     ,Soyabean,93904,45255,0.481928352
+Karnataka,2003,Kharif     ,Sunflower,360264,165177,0.458488775
+Karnataka,2003,Rabi       ,Bajra,117,105,0.897435897
+Karnataka,2003,Rabi       ,Groundnut,139464,138901,0.995963116
+Karnataka,2003,Rabi       ,Maize,64199,123529,1.924157697
+Karnataka,2003,Rabi       ,Moong(Green Gram),8380,2451,0.2924821
+Karnataka,2003,Rabi       ,Ragi,65271,13707,0.210001379
+Karnataka,2003,Rabi       ,Rice,54629,158046,2.893078768
+Karnataka,2003,Rabi       ,Sunflower,737406,179533,0.243465608
+Karnataka,2003,Rabi       ,Wheat,231994,96150,0.414450374
+Karnataka,2004,Kharif     ,Arhar/Tur,562127,291113,0.517877633
+Karnataka,2004,Kharif     ,Bajra,442372,264203,0.597241688
+Karnataka,2004,Kharif     ,Groundnut,812826,538320,0.662281964
+Karnataka,2004,Kharif     ,Maize,783835,2310082,2.947153419
+Karnataka,2004,Kharif     ,Moong(Green Gram),517592,81212,0.156903507
+Karnataka,2004,Kharif     ,Ragi,840781,1571399,1.868975393
+Karnataka,2004,Kharif     ,Rice,1055061,2627558.01,2.490432316
+Karnataka,2004,Kharif     ,Soyabean,159031,99535,0.625884262
+Karnataka,2004,Kharif     ,Sunflower,601981,262686,0.436369254
+Karnataka,2004,Rabi       ,Bajra,222,200,0.900900901
+Karnataka,2004,Rabi       ,Groundnut,155751,145766,0.935891262
+Karnataka,2004,Rabi       ,Maize,57478,171589,2.985298723
+Karnataka,2004,Rabi       ,Moong(Green Gram),5792,1412,0.24378453
+Karnataka,2004,Rabi       ,Ragi,44613,30621,0.686369444
+Karnataka,2004,Rabi       ,Rice,43861,144235,3.288456716
+Karnataka,2004,Rabi       ,Sunflower,623217,235635,0.378094628
+Karnataka,2004,Rabi       ,Wheat,241991,206296,0.852494514
+Karnataka,2005,Kharif     ,Arhar/Tur,599884,407832,0.679851438
+Karnataka,2005,Kharif     ,Bajra,429889,389420,0.905861746
+Karnataka,2005,Kharif     ,Dry chillies,116047,84364,0.726981309
+Karnataka,2005,Kharif     ,Groundnut,867704,445749,0.513710897
+Karnataka,2005,Kharif     ,Maize,842243,2486900,2.952710797
+Karnataka,2005,Kharif     ,Moong(Green Gram),393240,96325,0.244952192
+Karnataka,2005,Kharif     ,Onion,136344,759619,5.571341607
+Karnataka,2005,Kharif     ,Potato,67623,226399,3.347958535
+Karnataka,2005,Kharif     ,Ragi,883984,1551359,1.75496276
+Karnataka,2005,Kharif     ,Rice,1075993,2770413,2.574750022
+Karnataka,2005,Kharif     ,Soyabean,133445,74802,0.560545543
+Karnataka,2005,Kharif     ,Sunflower,661178,273972,0.414369504
+Karnataka,2005,Rabi       ,Bajra,78,104,1.333333333
+Karnataka,2005,Rabi       ,Dry chillies,2911,4729,1.624527654
+Karnataka,2005,Rabi       ,Groundnut,172368,150118,0.870915715
+Karnataka,2005,Rabi       ,Maize,81621,282618,3.462564781
+Karnataka,2005,Rabi       ,Moong(Green Gram),7658,2255,0.294463306
+Karnataka,2005,Rabi       ,Onion,10900,112992,10.36623853
+Karnataka,2005,Rabi       ,Potato,5416,97924,18.08050222
+Karnataka,2005,Rabi       ,Ragi,46323,86771,1.873173154
+Karnataka,2005,Rabi       ,Rice,44944,97483,2.168988074
+Karnataka,2005,Rabi       ,Sunflower,722784,359821,0.49782646
+Karnataka,2005,Rabi       ,Wheat,252588,226369,0.896198553
+Karnataka,2006,Kharif     ,Arhar/Tur,595697,262673,0.440950685
+Karnataka,2006,Kharif     ,Bajra,386456,161903,0.418942907
+Karnataka,2006,Kharif     ,Groundnut,617992,211868,0.342832917
+Karnataka,2006,Kharif     ,Maize,865850,2354023,2.718742276
+Karnataka,2006,Kharif     ,Moong(Green Gram),440724,50943,0.115589348
+Karnataka,2006,Kharif     ,Ragi,554193,584337,1.054392603
+Karnataka,2006,Kharif     ,Rice,1066981,2723038,2.552096054
+Karnataka,2006,Kharif     ,Soyabean,131139,97209,0.7412669
+Karnataka,2006,Kharif     ,Sunflower,595080,168016,0.28234187
+Karnataka,2006,Rabi       ,Bajra,44,43,0.977272727
+Karnataka,2006,Rabi       ,Groundnut,145532,115262,0.792004508
+Karnataka,2006,Rabi       ,Maize,78902,237039,3.004220425
+Karnataka,2006,Rabi       ,Moong(Green Gram),9041,2729,0.301847141
+Karnataka,2006,Rabi       ,Ragi,57571,65934,1.145264109
+Karnataka,2006,Rabi       ,Rice,44063,99796,2.264848058
+Karnataka,2006,Rabi       ,Sunflower,583983,175417,0.300380319
+Karnataka,2006,Rabi       ,Wheat,269494,223806,0.830467469
+Karnataka,2007,Kharif     ,Arhar/Tur,681136,451013,0.662148235
+Karnataka,2007,Kharif     ,Bajra,429832,332790,0.774232723
+Karnataka,2007,Kharif     ,Dry chillies,126372,113828,0.900737505
+Karnataka,2007,Kharif     ,Groundnut,736971,538923,0.73126758
+Karnataka,2007,Kharif     ,Maize,1015117,2950506,2.90656742
+Karnataka,2007,Kharif     ,Moong(Green Gram),520630,117008,0.2247431
+Karnataka,2007,Kharif     ,Onion,165668,987538,5.960945988
+Karnataka,2007,Kharif     ,Potato,54981,181310,3.297684655
+Karnataka,2007,Kharif     ,Ragi,786831,1290262,1.639821003
+Karnataka,2007,Kharif     ,Rice,1051466,2791181,2.654561346
+Karnataka,2007,Kharif     ,Soyabean,113190,92249,0.814992491
+Karnataka,2007,Kharif     ,Sunflower,507505,239674,0.472259387
+Karnataka,2007,Rabi       ,Bajra,439,506,1.15261959
+Karnataka,2007,Rabi       ,Dry chillies,4273,7457,1.745143927
+Karnataka,2007,Rabi       ,Groundnut,171231,152785,0.892274179
+Karnataka,2007,Rabi       ,Maize,77654,260972,3.360702604
+Karnataka,2007,Rabi       ,Moong(Green Gram),9402,3069,0.326419911
+Karnataka,2007,Rabi       ,Onion,11727,98738,8.419715187
+Karnataka,2007,Rabi       ,Potato,2957,36386,12.30503889
+Karnataka,2007,Rabi       ,Ragi,37759,60891,1.612622156
+Karnataka,2007,Rabi       ,Rice,40325,86756,2.151419715
+Karnataka,2007,Rabi       ,Sunflower,469020,203696,0.434301309
+Karnataka,2007,Rabi       ,Wheat,275583,280384,1.017421249
+Karnataka,2008,Kharif     ,Arhar/Tur,596622,313730,0.525843834
+Karnataka,2008,Kharif     ,Bajra,264170,179509,0.679520763
+Karnataka,2008,Kharif     ,Dry chillies,109185,101341,0.92815863
+Karnataka,2008,Kharif     ,Groundnut,694390,276049,0.397541727
+Karnataka,2008,Kharif     ,Maize,932901,2549564,2.732941652
+Karnataka,2008,Kharif     ,Moong(Green Gram),266386,36587,0.137345806
+Karnataka,2008,Kharif     ,Onion,117822,611170,5.187231587
+Karnataka,2008,Kharif     ,Potato,67728,128436,1.896350106
+Karnataka,2008,Kharif     ,Ragi,797944,1167342,1.462937249
+Karnataka,2008,Kharif     ,Rice,1129883,2906760.07,2.572620413
+Karnataka,2008,Kharif     ,Soyabean,134183,92556,0.689774413
+Karnataka,2008,Kharif     ,Sunflower,441753,196320,0.444411243
+Karnataka,2008,Rabi       ,Bajra,354,331,0.935028249
+Karnataka,2008,Rabi       ,Dry chillies,5903,10002,1.694392682
+Karnataka,2008,Rabi       ,Groundnut,155886,121999,0.782616784
+Karnataka,2008,Rabi       ,Maize,107533,319095,2.967414654
+Karnataka,2008,Rabi       ,Moong(Green Gram),8293,2120,0.255637284
+Karnataka,2008,Rabi       ,Onion,13415,89581,6.677674245
+Karnataka,2008,Rabi       ,Potato,6060,87080,14.36963696
+Karnataka,2008,Rabi       ,Ragi,34210,47819,1.397807659
+Karnataka,2008,Rabi       ,Rice,40982,89072,2.173441999
+Karnataka,2008,Rabi       ,Sunflower,517061,184013,0.355882575
+Karnataka,2008,Rabi       ,Wheat,268600,257181,0.957486969
+Karnataka,2009,Kharif     ,Arhar/Tur,604305,279760,0.462945036
+Karnataka,2009,Kharif     ,Bajra,304229,130201,0.427970378
+Karnataka,2009,Kharif     ,Groundnut,609042,289045,0.474589601
+Karnataka,2009,Kharif     ,Maize,1108434,2585194,2.332294029
+Karnataka,2009,Kharif     ,Moong(Green Gram),370345,45514,0.122896218
+Karnataka,2009,Kharif     ,Onion,174311,615452,3.530769716
+Karnataka,2009,Kharif     ,Potato,28305,175087,6.185726903
+Karnataka,2009,Kharif     ,Ragi,728828,1136495,1.559345964
+Karnataka,2009,Kharif     ,Rice,1102221,2734835.71,2.481204504
+Karnataka,2009,Kharif     ,Soyabean,183688,82396,0.448564958
+Karnataka,2009,Kharif     ,Sunflower,389147,111835,0.287384973
+Karnataka,2009,Rabi       ,Bajra,124,138,1.112903226
+Karnataka,2009,Rabi       ,Dry chillies,6354,18944,2.981429021
+Karnataka,2009,Rabi       ,Groundnut,208508,168308,0.807201642
+Karnataka,2009,Rabi       ,Maize,103702,262272,2.529092978
+Karnataka,2009,Rabi       ,Moong(Green Gram),8958,2349,0.262223711
+Karnataka,2009,Rabi       ,Onion,13815,81847,5.924502353
+Karnataka,2009,Rabi       ,Potato,5890,86967,14.76519525
+Karnataka,2009,Rabi       ,Ragi,27562,44924,1.629925259
+Karnataka,2009,Rabi       ,Rice,37747,84636,2.242191432
+Karnataka,2009,Rabi       ,Sunflower,376475,114919,0.305250017
+Karnataka,2009,Rabi       ,Wheat,283427,263877,0.931022803
+Karnataka,2010,Kharif     ,Arhar/Tur,891525,522540,0.58611929
+Karnataka,2010,Kharif     ,Bajra,307977,291109,0.945229676
+Karnataka,2010,Kharif     ,Dry chillies,99759,82155,0.823534719
+Karnataka,2010,Kharif     ,Groundnut,658739,432075,0.655912281
+Karnataka,2010,Kharif     ,Maize,1139899,3908386,3.428712544
+Karnataka,2010,Kharif     ,Moong(Green Gram),390821,107597,0.27531018
+Karnataka,2010,Kharif     ,Onion,143154,893739,6.243199631
+Karnataka,2010,Kharif     ,Potato,32843,249472,7.595895625
+Karnataka,2010,Kharif     ,Ragi,733345,1409869,1.922518051
+Karnataka,2010,Kharif     ,Rice,1129304,3192746,2.827180281
+Karnataka,2010,Kharif     ,Soyabean,168075,147777,0.879232485
+Karnataka,2010,Kharif     ,Sunflower,193955,97869,0.504596427
+Karnataka,2010,Rabi       ,Bajra,160,136,0.85
+Karnataka,2010,Rabi       ,Dry chillies,6608,17951,2.71655569
+Karnataka,2010,Rabi       ,Groundnut,187013,168264,0.899744938
+Karnataka,2010,Rabi       ,Maize,115803,321962,2.780256125
+Karnataka,2010,Rabi       ,Moong(Green Gram),10263,2702,0.263275845
+Karnataka,2010,Rabi       ,Onion,14430,98814,6.847817048
+Karnataka,2010,Rabi       ,Potato,5944,69194,11.6409825
+Karnataka,2010,Rabi       ,Ragi,45898,71598,1.559937252
+Karnataka,2010,Rabi       ,Rice,49700,117501,2.364205231
+Karnataka,2010,Rabi       ,Sunflower,193178,98783,0.511357401
+Karnataka,2010,Rabi       ,Wheat,254755,300237,1.178532315
+Kerala,2000,Kharif     ,Groundnut,3677,2733,0.743268969
+Kerala,2000,Kharif     ,Ragi,1955,1582,0.809207161
+Kerala,2001,Kharif     ,Groundnut,2437,1812,0.743537136
+Kerala,2001,Kharif     ,Ragi,1947,1575,0.808936826
+Kerala,2002,Kharif     ,Groundnut,2422,1801,0.74360033
+Kerala,2002,Kharif     ,Ragi,1320,1068,0.809090909
+Kerala,2003,Kharif     ,Groundnut,2687,1988,0.739858578
+Kerala,2003,Kharif     ,Ragi,1504,1217,0.809175532
+Kerala,2004,Kharif     ,Groundnut,1346,996,0.739970282
+Kerala,2004,Kharif     ,Ragi,1383,1119,0.809110629
+Kerala,2005,Kharif     ,Groundnut,3299,2441,0.739921188
+Kerala,2005,Kharif     ,Ragi,414,335,0.809178744
+Kerala,2006,Kharif     ,Groundnut,2813,2081,0.739779595
+Kerala,2006,Kharif     ,Ragi,516,417,0.808139535
+Kerala,2007,Kharif     ,Groundnut,2911,2154,0.739951907
+Kerala,2007,Kharif     ,Ragi,266,216,0.812030075
+Kerala,2008,Kharif     ,Groundnut,1733,1282,0.739757646
+Kerala,2008,Kharif     ,Ragi,608,492,0.809210526
+Kerala,2009,Kharif     ,Groundnut,1340,992,0.740298507
+Kerala,2009,Kharif     ,Ragi,293,236,0.805460751
+Madhya Pradesh,2000,Kharif     ,Arhar/Tur,308981,206397,0.66799253
+Madhya Pradesh,2000,Kharif     ,Bajra,164003,204348,1.246001598
+Madhya Pradesh,2000,Kharif     ,Groundnut,211515,222725,1.052998605
+Madhya Pradesh,2000,Kharif     ,Maize,829299,1209947,1.458999709
+Madhya Pradesh,2000,Kharif     ,Ragi,1783,662.2,0.371396523
+Madhya Pradesh,2000,Kharif     ,Rice,1697346,975274,0.574587621
+Madhya Pradesh,2000,Kharif     ,Soyabean,4461676,3422105,0.76699989
+Madhya Pradesh,2000,Kharif     ,Sunflower,3175,1122.1,0.353417323
+Madhya Pradesh,2000,Rabi       ,Wheat,3299120,4861992,1.473723902
+Madhya Pradesh,2001,Kharif     ,Arhar/Tur,301498,246625,0.817998793
+Madhya Pradesh,2001,Kharif     ,Bajra,161727,204585,1.265002133
+Madhya Pradesh,2001,Kharif     ,Groundnut,214053,238883,1.115999309
+Madhya Pradesh,2001,Kharif     ,Maize,843065,1672641,1.984000047
+Madhya Pradesh,2001,Kharif     ,Ragi,508,135,0.265748031
+Madhya Pradesh,2001,Kharif     ,Rice,1766150,1685799,0.954504997
+Madhya Pradesh,2001,Kharif     ,Soyabean,4435868,3726129,0.839999973
+Madhya Pradesh,2001,Kharif     ,Sunflower,2035,905.01,0.444722359
+Madhya Pradesh,2001,Rabi       ,Wheat,3691707,5993596,1.623529711
+Madhya Pradesh,2002,Kharif     ,Arhar/Tur,299548,183922,0.613998424
+Madhya Pradesh,2002,Kharif     ,Bajra,167581,124680.3,0.744000215
+Madhya Pradesh,2002,Kharif     ,Groundnut,204780,126759,0.619000879
+Madhya Pradesh,2002,Kharif     ,Maize,848970,1486546,1.750999446
+Madhya Pradesh,2002,Kharif     ,Ragi,608,150.3,0.247203947
+Madhya Pradesh,2002,Kharif     ,Rice,1671107,1024930,0.613323982
+Madhya Pradesh,2002,Kharif     ,Soyabean,4176744,2664763,0.638000079
+Madhya Pradesh,2002,Kharif     ,Sunflower,2354,931.04,0.395514019
+Madhya Pradesh,2002,Rabi       ,Wheat,3369481,4916044,1.458991459
+Madhya Pradesh,2003,Kharif     ,Arhar/Tur,311195,251757,0.809000787
+Madhya Pradesh,2003,Kharif     ,Bajra,201165,281430,1.39900082
+Madhya Pradesh,2003,Kharif     ,Groundnut,214353,247578,1.15500133
+Madhya Pradesh,2003,Kharif     ,Maize,898618,1858342,2.067999973
+Madhya Pradesh,2003,Kharif     ,Moong(Green Gram),709,172,0.242595205
+Madhya Pradesh,2003,Kharif     ,Ragi,514,136.1,0.264785992
+Madhya Pradesh,2003,Kharif     ,Rice,1708583,1743430,1.020395263
+Madhya Pradesh,2003,Kharif     ,Soyabean,4198619,4643673,1.106000092
+Madhya Pradesh,2003,Kharif     ,Sunflower,1984,1062,0.535282258
+Madhya Pradesh,2003,Rabi       ,Masoor,17,8,0.470588235
+Madhya Pradesh,2003,Rabi       ,Moong(Green Gram),13,3,0.230769231
+Madhya Pradesh,2003,Rabi       ,Wheat,4078974,7357255,1.803702353
+Madhya Pradesh,2004,Kharif     ,Arhar/Tur,314422,243677,0.774999841
+Madhya Pradesh,2004,Kharif     ,Bajra,184058,248478,1.34999837
+Madhya Pradesh,2004,Kharif     ,Groundnut,211696,240698,1.136998337
+Madhya Pradesh,2004,Kharif     ,Maize,873546,1222964,1.399999542
+Madhya Pradesh,2004,Kharif     ,Ragi,403,112,0.277915633
+Madhya Pradesh,2004,Kharif     ,Rice,1675513,1302615,0.777442491
+Madhya Pradesh,2004,Kharif     ,Soyabean,4580458,3751395,0.818999978
+Madhya Pradesh,2004,Kharif     ,Sunflower,1897,943,0.497100685
+Madhya Pradesh,2004,Rabi       ,Masoor,528897,262204,0.495756263
+Madhya Pradesh,2004,Rabi       ,Wheat,4188248,7320042,1.747757535
+Madhya Pradesh,2005,Kharif     ,Arhar/Tur,319473,237688,0.744000275
+Madhya Pradesh,2005,Kharif     ,Bajra,182506,271934,1.490000329
+Madhya Pradesh,2005,Kharif     ,Groundnut,204793,226296,1.104998706
+Madhya Pradesh,2005,Kharif     ,Maize,852591,1240520,1.455000111
+Madhya Pradesh,2005,Kharif     ,Moong(Green Gram),75291,22940,0.304684491
+Madhya Pradesh,2005,Kharif     ,Ragi,421,113,0.268408551
+Madhya Pradesh,2005,Kharif     ,Rice,1700446,1687475,0.992372001
+Madhya Pradesh,2005,Kharif     ,Soyabean,4576216,4805027,1.050000044
+Madhya Pradesh,2005,Kharif     ,Sunflower,1098,571,0.52003643
+Madhya Pradesh,2005,Rabi       ,Masoor,580847,292290,0.503213411
+Madhya Pradesh,2005,Rabi       ,Wheat,3772615,6192368,1.641399401
+Madhya Pradesh,2006,Kharif     ,Arhar/Tur,305009,209541,0.6869994
+Madhya Pradesh,2006,Kharif     ,Bajra,183115,251783,1.374999317
+Madhya Pradesh,2006,Kharif     ,Groundnut,197231,187172,0.94899889
+Madhya Pradesh,2006,Kharif     ,Maize,879420,846002,0.961999955
+Madhya Pradesh,2006,Kharif     ,Moong(Green Gram),71963,22894,0.318135709
+Madhya Pradesh,2006,Kharif     ,Rice,1674013,1389269,0.829903352
+Madhya Pradesh,2006,Kharif     ,Soyabean,4691195,4780328,1.019000063
+Madhya Pradesh,2006,Kharif     ,Sunflower,848,368,0.433962264
+Madhya Pradesh,2006,Rabi       ,Masoor,538670,261123,0.484755045
+Madhya Pradesh,2006,Rabi       ,Moong(Green Gram),3039,810,0.266535044
+Madhya Pradesh,2006,Rabi       ,Wheat,4262382,7840446,1.839451743
+Madhya Pradesh,2007,Kharif     ,Arhar/Tur,300463,193198,0.643000969
+Madhya Pradesh,2007,Kharif     ,Bajra,200929,275675,1.37200205
+Madhya Pradesh,2007,Kharif     ,Groundnut,201078,186600,0.92799809
+Madhya Pradesh,2007,Kharif     ,Maize,841830,1111216,1.320000475
+Madhya Pradesh,2007,Kharif     ,Ragi,456,140,0.307017544
+Madhya Pradesh,2007,Kharif     ,Rice,1634912,1325175,0.810548213
+Madhya Pradesh,2007,Kharif     ,Soyabean,5187928,5359130,1.033000072
+Madhya Pradesh,2007,Rabi       ,Masoor,520643,220688,0.423875861
+Madhya Pradesh,2007,Rabi       ,Wheat,4089343,6729363,1.645585367
+Madhya Pradesh,2008,Kharif     ,Arhar/Tur,306161,243398,0.795000016
+Madhya Pradesh,2008,Kharif     ,Bajra,187954,260504,1.385998702
+Madhya Pradesh,2008,Kharif     ,Groundnut,202277,235046,1.162000623
+Madhya Pradesh,2008,Kharif     ,Maize,826722,1131782,1.368999494
+Madhya Pradesh,2008,Kharif     ,Ragi,444,138,0.310810811
+Madhya Pradesh,2008,Kharif     ,Rice,1706557,1571103,0.920627322
+Madhya Pradesh,2008,Kharif     ,Soyabean,5281337,5915097,1.119999917
+Madhya Pradesh,2008,Kharif     ,Sunflower,395,174,0.440506329
+Madhya Pradesh,2008,Rabi       ,Masoor,529690,263930,0.498272575
+Madhya Pradesh,2008,Rabi       ,Wheat,3997666,7272210,1.819113953
+Madhya Pradesh,2009,Kharif     ,Moong(Green Gram),73809,23862,0.323293907
+Madhya Pradesh,2009,Rabi       ,Moong(Green Gram),2534,652,0.25730071
+Madhya Pradesh,2010,Kharif     ,Arhar/Tur,638175,201663,0.31599953
+Madhya Pradesh,2010,Kharif     ,Bajra,200498,384154,1.915999162
+Madhya Pradesh,2010,Kharif     ,Groundnut,201177,300558,1.493997823
+Madhya Pradesh,2010,Kharif     ,Maize,837865,1332205,1.589999582
+Madhya Pradesh,2010,Kharif     ,Moong(Green Gram),83782,29404,0.35095844
+Madhya Pradesh,2010,Kharif     ,Ragi,283,87,0.307420495
+Madhya Pradesh,2010,Kharif     ,Rice,1573535,1766596,1.122692536
+Madhya Pradesh,2010,Kharif     ,Soyabean,5538358,6271666,1.132405309
+Madhya Pradesh,2010,Kharif     ,Sunflower,112,49,0.4375
+Madhya Pradesh,2010,Rabi       ,Masoor,697685,201457,0.288750654
+Madhya Pradesh,2010,Rabi       ,Moong(Green Gram),2941,662,0.225093506
+Madhya Pradesh,2010,Rabi       ,Wheat,4633125,9219781,1.989970268
+Maharashtra,2000,Kharif     ,Arhar/Tur,1096100,660300,0.602408539
+Maharashtra,2000,Kharif     ,Bajra,1800000,1087200,0.604
+Maharashtra,2000,Kharif     ,Groundnut,403700,360510,0.893014615
+Maharashtra,2000,Kharif     ,Maize,258500,216000,0.835589942
+Maharashtra,2000,Kharif     ,Moong(Green Gram),714300,243900,0.341453171
+Maharashtra,2000,Kharif     ,Ragi,154900,128600,0.830213041
+Maharashtra,2000,Kharif     ,Rice,1486400,1879200,1.264262648
+Maharashtra,2000,Kharif     ,Soyabean,1141500,1266200,1.109242225
+Maharashtra,2000,Kharif     ,Sunflower,137400,67700,0.49272198
+Maharashtra,2000,Rabi       ,Maize,70200,87600,1.247863248
+Maharashtra,2000,Rabi       ,Sunflower,190900,102400,0.536406496
+Maharashtra,2000,Rabi       ,Wheat,754200,947600,1.256430655
+Maharashtra,2001,Kharif     ,Arhar/Tur,1017300,770600,0.757495331
+Maharashtra,2001,Kharif     ,Bajra,1399200,830800,0.593767867
+Maharashtra,2001,Kharif     ,Groundnut,353400,382200,1.081494058
+Maharashtra,2001,Kharif     ,Maize,254500,459110,1.803968566
+Maharashtra,2001,Kharif     ,Moong(Green Gram),710600,290500,0.408809457
+Maharashtra,2001,Kharif     ,Ragi,150700,181600,1.205043132
+Maharashtra,2001,Kharif     ,Rice,1487200,2590400,1.741796665
+Maharashtra,2001,Kharif     ,Soyabean,1104900,1385500,1.253959634
+Maharashtra,2001,Kharif     ,Sunflower,80400,28700,0.356965174
+Maharashtra,2001,Rabi       ,Maize,63100,116100,1.839936609
+Maharashtra,2001,Rabi       ,Sunflower,185200,97400,0.525917927
+Maharashtra,2001,Rabi       ,Wheat,776000,1077400,1.388402062
+Maharashtra,2002,Kharif     ,Arhar/Tur,1059900,777100,0.733182376
+Maharashtra,2002,Kharif     ,Bajra,1547200,1146000,0.740692865
+Maharashtra,2002,Kharif     ,Groundnut,350900,336300,0.958392704
+Maharashtra,2002,Kharif     ,Maize,301200,629700,2.09063745
+Maharashtra,2002,Kharif     ,Moong(Green Gram),762300,376100,0.493375312
+Maharashtra,2002,Kharif     ,Ragi,145900,124200,0.851267992
+Maharashtra,2002,Kharif     ,Rice,1496800,1793000,1.19788883
+Maharashtra,2002,Kharif     ,Soyabean,1255500,1576000,1.255276782
+Maharashtra,2002,Kharif     ,Sunflower,97400,46500,0.477412731
+Maharashtra,2002,Rabi       ,Maize,61700,100100,1.622366288
+Maharashtra,2002,Rabi       ,Sunflower,187000,92700,0.495721925
+Maharashtra,2002,Rabi       ,Wheat,759800,983900,1.294946038
+Maharashtra,2003,Kharif     ,Arhar/Tur,1046300,693000,0.662333939
+Maharashtra,2003,Kharif     ,Bajra,1325400,896300,0.67624868
+Maharashtra,2003,Kharif     ,Groundnut,324100,355200,1.095958038
+Maharashtra,2003,Kharif     ,Maize,311800,671000,2.152020526
+Maharashtra,2003,Kharif     ,Moong(Green Gram),700100,390500,0.55777746
+Maharashtra,2003,Kharif     ,Ragi,146900,170000,1.15724983
+Maharashtra,2003,Kharif     ,Rice,1500400,2768600,1.845241269
+Maharashtra,2003,Kharif     ,Soyabean,1589100,2219200,1.39651375
+Maharashtra,2003,Kharif     ,Sunflower,89000,32400,0.364044944
+Maharashtra,2003,Rabi       ,Maize,57900,81100,1.400690846
+Maharashtra,2003,Rabi       ,Sunflower,182500,65400,0.358356164
+Maharashtra,2003,Rabi       ,Wheat,664700,778200,1.170753723
+Maharashtra,2004,Kharif     ,Arhar/Tur,1074000,658200,0.612849162
+Maharashtra,2004,Kharif     ,Bajra,1529100,1126300,0.736577071
+Maharashtra,2004,Kharif     ,Groundnut,346600,358800,1.035199077
+Maharashtra,2004,Kharif     ,Maize,353200,606900,1.718289921
+Maharashtra,2004,Kharif     ,Moong(Green Gram),656000,227800,0.347256098
+Maharashtra,2004,Kharif     ,Ragi,144600,147200,1.017980636
+Maharashtra,2004,Kharif     ,Rice,1488200,2098200,1.409891144
+Maharashtra,2004,Kharif     ,Sunflower,113100,53600,0.473916888
+Maharashtra,2004,Rabi       ,Maize,65000,130500,2.007692308
+Maharashtra,2004,Rabi       ,Soyabean,2102200,1892400,0.900199791
+Maharashtra,2004,Rabi       ,Sunflower,200700,107800,0.53712008
+Maharashtra,2004,Rabi       ,Wheat,755700,1016300,1.344845838
+Maharashtra,2005,Kharif     ,Arhar/Tur,981370,696530,0.709752693
+Maharashtra,2005,Kharif     ,Bajra,1433800,932000,0.650020923
+Maharashtra,2005,Kharif     ,Groundnut,336700,279800,0.831006831
+Maharashtra,2005,Kharif     ,Moong(Green Gram),533800,188890,0.353859123
+Maharashtra,2005,Kharif     ,Ragi,135800,132300,0.974226804
+Maharashtra,2005,Kharif     ,Rice,1464200,2593700,1.771411009
+Maharashtra,2005,Kharif     ,Soyabean,2346800,2525500,1.076146242
+Maharashtra,2005,Kharif     ,Sugarcane,500700,38813700,77.51887358
+Maharashtra,2005,Kharif     ,Sunflower,109400,63200,0.577696527
+Maharashtra,2005,Rabi       ,Sunflower,230800,137100,0.594020797
+Maharashtra,2005,Rabi       ,Wheat,932800,1300700,1.394403945
+Maharashtra,2006,Kharif     ,Arhar/Tur,1122600,814600,0.725636914
+Maharashtra,2006,Kharif     ,Bajra,1452200,1058600,0.728962953
+Maharashtra,2006,Kharif     ,Groundnut,341600,254100,0.743852459
+Maharashtra,2006,Kharif     ,Maize,475000,947800,1.995368421
+Maharashtra,2006,Kharif     ,Moong(Green Gram),573100,236050,0.411882743
+Maharashtra,2006,Kharif     ,Ragi,136000,123000,0.904411765
+Maharashtra,2006,Kharif     ,Rice,1491300,2490600,1.670086502
+Maharashtra,2006,Kharif     ,Soyabean,2521100,2891600,1.14695966
+Maharashtra,2006,Kharif     ,Sunflower,121400,64400,0.530477759
+Maharashtra,2006,Rabi       ,Maize,86000,178800,2.079069767
+Maharashtra,2006,Rabi       ,Sunflower,224200,121500,0.541926851
+Maharashtra,2006,Rabi       ,Wheat,1230800,1871000,1.520149496
+Maharashtra,2007,Kharif     ,Arhar/Tur,11591,10757,0.928047623
+Maharashtra,2007,Kharif     ,Bajra,12830,11269,0.878332034
+Maharashtra,2007,Kharif     ,Groundnut,3293,3659,1.111144853
+Maharashtra,2007,Kharif     ,Maize,5711,15452,2.705655752
+Maharashtra,2007,Kharif     ,Moong(Green Gram),6608,3671,0.555538741
+Maharashtra,2007,Kharif     ,Ragi,1283,1235,0.962587685
+Maharashtra,2007,Kharif     ,Rice,36836,29128,0.790748181
+Maharashtra,2007,Kharif     ,Soyabean,26636,39762,1.49279171
+Maharashtra,2007,Kharif     ,Sunflower,1115,646,0.579372197
+Maharashtra,2007,Rabi       ,Maize,867,2230,2.572087659
+Maharashtra,2007,Rabi       ,Sunflower,1764,1302,0.738095238
+Maharashtra,2007,Rabi       ,Wheat,10030,19875,1.981555334
+Maharashtra,2008,Kharif     ,Arhar/Tur,1008500,604900,0.599801686
+Maharashtra,2008,Kharif     ,Bajra,865400,661900,0.764848625
+Maharashtra,2008,Kharif     ,Groundnut,253600,257500,1.015378549
+Maharashtra,2008,Kharif     ,Maize,550100,1323000,2.40501727
+Maharashtra,2008,Kharif     ,Moong(Green Gram),426000,106000,0.248826291
+Maharashtra,2008,Kharif     ,Ragi,125500,125000,0.996015936
+Maharashtra,2008,Kharif     ,Rice,1499500,2234210,1.48996999
+Maharashtra,2008,Kharif     ,Soyabean,3063200,1839900,0.600646383
+Maharashtra,2008,Kharif     ,Sugarcane,768400,60648900,78.92881312
+Maharashtra,2008,Kharif     ,Sunflower,110800,58000,0.523465704
+Maharashtra,2008,Rabi       ,Maize,859,2067,2.40628638
+Maharashtra,2008,Rabi       ,Sunflower,146900,91800,0.624914908
+Maharashtra,2008,Rabi       ,Wheat,1021800,1517300,1.484928557
+Maharashtra,2009,Kharif     ,Arhar/Tur,1093200,919100,0.840742774
+Maharashtra,2009,Kharif     ,Bajra,1033500,766300,0.741461055
+Maharashtra,2009,Kharif     ,Groundnut,260400,263800,1.013056836
+Maharashtra,2009,Kharif     ,Maize,673000,1530600,2.274294205
+Maharashtra,2009,Kharif     ,Moong(Green Gram),427700,142032,0.332083236
+Maharashtra,2009,Kharif     ,Ragi,120200,108700,0.904326123
+Maharashtra,2009,Kharif     ,Rice,1450000,2137114,1.473871724
+Maharashtra,2009,Kharif     ,Soyabean,3019100,2197000,0.727700308
+Maharashtra,2009,Kharif     ,Sugarcane,755900,64159300,84.87802619
+Maharashtra,2009,Kharif     ,Sunflower,74000,30826,0.416567568
+Maharashtra,2009,Rabi       ,Maize,101400,267200,2.635108481
+Maharashtra,2009,Rabi       ,Sunflower,140600,79700,0.56685633
+Maharashtra,2009,Rabi       ,Wheat,1080900,1740200,1.609954667
+Maharashtra,2010,Kharif     ,Arhar/Tur,1301900,975800,0.749519932
+Maharashtra,2010,Kharif     ,Bajra,1034600,1123500,1.085926928
+Maharashtra,2010,Kharif     ,Groundnut,275200,345500,1.255450581
+Maharashtra,2010,Kharif     ,Maize,730600,2208900,3.02340542
+Maharashtra,2010,Kharif     ,Moong(Green Gram),553700,372400,0.672566372
+Maharashtra,2010,Kharif     ,Ragi,120000,117500,0.979166667
+Maharashtra,2010,Kharif     ,Rice,1486200,2624900,1.76618221
+Maharashtra,2010,Kharif     ,Soyabean,2729100,4316100,1.581510388
+Maharashtra,2010,Kharif     ,Sugarcane,964500,85691500,88.84551581
+Maharashtra,2010,Kharif     ,Sunflower,68800,35000,0.50872093
+Maharashtra,2010,Rabi       ,Maize,137600,361800,2.629360465
+Maharashtra,2010,Rabi       ,Sunflower,138800,89800,0.646974063
+Maharashtra,2010,Rabi       ,Wheat,1306600,2300800,1.760906169
+Meghalaya,2000,Kharif     ,Arhar/Tur,863,641,0.742757822
+Meghalaya,2000,Kharif     ,Maize,16906,24250,1.434401987
+Meghalaya,2000,Kharif     ,Rice,102657,165907,1.616129441
+Meghalaya,2000,Kharif     ,Soyabean,983,914,0.929806714
+Meghalaya,2000,Rabi       ,Rice,4003,13135,3.281289033
+Meghalaya,2000,Rabi       ,Wheat,4215,6892,1.635112693
+Meghalaya,2001,Kharif     ,Arhar/Tur,818,631,0.771393643
+Meghalaya,2001,Kharif     ,Maize,16866,25247,1.496916874
+Meghalaya,2001,Kharif     ,Rice,107761,188971,1.75361216
+Meghalaya,2001,Kharif     ,Soyabean,981,939,0.957186544
+Meghalaya,2001,Rabi       ,Wheat,2753,4812,1.747911369
+Meghalaya,2002,Kharif     ,Arhar/Tur,810,632,0.780246914
+Meghalaya,2002,Kharif     ,Maize,16922,25879,1.529310956
+Meghalaya,2002,Kharif     ,Rice,107742,190937,1.772168699
+Meghalaya,2002,Kharif     ,Soyabean,999,959,0.95995996
+Meghalaya,2002,Rabi       ,Wheat,2714,4745,1.748341931
+Meghalaya,2003,Kharif     ,Arhar/Tur,812,639,0.786945813
+Meghalaya,2003,Kharif     ,Maize,16900,25929,1.534260355
+Meghalaya,2003,Kharif     ,Rice,109721,200703,1.829212275
+Meghalaya,2003,Kharif     ,Soyabean,984,963,0.978658537
+Meghalaya,2003,Rabi       ,Wheat,862,1540,1.786542923
+Meghalaya,2004,Kharif     ,Arhar/Tur,804,633,0.787313433
+Meghalaya,2004,Kharif     ,Maize,16875,24000,1.422222222
+Meghalaya,2004,Kharif     ,Soyabean,967,935,0.966907963
+Meghalaya,2004,Rabi       ,Wheat,863,1564,1.812282735
+Meghalaya,2005,Kharif     ,Arhar/Tur,804,633,0.787313433
+Meghalaya,2005,Kharif     ,Maize,16898,24424,1.445378151
+Meghalaya,2005,Rabi       ,Wheat,670,1198,1.788059701
+Meghalaya,2006,Kharif     ,Banana,6422,72367,11.26860791
+Meghalaya,2006,Kharif     ,Maize,17039,25334,1.486824344
+Meghalaya,2006,Kharif     ,Soyabean,1052,1031,0.980038023
+Meghalaya,2006,Rabi       ,Dry chillies,1870,1375,0.735294118
+Meghalaya,2006,Rabi       ,Potato,18173,188202,10.35613272
+Meghalaya,2006,Rabi       ,Rice,9854,39940,4.053176375
+Meghalaya,2006,Rabi       ,Tobacco,709,468,0.660084626
+Meghalaya,2006,Rabi       ,Turmeric,1912,14449,7.557008368
+Meghalaya,2006,Rabi       ,Wheat,656,1183,1.803353659
+Meghalaya,2007,Kharif     ,Arhar/Tur,804,634,0.788557214
+Meghalaya,2007,Kharif     ,Maize,17048,25138,1.474542468
+Meghalaya,2007,Rabi       ,Wheat,622,1120,1.800643087
+Meghalaya,2008,Kharif     ,Arhar/Tur,794,627,0.789672544
+Meghalaya,2008,Kharif     ,Maize,17117,25716,1.502366069
+Meghalaya,2008,Kharif     ,Soyabean,1055,1163,1.102369668
+Meghalaya,2008,Rabi       ,Wheat,416,739,1.776442308
+Meghalaya,2009,Kharif     ,Arhar/Tur,781,612,0.783610755
+Meghalaya,2009,Kharif     ,Banana,6802,78822,11.58806233
+Meghalaya,2009,Kharif     ,Maize,17209,26167,1.520541577
+Meghalaya,2009,Rabi       ,Masoor,332,274,0.825301205
+Meghalaya,2009,Rabi       ,Tobacco,635,427,0.672440945
+Meghalaya,2009,Rabi       ,Wheat,405,718,1.772839506
+Meghalaya,2010,Kharif     ,Arhar/Tur,779,611,0.784338896
+Meghalaya,2010,Kharif     ,Banana,6795,79954,11.76659308
+Meghalaya,2010,Kharif     ,Maize,17276,26500,1.533919889
+Meghalaya,2010,Kharif     ,Soyabean,1078,1186,1.100185529
+Meghalaya,2010,Rabi       ,Masoor,339,280,0.825958702
+Meghalaya,2010,Rabi       ,Rice,12797,47413,3.705008986
+Meghalaya,2010,Rabi       ,Tobacco,631,420,0.665610143
+Meghalaya,2010,Rabi       ,Wheat,393,704,1.791348601
+Nagaland,2000,Kharif     ,Arhar/Tur,4000,4500,1.125
+Nagaland,2000,Kharif     ,Bajra,1500,1250,0.833333333
+Nagaland,2000,Kharif     ,Groundnut,3500,4000,1.142857143
+Nagaland,2000,Kharif     ,Maize,35000,52500,1.5
+Nagaland,2000,Kharif     ,Moong(Green Gram),2000,1800,0.9
+Nagaland,2000,Kharif     ,Rice,150000,230000,1.533333333
+Nagaland,2000,Kharif     ,Soyabean,13000,16500,1.269230769
+Nagaland,2000,Kharif     ,Sunflower,4000,3000,0.75
+Nagaland,2000,Rabi       ,Rice,1680,3330,1.982142857
+Nagaland,2000,Rabi       ,Sunflower,1000,1100,1.1
+Nagaland,2000,Rabi       ,Wheat,5000,10000,2
+Nagaland,2001,Kharif     ,Arhar/Tur,7000,5000,0.714285714
+Nagaland,2001,Kharif     ,Bajra,1500,1000,0.666666667
+Nagaland,2001,Kharif     ,Groundnut,500,550,1.1
+Nagaland,2001,Kharif     ,Maize,45000,90000,2
+Nagaland,2001,Kharif     ,Moong(Green Gram),3000,2000,0.666666667
+Nagaland,2001,Kharif     ,Rice,155000,235000,1.516129032
+Nagaland,2001,Kharif     ,Soyabean,18000,25000,1.388888889
+Nagaland,2001,Kharif     ,Sunflower,730,820,1.123287671
+Nagaland,2001,Rabi       ,Groundnut,1390,1710,1.230215827
+Nagaland,2001,Rabi       ,Rice,1500,2000,1.333333333
+Nagaland,2001,Rabi       ,Sunflower,900,1130,1.255555556
+Nagaland,2001,Rabi       ,Wheat,6000,12350,2.058333333
+Nagaland,2002,Kharif     ,Arhar/Tur,31,17,0.548387097
+Nagaland,2002,Kharif     ,Bajra,2000,4000,2
+Nagaland,2002,Kharif     ,Groundnut,2000,2500,1.25
+Nagaland,2002,Kharif     ,Maize,40000,80000,2
+Nagaland,2002,Kharif     ,Moong(Green Gram),2000,2000,1
+Nagaland,2002,Kharif     ,Rice,150000,223400,1.489333333
+Nagaland,2002,Kharif     ,Soyabean,26000,35000,1.346153846
+Nagaland,2002,Kharif     ,Sunflower,2000,4000,2
+Nagaland,2002,Rabi       ,Sunflower,1000,1500,1.5
+Nagaland,2002,Rabi       ,Wheat,7650,15820,2.067973856
+Nagaland,2003,Kharif     ,Arhar/Tur,7500,7000,0.933333333
+Nagaland,2003,Kharif     ,Bajra,3000,5000,1.666666667
+Nagaland,2003,Kharif     ,Groundnut,2000,3000,1.5
+Nagaland,2003,Kharif     ,Maize,45000,78000,1.733333333
+Nagaland,2003,Kharif     ,Moong(Green Gram),2000,3000,1.5
+Nagaland,2003,Kharif     ,Rice,155000,220990,1.425741935
+Nagaland,2003,Kharif     ,Soyabean,26000,36000,1.384615385
+Nagaland,2003,Kharif     ,Sunflower,2500,5000,2
+Nagaland,2003,Rabi       ,Maize,140,260,1.857142857
+Nagaland,2003,Rabi       ,Masoor,2500,1070,0.428
+Nagaland,2003,Rabi       ,Rice,1000,2000,2
+Nagaland,2003,Rabi       ,Sunflower,1000,1000,1
+Nagaland,2003,Rabi       ,Wheat,10000,19500,1.95
+Nagaland,2004,Kharif     ,Arhar/Tur,6400,6000,0.9375
+Nagaland,2004,Kharif     ,Bajra,2680,4000,1.492537313
+Nagaland,2004,Kharif     ,Groundnut,5540,6980,1.259927798
+Nagaland,2004,Kharif     ,Maize,45400,81700,1.799559471
+Nagaland,2004,Kharif     ,Moong(Green Gram),1300,840,0.646153846
+Nagaland,2004,Kharif     ,Rice,153000,259750,1.697712418
+Nagaland,2004,Kharif     ,Soyabean,30000,48000,1.6
+Nagaland,2004,Kharif     ,Sunflower,450,330,0.733333333
+Nagaland,2004,Rabi       ,Maize,1000,1800,1.8
+Nagaland,2004,Rabi       ,Masoor,2530,1100,0.434782609
+Nagaland,2004,Rabi       ,Rice,1000,2000,2
+Nagaland,2004,Rabi       ,Sugarcane,210,3350,15.95238095
+Nagaland,2004,Rabi       ,Sunflower,150,240,1.6
+Nagaland,2004,Rabi       ,Wheat,8200,13000,1.585365854
+Nagaland,2005,Kharif     ,Arhar/Tur,8000,7600,0.95
+Nagaland,2005,Kharif     ,Bajra,3050,3130,1.026229508
+Nagaland,2005,Kharif     ,Groundnut,340,320,0.941176471
+Nagaland,2005,Kharif     ,Maize,50000,90000,1.8
+Nagaland,2005,Kharif     ,Moong(Green Gram),730,640,0.876712329
+Nagaland,2005,Kharif     ,Rice,155500,261300,1.680385852
+Nagaland,2005,Kharif     ,Soyabean,26660,32000,1.200300075
+Nagaland,2005,Kharif     ,Sunflower,500,350,0.7
+Nagaland,2005,Rabi       ,Maize,1600,2880,1.8
+Nagaland,2005,Rabi       ,Masoor,2800,5500,1.964285714
+Nagaland,2005,Rabi       ,Rice,900,1800,2
+Nagaland,2005,Rabi       ,Sugarcane,270,3380,12.51851852
+Nagaland,2005,Rabi       ,Sunflower,300,300,1
+Nagaland,2005,Rabi       ,Wheat,1200,1920,1.6
+Nagaland,2006,Kharif     ,Arhar/Tur,8500,10150,1.194117647
+Nagaland,2006,Kharif     ,Groundnut,950,960,1.010526316
+Nagaland,2006,Kharif     ,Maize,63200,105540,1.669936709
+Nagaland,2006,Kharif     ,Moong(Green Gram),1000,1260,1.26
+Nagaland,2006,Kharif     ,Potato,3500,31420,8.977142857
+Nagaland,2006,Kharif     ,Rice,163680,261920,1.600195503
+Nagaland,2006,Kharif     ,Soyabean,25480,30620,1.201726845
+Nagaland,2006,Kharif     ,Sunflower,380,300,0.789473684
+Nagaland,2006,Rabi       ,Maize,1500,2800,1.866666667
+Nagaland,2006,Rabi       ,Masoor,2960,3510,1.185810811
+Nagaland,2006,Rabi       ,Rice,1000,1600,1.6
+Nagaland,2006,Rabi       ,Sugarcane,290,4850,16.72413793
+Nagaland,2006,Rabi       ,Sunflower,960,760,0.791666667
+Nagaland,2006,Rabi       ,Wheat,1500,1250,0.833333333
+Nagaland,2007,Kharif     ,Arhar/Tur,3200,3880,1.2125
+Nagaland,2007,Kharif     ,Dry chillies,700,890,1.271428571
+Nagaland,2007,Kharif     ,Groundnut,1450,1590,1.096551724
+Nagaland,2007,Kharif     ,Maize,62140,112470,1.809945285
+Nagaland,2007,Kharif     ,Moong(Green Gram),450,520,1.155555556
+Nagaland,2007,Kharif     ,Potato,2500,35850,14.34
+Nagaland,2007,Kharif     ,Rice,166000,308800,1.860240964
+Nagaland,2007,Kharif     ,Soyabean,26500,31270,1.18
+Nagaland,2007,Kharif     ,Sugarcane,4000,220320,55.08
+Nagaland,2007,Kharif     ,Sunflower,1000,970,0.97
+Nagaland,2007,Kharif     ,Turmeric,100,450,4.5
+Nagaland,2007,Rabi       ,Maize,1500,2860,1.906666667
+Nagaland,2007,Rabi       ,Rice,1500,2500,1.666666667
+Nagaland,2007,Rabi       ,Sunflower,1200,950,0.791666667
+Nagaland,2007,Rabi       ,Wheat,1150,1800,1.565217391
+Nagaland,2008,Kharif     ,Arhar/Tur,3160,3030,0.958860759
+Nagaland,2008,Kharif     ,Dry chillies,2500,3130,1.252
+Nagaland,2008,Kharif     ,Groundnut,740,740,1
+Nagaland,2008,Kharif     ,Maize,63200,113760,1.8
+Nagaland,2008,Kharif     ,Moong(Green Gram),400,250,0.625
+Nagaland,2008,Kharif     ,Potato,2910,35790,12.29896907
+Nagaland,2008,Kharif     ,Rice,173100,345090,1.993587522
+Nagaland,2008,Kharif     ,Soyabean,24470,36680,1.498978341
+Nagaland,2008,Kharif     ,Sugarcane,4320,185760,43
+Nagaland,2008,Kharif     ,Sunflower,300,240,0.8
+Nagaland,2008,Kharif     ,Turmeric,800,3600,4.5
+Nagaland,2008,Rabi       ,Maize,1200,2160,1.8
+Nagaland,2008,Rabi       ,Masoor,1260,880,0.698412698
+Nagaland,2008,Rabi       ,Potato,2700,33350,12.35185185
+Nagaland,2008,Rabi       ,Wheat,1380,2070,1.5
+Nagaland,2009,Kharif     ,Arhar/Tur,3000,2110,0.703333333
+Nagaland,2009,Kharif     ,Bajra,1000,690,0.69
+Nagaland,2009,Kharif     ,Groundnut,700,550,0.785714286
+Nagaland,2009,Kharif     ,Maize,63100,65690,1.041045959
+Nagaland,2009,Kharif     ,Moong(Green Gram),620,560,0.903225806
+Nagaland,2009,Kharif     ,Potato,3030,28580,9.432343234
+Nagaland,2009,Kharif     ,Ragi,350,240,0.685714286
+Nagaland,2009,Kharif     ,Rice,168570,240310,1.425579878
+Nagaland,2009,Kharif     ,Soyabean,24240,25010,1.031765677
+Nagaland,2009,Kharif     ,Sugarcane,5090,152880,30.03536346
+Nagaland,2009,Kharif     ,Sunflower,200,120,0.6
+Nagaland,2009,Rabi       ,Maize,5000,7500,1.5
+Nagaland,2009,Rabi       ,Masoor,1910,1360,0.712041885
+Nagaland,2009,Rabi       ,Potato,2950,36580,12.4
+Nagaland,2009,Rabi       ,Sunflower,1840,1650,0.89673913
+Nagaland,2009,Rabi       ,Wheat,2010,2410,1.199004975
+Nagaland,2010,Kharif     ,Arhar/Tur,2500,2130,0.852
+Nagaland,2010,Kharif     ,Bajra,650,560,0.861538462
+Nagaland,2010,Kharif     ,Groundnut,730,740,1.01369863
+Nagaland,2010,Kharif     ,Maize,63430,124200,1.958064008
+Nagaland,2010,Kharif     ,Moong(Green Gram),200,190,0.95
+Nagaland,2010,Kharif     ,Potato,2750,34990,12.72363636
+Nagaland,2010,Kharif     ,Ragi,300,280,0.933333333
+Nagaland,2010,Kharif     ,Rice,180060,378210,2.100466511
+Nagaland,2010,Kharif     ,Soyabean,24350,30430,1.249691992
+Nagaland,2010,Kharif     ,Sugarcane,4250,184920,43.51058824
+Nagaland,2010,Kharif     ,Sunflower,200,160,0.8
+Nagaland,2010,Rabi       ,Maize,5000,9800,1.96
+Nagaland,2010,Rabi       ,Masoor,1970,1500,0.76142132
+Nagaland,2010,Rabi       ,Potato,3500,43410,12.40285714
+Nagaland,2010,Rabi       ,Rice,1330,3150,2.368421053
+Nagaland,2010,Rabi       ,Sunflower,1860,970,0.521505376
+Nagaland,2010,Rabi       ,Wheat,3120,5340,1.711538462
+Punjab,2000,Kharif     ,Arhar/Tur,8700,7600,0.873563218
+Punjab,2000,Kharif     ,Bajra,6000,5000,0.833333333
+Punjab,2000,Kharif     ,Groundnut,4000,4000,1
+Punjab,2000,Kharif     ,Maize,165000,461000,2.793939394
+Punjab,2000,Kharif     ,Moong(Green Gram),29500,18400,0.623728814
+Punjab,2000,Kharif     ,Rice,2611000,9154000,3.505936423
+Punjab,2000,Rabi       ,Masoor,4700,3100,0.659574468
+Punjab,2000,Rabi       ,Wheat,3408000,15551000,4.563086854
+Punjab,2001,Kharif     ,Arhar/Tur,9200,7900,0.858695652
+Punjab,2001,Kharif     ,Groundnut,400,400,1
+Punjab,2001,Kharif     ,Maize,165000,449000,2.721212121
+Punjab,2001,Kharif     ,Moong(Green Gram),23000,11000,0.47826087
+Punjab,2001,Kharif     ,Rice,2487000,8816000,3.544833132
+Punjab,2001,Rabi       ,Masoor,4300,3000,0.697674419
+Punjab,2001,Rabi       ,Wheat,3420000,15499000,4.531871345
+Punjab,2002,Kharif     ,Arhar/Tur,7800,6700,0.858974359
+Punjab,2002,Kharif     ,Bajra,7000,6000,0.857142857
+Punjab,2002,Kharif     ,Groundnut,5300,3800,0.716981132
+Punjab,2002,Kharif     ,Maize,152000,310000,2.039473684
+Punjab,2002,Kharif     ,Moong(Green Gram),15700,10500,0.668789809
+Punjab,2002,Kharif     ,Rice,2530000,8880000,3.509881423
+Punjab,2002,Rabi       ,Masoor,4000,2700,0.675
+Punjab,2002,Rabi       ,Wheat,3375000,14175000,4.2
+Punjab,2003,Kharif     ,Arhar/Tur,9700,9000,0.927835052
+Punjab,2003,Kharif     ,Bajra,8000,8000,1
+Punjab,2003,Kharif     ,Groundnut,4400,4000,0.909090909
+Punjab,2003,Kharif     ,Maize,154000,459000,2.980519481
+Punjab,2003,Kharif     ,Moong(Green Gram),18900,15800,0.835978836
+Punjab,2003,Kharif     ,Rice,2614000,9656000,3.693955624
+Punjab,2003,Rabi       ,Masoor,3600,2300,0.638888889
+Punjab,2003,Rabi       ,Sunflower,20000,34000,1.7
+Punjab,2003,Rabi       ,Wheat,3444000,14489000,4.207026713
+Punjab,2004,Kharif     ,Arhar/Tur,8900,7700,0.865168539
+Punjab,2004,Kharif     ,Bajra,7000,7000,1
+Punjab,2004,Kharif     ,Groundnut,4300,3600,0.837209302
+Punjab,2004,Kharif     ,Maize,154000,422000,2.74025974
+Punjab,2004,Kharif     ,Moong(Green Gram),15000,12000,0.8
+Punjab,2004,Kharif     ,Rice,2800000,10437000,3.7275
+Punjab,2004,Rabi       ,Masoor,3300,1600,0.484848485
+Punjab,2004,Rabi       ,Wheat,3482000,14698000,4.221137277
+Punjab,2005,Kharif     ,Arhar/Tur,7800,6900,0.884615385
+Punjab,2005,Kharif     ,Bajra,5000,5000,1
+Punjab,2005,Kharif     ,Groundnut,3400,3000,0.882352941
+Punjab,2005,Kharif     ,Maize,148000,403000,2.722972973
+Punjab,2005,Kharif     ,Moong(Green Gram),12300,9900,0.804878049
+Punjab,2005,Kharif     ,Rice,2642000,10193000,3.858062074
+Punjab,2005,Rabi       ,Masoor,1900,900,0.473684211
+Punjab,2005,Rabi       ,Wheat,3468000,14493000,4.179065744
+Punjab,2006,Kharif     ,Arhar/Tur,7200,6700,0.930555556
+Punjab,2006,Kharif     ,Bajra,6000,6000,1
+Punjab,2006,Kharif     ,Groundnut,4400,3800,0.863636364
+Punjab,2006,Kharif     ,Maize,154000,481000,3.123376623
+Punjab,2006,Kharif     ,Moong(Green Gram),12300,10700,0.869918699
+Punjab,2006,Kharif     ,Rice,2621000,10138000,3.867989317
+Punjab,2006,Rabi       ,Masoor,2100,800,0.380952381
+Punjab,2006,Rabi       ,Wheat,3467000,14596000,4.20997981
+Punjab,2007,Kharif     ,Arhar/Tur,6000,5400,0.9
+Punjab,2007,Kharif     ,Bajra,4000,4000,1
+Punjab,2007,Kharif     ,Groundnut,3100,2700,0.870967742
+Punjab,2007,Kharif     ,Maize,153000,521000,3.405228758
+Punjab,2007,Kharif     ,Moong(Green Gram),11700,8400,0.717948718
+Punjab,2007,Kharif     ,Rice,2610000,10489000,4.018773946
+Punjab,2007,Rabi       ,Masoor,12000,6000,0.5
+Punjab,2007,Rabi       ,Wheat,3488000,15720000,4.506880734
+Punjab,2008,Kharif     ,Arhar/Tur,5900,5700,0.966101695
+Punjab,2008,Kharif     ,Bajra,5000,5000,1
+Punjab,2008,Kharif     ,Groundnut,2700,2500,0.925925926
+Punjab,2008,Kharif     ,Maize,151000,514000,3.40397351
+Punjab,2008,Kharif     ,Moong(Green Gram),8900,7900,0.887640449
+Punjab,2008,Kharif     ,Rice,2735000,11000000,4.021937843
+Punjab,2008,Rabi       ,Masoor,11000,6000,0.545454545
+Punjab,2008,Rabi       ,Wheat,3466000,15733000,4.539238315
+Punjab,2009,Kharif     ,Arhar/Tur,4600,4400,0.956521739
+Punjab,2009,Kharif     ,Bajra,3000,4000,1.333333333
+Punjab,2009,Kharif     ,Groundnut,2500,3100,1.24
+Punjab,2009,Kharif     ,Maize,139000,475000,3.417266187
+Punjab,2009,Kharif     ,Moong(Green Gram),7000,6400,0.914285714
+Punjab,2009,Kharif     ,Rice,2802000,11236000,4.009992862
+Punjab,2009,Rabi       ,Masoor,1100,700,0.636363636
+Punjab,2009,Rabi       ,Wheat,3522000,15169000,4.306927882
+Punjab,2010,Kharif     ,Arhar/Tur,4200,3900,0.928571429
+Punjab,2010,Kharif     ,Bajra,3000,3000,1
+Punjab,2010,Kharif     ,Groundnut,2200,3900,1.772727273
+Punjab,2010,Kharif     ,Maize,133000,491000,3.691729323
+Punjab,2010,Kharif     ,Moong(Green Gram),7800,6300,0.807692308
+Punjab,2010,Kharif     ,Rice,2831000,10837000,3.82797598
+Punjab,2010,Rabi       ,Masoor,1100,739,0.671818182
+Punjab,2010,Rabi       ,Wheat,3510000,16472000,4.692877493
+Rajasthan,2000,Kharif     ,Arhar/Tur,25405,9560,0.376303877
+Rajasthan,2000,Kharif     ,Bajra,4636922,2046659,0.441383099
+Rajasthan,2000,Kharif     ,Groundnut,195739,180762,0.923484845
+Rajasthan,2000,Kharif     ,Maize,969898,1015326,1.046837915
+Rajasthan,2000,Kharif     ,Moong(Green Gram),457940,79319,0.173208281
+Rajasthan,2000,Kharif     ,Rice,166275,155716,0.936496767
+Rajasthan,2000,Kharif     ,Soyabean,659250,455866,0.691491847
+Rajasthan,2000,Kharif     ,Sunflower,57,10,0.175438596
+Rajasthan,2000,Rabi       ,Masoor,21700,25789,1.18843318
+Rajasthan,2000,Rabi       ,Wheat,2309637,5547100,2.401719404
+Rajasthan,2001,Kharif     ,Arhar/Tur,23805,13705,0.575719387
+Rajasthan,2001,Kharif     ,Bajra,5129949,3819783,0.744604479
+Rajasthan,2001,Kharif     ,Groundnut,242627,297641,1.226743108
+Rajasthan,2001,Kharif     ,Maize,1017433,1478871,1.453531584
+Rajasthan,2001,Kharif     ,Moong(Green Gram),702136,207188,0.295082434
+Rajasthan,2001,Kharif     ,Rice,144378,180048,1.247059801
+Rajasthan,2001,Kharif     ,Soyabean,655916,715875,1.09141262
+Rajasthan,2001,Kharif     ,Sunflower,57,25,0.438596491
+Rajasthan,2001,Rabi       ,Masoor,16974,15399,0.907211029
+Rajasthan,2001,Rabi       ,Wheat,2287498,6389030,2.793021021
+Rajasthan,2002,Kharif     ,Arhar/Tur,16531,3894,0.235557438
+Rajasthan,2002,Kharif     ,Bajra,3215390,717945,0.223283956
+Rajasthan,2002,Kharif     ,Groundnut,241832,166050,0.686633696
+Rajasthan,2002,Kharif     ,Maize,983553,870264,0.884816578
+Rajasthan,2002,Kharif     ,Moong(Green Gram),514602,32466,0.063089533
+Rajasthan,2002,Kharif     ,Rice,83584,67932,0.81273928
+Rajasthan,2002,Kharif     ,Soyabean,471650,236443,0.501310294
+Rajasthan,2002,Kharif     ,Sunflower,25,3,0.12
+Rajasthan,2002,Rabi       ,Masoor,5864,5738,0.97851296
+Rajasthan,2002,Rabi       ,Wheat,1800659,4878020,2.709019309
+Rajasthan,2003,Kharif     ,Arhar/Tur,19517,15868,0.81303479
+Rajasthan,2003,Kharif     ,Bajra,5868008,6669825,1.136642111
+Rajasthan,2003,Kharif     ,Groundnut,212040,331881,1.565181098
+Rajasthan,2003,Kharif     ,Maize,1110655,2069387,1.863213149
+Rajasthan,2003,Kharif     ,Moong(Green Gram),828577,513622,0.619884453
+Rajasthan,2003,Kharif     ,Rice,99756,164858,1.652612374
+Rajasthan,2003,Kharif     ,Soyabean,493907,691416,1.399891073
+Rajasthan,2003,Kharif     ,Sunflower,54,42,0.777777778
+Rajasthan,2003,Rabi       ,Masoor,26154,32340,1.236522138
+Rajasthan,2003,Rabi       ,Wheat,2103059,5875862,2.793959656
+Rajasthan,2004,Kharif     ,Arhar/Tur,16916,12651,0.747871837
+Rajasthan,2004,Kharif     ,Bajra,4587712,3011054,0.656330214
+Rajasthan,2004,Kharif     ,Groundnut,290032,449540,1.5499669
+Rajasthan,2004,Kharif     ,Maize,1042511,1265243,1.213649544
+Rajasthan,2004,Kharif     ,Moong(Green Gram),757699,206146,0.27206846
+Rajasthan,2004,Kharif     ,Rice,101361,150423,1.48403232
+Rajasthan,2004,Kharif     ,Soyabean,621904,886508,1.425474028
+Rajasthan,2004,Kharif     ,Sunflower,23,21,0.913043478
+Rajasthan,2004,Rabi       ,Masoor,28751,28640,0.996139265
+Rajasthan,2004,Rabi       ,Wheat,2010241,5706871,2.838898918
+Rajasthan,2005,Kharif     ,Arhar/Tur,20388,13241,0.649450657
+Rajasthan,2005,Kharif     ,Bajra,4993678,2168332,0.434215422
+Rajasthan,2005,Kharif     ,Groundnut,320765,496075,1.546537185
+Rajasthan,2005,Kharif     ,Maize,1004963,1103841,1.098389692
+Rajasthan,2005,Kharif     ,Moong(Green Gram),852297,135510,0.158993872
+Rajasthan,2005,Kharif     ,Rice,107492,153074,1.424050162
+Rajasthan,2005,Kharif     ,Soyabean,744304,856321,1.15049899
+Rajasthan,2005,Kharif     ,Sunflower,65,134,2.061538462
+Rajasthan,2005,Rabi       ,Masoor,18457,16750,0.907514764
+Rajasthan,2005,Rabi       ,Wheat,2123910,5865293,2.761554397
+Rajasthan,2006,Kharif     ,Arhar/Tur,18555,9287,0.500511991
+Rajasthan,2006,Kharif     ,Bajra,4910409,3440400,0.700634102
+Rajasthan,2006,Kharif     ,Groundnut,306037,399509,1.305427122
+Rajasthan,2006,Kharif     ,Maize,1032079,1117941,1.083193244
+Rajasthan,2006,Kharif     ,Moong(Green Gram),759454,271112,0.35698278
+Rajasthan,2006,Kharif     ,Rice,107758,169823,1.575966518
+Rajasthan,2006,Kharif     ,Soyabean,641114,771347,1.20313548
+Rajasthan,2006,Kharif     ,Sunflower,137,124,0.905109489
+Rajasthan,2006,Rabi       ,Masoor,14003,12947,0.924587588
+Rajasthan,2006,Rabi       ,Sunflower,137,125,0.912408759
+Rajasthan,2006,Rabi       ,Wheat,2564840,7755883,3.023924689
+Rajasthan,2007,Kharif     ,Arhar/Tur,17692,15530,0.877797875
+Rajasthan,2007,Kharif     ,Bajra,5108580,4240852,0.830143014
+Rajasthan,2007,Kharif     ,Groundnut,279423,481645,1.723712794
+Rajasthan,2007,Kharif     ,Maize,1055538,1961513,1.85830638
+Rajasthan,2007,Kharif     ,Moong(Green Gram),1060182,416773,0.393114578
+Rajasthan,2007,Kharif     ,Rice,127831,259657,2.0312522
+Rajasthan,2007,Kharif     ,Soyabean,797657,1071304,1.343063497
+Rajasthan,2007,Rabi       ,Masoor,14822,10461,0.705775199
+Rajasthan,2007,Rabi       ,Sunflower,40,97,2.425
+Rajasthan,2007,Rabi       ,Wheat,2592188,7126040,2.749044437
+Rajasthan,2008,Kharif     ,Arhar/Tur,19343,14880,0.769270537
+Rajasthan,2008,Kharif     ,Bajra,5206162,4293938,0.824779943
+Rajasthan,2008,Kharif     ,Groundnut,324209,540300,1.666517586
+Rajasthan,2008,Kharif     ,Maize,1053878,1831110,1.73749713
+Rajasthan,2008,Kharif     ,Moong(Green Gram),886019,373364,0.421395027
+Rajasthan,2008,Kharif     ,Rice,133418,241082,1.806967576
+Rajasthan,2008,Kharif     ,Soyabean,829468,807871,0.973962829
+Rajasthan,2008,Rabi       ,Masoor,20637,17881,0.866453457
+Rajasthan,2008,Rabi       ,Wheat,2294858,7287074,3.175392116
+Rajasthan,2009,Kharif     ,Arhar/Tur,18398,6977,0.379226003
+Rajasthan,2009,Kharif     ,Bajra,5223564,2034875,0.389556824
+Rajasthan,2009,Kharif     ,Groundnut,336177,354458,1.054379092
+Rajasthan,2009,Kharif     ,Maize,1100216,1144716,1.040446603
+Rajasthan,2009,Kharif     ,Moong(Green Gram),923134,43981,0.047643137
+Rajasthan,2009,Kharif     ,Rice,150694,228284,1.514884468
+Rajasthan,2009,Kharif     ,Soyabean,778372,914588,1.175001156
+Rajasthan,2009,Rabi       ,Masoor,27047,24198,0.894664843
+Rajasthan,2009,Rabi       ,Wheat,2394213,7500851,3.13290881
+Rajasthan,2010,Kharif     ,Arhar/Tur,21410,16237,0.758383933
+Rajasthan,2010,Kharif     ,Bajra,5519448,6117800,1.108407942
+Rajasthan,2010,Kharif     ,Groundnut,349331,686817,1.966092331
+Rajasthan,2010,Kharif     ,Maize,1147191,2061424,1.79693181
+Rajasthan,2010,Kharif     ,Moong(Green Gram),1049490,652228,0.621471381
+Rajasthan,2010,Kharif     ,Rice,131126,265545,2.02511325
+Rajasthan,2010,Kharif     ,Soyabean,765499,1118103,1.460619805
+Rajasthan,2010,Kharif     ,Sunflower,3,1,0.333333333
+Rajasthan,2010,Rabi       ,Masoor,44070,38449,0.872452916
+Rajasthan,2010,Rabi       ,Wheat,3036141,10424350,3.433420912
+Sikkim,2000,Kharif     ,Maize,39903,59611,1.493897702
+Sikkim,2000,Kharif     ,Rice,15218,21358,1.403469576
+Sikkim,2000,Kharif     ,Soyabean,4150,3410,0.821686747
+Sikkim,2000,Rabi       ,Wheat,7215,10103,1.4002772
+Sikkim,2001,Kharif     ,Maize,40110,57014,1.421441037
+Sikkim,2001,Kharif     ,Rice,14900,21372,1.434362416
+Sikkim,2001,Kharif     ,Soyabean,4150,3314,0.798554217
+Sikkim,2001,Rabi       ,Wheat,8710,10485,1.203788749
+Sikkim,2002,Kharif     ,Maize,36720,53210,1.449074074
+Sikkim,2002,Kharif     ,Rice,14790,21220,1.434753212
+Sikkim,2002,Kharif     ,Soyabean,3890,2910,0.748071979
+Sikkim,2002,Rabi       ,Wheat,8330,10400,1.2484994
+Sikkim,2003,Kharif     ,Maize,36700,57050,1.554495913
+Sikkim,2003,Kharif     ,Rice,14740,21190,1.437584803
+Sikkim,2003,Kharif     ,Soyabean,3890,3210,0.825192802
+Sikkim,2003,Rabi       ,Wheat,6805,8686,1.276414401
+Sikkim,2004,Kharif     ,Maize,36700,58280,1.588010899
+Sikkim,2004,Kharif     ,Rice,9070,21610,2.382579934
+Sikkim,2004,Kharif     ,Soyabean,3890,2170,0.557840617
+Sikkim,2004,Rabi       ,Wheat,5740,8250,1.43728223
+Sikkim,2005,Kharif     ,Maize,25450,61100,2.400785855
+Sikkim,2005,Kharif     ,Rice,9790,23690,2.419816139
+Sikkim,2005,Kharif     ,Soyabean,2630,3330,1.266159696
+Sikkim,2005,Rabi       ,Wheat,5740,9250,1.611498258
+Sikkim,2006,Kharif     ,Maize,40850,64890,1.588494492
+Sikkim,2006,Kharif     ,Rice,9200,21450,2.331521739
+Sikkim,2006,Kharif     ,Soyabean,3230,3230,1
+Sikkim,2006,Rabi       ,Wheat,6380,10360,1.623824451
+Sikkim,2007,Kharif     ,Maize,39770,59120,1.486547649
+Sikkim,2007,Kharif     ,Rice,11860,19480,1.642495784
+Sikkim,2007,Kharif     ,Soyabean,2360,2350,0.995762712
+Sikkim,2007,Rabi       ,Wheat,4460,4460,1
+Sikkim,2008,Kharif     ,Maize,39200,65740,1.677040816
+Sikkim,2008,Kharif     ,Rice,13000,22230,1.71
+Sikkim,2008,Kharif     ,Soyabean,3600,3160,0.877777778
+Sikkim,2008,Rabi       ,Wheat,3900,3500,0.897435897
+Sikkim,2009,Kharif     ,Maize,39500,64690,1.637721519
+Sikkim,2009,Kharif     ,Rice,12270,20930,1.705786471
+Sikkim,2009,Kharif     ,Soyabean,4200,3650,0.869047619
+Sikkim,2009,Rabi       ,Wheat,5200,4720,0.907692308
+Sikkim,2010,Kharif     ,Maize,40170,276023,6.87137167
+Sikkim,2010,Kharif     ,Rice,12140,20973,1.727594728
+Sikkim,2010,Kharif     ,Soyabean,4200,3749,0.892619048
+Sikkim,2010,Rabi       ,Wheat,2650,2710,1.022641509
+Tamil Nadu,2000,Kharif     ,Arhar/Tur,84929,60293,0.709922406
+Tamil Nadu,2000,Kharif     ,Bajra,199655,303245,1.518845008
+Tamil Nadu,2000,Kharif     ,Groundnut,825063,1456648,1.765499119
+Tamil Nadu,2000,Kharif     ,Maize,119802,193854,1.618119898
+Tamil Nadu,2000,Kharif     ,Moong(Green Gram),198603,90864,0.457515747
+Tamil Nadu,2000,Kharif     ,Ragi,165144,283091,1.714206995
+Tamil Nadu,2000,Kharif     ,Rice,2113344,7217903,3.415394276
+Tamil Nadu,2000,Kharif     ,Sunflower,13345,14389,1.078231547
+Tamil Nadu,2000,Rabi       ,Wheat,124,60,0.483870968
+Tamil Nadu,2001,Kharif     ,Arhar/Tur,63613,41420.1,0.651126342
+Tamil Nadu,2001,Kharif     ,Bajra,125093,152971,1.222858194
+Tamil Nadu,2001,Kharif     ,Groundnut,662982,1249630,1.884862636
+Tamil Nadu,2001,Kharif     ,Moong(Green Gram),128995,53470.1,0.414512966
+Tamil Nadu,2001,Kharif     ,Ragi,124958,235311,1.883120729
+Tamil Nadu,2001,Kharif     ,Rice,2059878,6583630,3.196126178
+Tamil Nadu,2001,Kharif     ,Sunflower,6607,8530,1.291054942
+Tamil Nadu,2002,Kharif     ,Arhar/Tur,44127,24067,0.545403041
+Tamil Nadu,2002,Kharif     ,Bajra,102020,88682,0.869260929
+Tamil Nadu,2002,Kharif     ,Groundnut,502090,717403,1.428833476
+Tamil Nadu,2002,Kharif     ,Maize,121057,191646,1.583105479
+Tamil Nadu,2002,Kharif     ,Moong(Green Gram),112812,48053,0.425956459
+Tamil Nadu,2002,Kharif     ,Ragi,104286,140169,1.344082619
+Tamil Nadu,2002,Kharif     ,Rice,1516537,3577108,2.358734406
+Tamil Nadu,2002,Kharif     ,Sunflower,7709,8908,1.155532494
+Tamil Nadu,2002,Rabi       ,Wheat,17,0,0
+Tamil Nadu,2003,Kharif     ,Arhar/Tur,44914,27475,0.611724629
+Tamil Nadu,2003,Kharif     ,Bajra,158851,172342,1.084928644
+Tamil Nadu,2003,Kharif     ,Groundnut,591696,918241,1.551879681
+Tamil Nadu,2003,Kharif     ,Maize,160159,250992,1.567142652
+Tamil Nadu,2003,Kharif     ,Moong(Green Gram),125690,53315,0.424178534
+Tamil Nadu,2003,Kharif     ,Ragi,118439,176381,1.489213857
+Tamil Nadu,2003,Kharif     ,Rice,1396651,3222776,2.307502733
+Tamil Nadu,2003,Kharif     ,Sunflower,10367,13408,1.293334619
+Tamil Nadu,2004,Kharif     ,Arhar/Tur,43416,28979,0.667472821
+Tamil Nadu,2004,Kharif     ,Bajra,97608,124300,1.273461192
+Tamil Nadu,2004,Kharif     ,Groundnut,615877,1005342,1.632374646
+Tamil Nadu,2004,Kharif     ,Maize,189893,294717,1.552016135
+Tamil Nadu,2004,Kharif     ,Moong(Green Gram),154959,61760,0.398557038
+Tamil Nadu,2004,Kharif     ,Ragi,108845,154085,1.415636915
+Tamil Nadu,2004,Kharif     ,Rice,1872822,5061622,2.702671156
+Tamil Nadu,2004,Kharif     ,Sunflower,18152,19303,1.063408991
+Tamil Nadu,2004,Rabi       ,Wheat,17,0,0
+Tamil Nadu,2005,Kharif     ,Arhar/Tur,37769,20400,0.5401255
+Tamil Nadu,2005,Kharif     ,Bajra,81925,94799,1.157143729
+Tamil Nadu,2005,Kharif     ,Groundnut,618835,1097592,1.773642409
+Tamil Nadu,2005,Kharif     ,Maize,202830,0,0
+Tamil Nadu,2005,Kharif     ,Moong(Green Gram),136699,45881,0.335635228
+Tamil Nadu,2005,Kharif     ,Ragi,99549,132172,1.327707963
+Tamil Nadu,2005,Kharif     ,Rice,2050455,5209433,2.540622935
+Tamil Nadu,2005,Kharif     ,Soyabean,630,0,0
+Tamil Nadu,2005,Kharif     ,Sunflower,17056,21148,1.239915572
+Tamil Nadu,2006,Kharif     ,Rice,1931397,6610607,3.422707501
+Tamil Nadu,2006,Rabi       ,Wheat,140,0,0
+Tamil Nadu,2007,Kharif     ,Rice,1789170,5039954,2.816922931
+Tamil Nadu,2008,Kharif     ,Rice,1931603,5183385,2.683462906
+Tamil Nadu,2009,Kharif     ,Rice,1845553,5665258,3.06968047
+Tamil Nadu,2010,Kharif     ,Arhar/Tur,35751,23669,0.662051411
+Tamil Nadu,2010,Kharif     ,Groundnut,385509,895638,2.323260936
+Tamil Nadu,2010,Kharif     ,Maize,230489,1027536,4.458069582
+Tamil Nadu,2010,Kharif     ,Moong(Green Gram),171666,57683,0.336018781
+Tamil Nadu,2010,Kharif     ,Ragi,75650,171096,2.261678784
+Tamil Nadu,2010,Kharif     ,Rice,1905726,5792415,3.039479442
+Tamil Nadu,2010,Kharif     ,Sunflower,8718,10036,1.151181464
+Tripura,2000,Kharif     ,Maize,1580,1580,1
+Tripura,2000,Kharif     ,Rice,243070,547520,2.25251985
+Tripura,2000,Rabi       ,Wheat,1065,2230,2.093896714
+Tripura,2001,Kharif     ,Maize,2080,2080,1
+Tripura,2001,Kharif     ,Rice,246750,587390,2.380506586
+Tripura,2001,Rabi       ,Wheat,1220,2455,2.012295082
+Tripura,2002,Kharif     ,Maize,2305,2205,0.956616052
+Tripura,2002,Kharif     ,Rice,255270,602410,2.359893446
+Tripura,2002,Rabi       ,Wheat,919,1827,1.988030468
+Tripura,2003,Kharif     ,Maize,2240,2150,0.959821429
+Tripura,2003,Kharif     ,Rice,257440,616820,2.395975761
+Tripura,2003,Rabi       ,Wheat,895,1810,2.022346369
+Tripura,2004,Kharif     ,Arhar/Tur,1481,997,0.673193788
+Tripura,2004,Kharif     ,Groundnut,442,459,1.038461538
+Tripura,2004,Kharif     ,Maize,2790,2967,1.06344086
+Tripura,2004,Kharif     ,Moong(Green Gram),340,183,0.538235294
+Tripura,2004,Kharif     ,Rice,256076,602221,2.351727612
+Tripura,2004,Rabi       ,Groundnut,197,210,1.065989848
+Tripura,2004,Rabi       ,Masoor,422,215,0.509478673
+Tripura,2004,Rabi       ,Moong(Green Gram),442,220,0.497737557
+Tripura,2004,Rabi       ,Wheat,944,1942,2.05720339
+Tripura,2005,Kharif     ,Arhar/Tur,1135,806,0.710132159
+Tripura,2005,Kharif     ,Groundnut,616,665,1.079545455
+Tripura,2005,Kharif     ,Maize,2150,2100,0.976744186
+Tripura,2005,Kharif     ,Moong(Green Gram),963,518,0.537902388
+Tripura,2005,Kharif     ,Rice,253067,602947,2.382558769
+Tripura,2005,Rabi       ,Groundnut,290,272,0.937931034
+Tripura,2005,Rabi       ,Masoor,402,299,0.743781095
+Tripura,2005,Rabi       ,Moong(Green Gram),317,191,0.602523659
+Tripura,2005,Rabi       ,Wheat,1750,3184,1.819428571
+Tripura,2006,Kharif     ,Arhar/Tur,1193,849,0.711651299
+Tripura,2006,Kharif     ,Groundnut,412,435,1.055825243
+Tripura,2006,Kharif     ,Maize,2450,2420,0.987755102
+Tripura,2006,Kharif     ,Moong(Green Gram),744,389,0.522849462
+Tripura,2006,Kharif     ,Rice,250939,628200,2.50339724
+Tripura,2006,Rabi       ,Groundnut,187,186,0.994652406
+Tripura,2006,Rabi       ,Masoor,360,234,0.65
+Tripura,2006,Rabi       ,Moong(Green Gram),349,185,0.53008596
+Tripura,2006,Rabi       ,Wheat,970,1845,1.902061856
+Tripura,2007,Kharif     ,Arhar/Tur,1221,882,0.722358722
+Tripura,2007,Kharif     ,Groundnut,409,423,1.034229829
+Tripura,2007,Kharif     ,Maize,2123,2125,1.000942063
+Tripura,2007,Kharif     ,Moong(Green Gram),366,183,0.5
+Tripura,2007,Kharif     ,Rice,252897,640424,2.532351115
+Tripura,2007,Rabi       ,Groundnut,270,263,0.974074074
+Tripura,2007,Rabi       ,Masoor,323,214,0.6625387
+Tripura,2007,Rabi       ,Moong(Green Gram),242,137,0.566115702
+Tripura,2007,Rabi       ,Wheat,1023,1889,1.846529814
+Tripura,2008,Kharif     ,Arhar/Tur,988,719,0.727732794
+Tripura,2008,Kharif     ,Groundnut,291,312,1.072164948
+Tripura,2008,Kharif     ,Maize,2093,2046,0.977544195
+Tripura,2008,Kharif     ,Moong(Green Gram),389,204,0.524421594
+Tripura,2008,Kharif     ,Rice,242966,627175,2.581328252
+Tripura,2008,Rabi       ,Groundnut,195,228,1.169230769
+Tripura,2008,Rabi       ,Masoor,352,268,0.761363636
+Tripura,2008,Rabi       ,Moong(Green Gram),218,135,0.619266055
+Tripura,2008,Rabi       ,Wheat,635,1195,1.881889764
+Tripura,2009,Kharif     ,Arhar/Tur,987,716,0.725430598
+Tripura,2009,Kharif     ,Groundnut,236,256,1.084745763
+Tripura,2009,Kharif     ,Maize,2018,2030,1.005946482
+Tripura,2009,Kharif     ,Moong(Green Gram),398,222,0.557788945
+Tripura,2009,Kharif     ,Rice,245538,640010,2.606561917
+Tripura,2009,Rabi       ,Groundnut,187,208,1.112299465
+Tripura,2009,Rabi       ,Masoor,324,215,0.663580247
+Tripura,2009,Rabi       ,Moong(Green Gram),230,131,0.569565217
+Tripura,2009,Rabi       ,Wheat,667,1323,1.983508246
+Tripura,2010,Kharif     ,Arhar/Tur,1207,923,0.764705882
+Tripura,2010,Kharif     ,Groundnut,336,362,1.077380952
+Tripura,2010,Kharif     ,Maize,3101,4104,1.32344405
+Tripura,2010,Kharif     ,Moong(Green Gram),396,212,0.535353535
+Tripura,2010,Kharif     ,Rice,264558,702473,2.6552703
+Tripura,2010,Rabi       ,Groundnut,327,338,1.033639144
+Tripura,2010,Rabi       ,Masoor,317,213,0.67192429
+Tripura,2010,Rabi       ,Moong(Green Gram),199,113,0.567839196
+Tripura,2010,Rabi       ,Wheat,316,637,2.015822785
+Uttar Pradesh,2000,Kharif     ,Arhar/Tur,406596,509756,1.25371622
+Uttar Pradesh,2000,Kharif     ,Bajra,881010,1277360,1.449881386
+Uttar Pradesh,2000,Kharif     ,Groundnut,115425,96359,0.834819147
+Uttar Pradesh,2000,Kharif     ,Maize,907927,1473111,1.622499386
+Uttar Pradesh,2000,Kharif     ,Moong(Green Gram),28449,8585,0.301768076
+Uttar Pradesh,2000,Kharif     ,Rice,5904128,11672250,1.976964253
+Uttar Pradesh,2000,Kharif     ,Soyabean,15743,9207,0.584831354
+Uttar Pradesh,2000,Rabi       ,Maize,12914,20943,1.621728357
+Uttar Pradesh,2000,Rabi       ,Masoor,651730,408052,0.626105903
+Uttar Pradesh,2000,Rabi       ,Moong(Green Gram),53103,24016.1,0.452255052
+Uttar Pradesh,2000,Rabi       ,Wheat,9239311,25168332,2.724048579
+Uttar Pradesh,2001,Kharif     ,Arhar/Tur,394228,456228,1.157269397
+Uttar Pradesh,2001,Kharif     ,Bajra,850727,967732,1.137535308
+Uttar Pradesh,2001,Kharif     ,Groundnut,107515,90156,0.838543459
+Uttar Pradesh,2001,Kharif     ,Maize,913718,1488204,1.628734467
+Uttar Pradesh,2001,Kharif     ,Moong(Green Gram),28084,7724.7,0.275056972
+Uttar Pradesh,2001,Kharif     ,Rice,6068496,12849116,2.117347692
+Uttar Pradesh,2001,Kharif     ,Soyabean,10939,7909,0.723009416
+Uttar Pradesh,2001,Kharif     ,Sunflower,5496,10609,1.930312955
+Uttar Pradesh,2001,Rabi       ,Maize,17419,28376,1.629025776
+Uttar Pradesh,2001,Rabi       ,Masoor,625265,499774,0.799299497
+Uttar Pradesh,2001,Rabi       ,Moong(Green Gram),38576,18201,0.471821858
+Uttar Pradesh,2001,Rabi       ,Wheat,9255937,25498002,2.754772639
+Uttar Pradesh,2002,Kharif     ,Bajra,831306,1072525,1.290168722
+Uttar Pradesh,2002,Kharif     ,Groundnut,81715,53549,0.655314202
+Uttar Pradesh,2002,Kharif     ,Maize,755265,836410,1.107439111
+Uttar Pradesh,2002,Kharif     ,Moong(Green Gram),22130,6235,0.281744239
+Uttar Pradesh,2002,Kharif     ,Rice,5209137,9586935,1.840407538
+Uttar Pradesh,2002,Kharif     ,Soyabean,4735,767,0.161985216
+Uttar Pradesh,2002,Kharif     ,Sunflower,7230,10383,1.436099585
+Uttar Pradesh,2002,Rabi       ,Maize,19933,22064,1.106908142
+Uttar Pradesh,2002,Rabi       ,Masoor,563280,430561,0.764381835
+Uttar Pradesh,2002,Rabi       ,Onion,8199,84614,10.32003903
+Uttar Pradesh,2002,Rabi       ,Ragi,590,864,1.46440678
+Uttar Pradesh,2002,Rabi       ,Wheat,9162749,23745162,2.591488864
+Uttar Pradesh,2003,Kharif     ,Arhar/Tur,360467,395677,1.097678844
+Uttar Pradesh,2003,Kharif     ,Bajra,924202,1188103,1.285544719
+Uttar Pradesh,2003,Kharif     ,Groundnut,85143,56879,0.668040825
+Uttar Pradesh,2003,Kharif     ,Maize,817385,1117621,1.367312833
+Uttar Pradesh,2003,Kharif     ,Moong(Green Gram),35227,8228,0.233570841
+Uttar Pradesh,2003,Kharif     ,Rice,5719933,12476923,2.181305795
+Uttar Pradesh,2003,Kharif     ,Soyabean,4954,5315,1.072870408
+Uttar Pradesh,2003,Kharif     ,Sunflower,12044,20111,1.669794088
+Uttar Pradesh,2003,Rabi       ,Maize,4172,5704,1.367209971
+Uttar Pradesh,2003,Rabi       ,Masoor,571992,515023,0.900402453
+Uttar Pradesh,2003,Rabi       ,Onion,8781,126033,14.35292108
+Uttar Pradesh,2003,Rabi       ,Ragi,221,323,1.461538462
+Uttar Pradesh,2003,Rabi       ,Wheat,9443104,26349910,2.790386509
+Uttar Pradesh,2004,Kharif     ,Bajra,878399,1335462,1.52033643
+Uttar Pradesh,2004,Kharif     ,Groundnut,95298,78428,0.822976348
+Uttar Pradesh,2004,Kharif     ,Maize,841751,1294882,1.538319527
+Uttar Pradesh,2004,Kharif     ,Rice,5934405,10749989,1.811468715
+Uttar Pradesh,2004,Kharif     ,Soyabean,9306,3843,0.412959381
+Uttar Pradesh,2004,Kharif     ,Sugarcane,2002320,121755620,60.80727356
+Uttar Pradesh,2004,Rabi       ,Maize,4156,19263,4.634985563
+Uttar Pradesh,2004,Rabi       ,Potato,435135,9739656,22.38306732
+Uttar Pradesh,2004,Rabi       ,Turmeric,1594,2770,1.737766625
+Uttar Pradesh,2004,Rabi       ,Wheat,9373402,23430044,2.499630764
+Uttar Pradesh,2005,Kharif     ,Bajra,869288,1246252,1.433646847
+Uttar Pradesh,2005,Kharif     ,Maize,810306,1040607,1.284214852
+Uttar Pradesh,2005,Kharif     ,Rice,5571524,11119095,1.995700817
+Uttar Pradesh,2005,Kharif     ,Soyabean,3852,3016,0.782969886
+Uttar Pradesh,2005,Kharif     ,Sugarcane,2155791,125469871,58.20131497
+Uttar Pradesh,2005,Rabi       ,Potato,445197,9986781,22.4322738
+Uttar Pradesh,2005,Rabi       ,Turmeric,979,4364,4.457609806
+Uttar Pradesh,2005,Rabi       ,Wheat,9163949,23573776,2.572447315
+Uttar Pradesh,2006,Kharif     ,Arhar/Tur,406572,304386,0.748664443
+Uttar Pradesh,2006,Kharif     ,Bajra,883877,1285887,1.454825728
+Uttar Pradesh,2006,Kharif     ,Groundnut,100483,72636,0.722868545
+Uttar Pradesh,2006,Kharif     ,Maize,842052,1116939,1.32644896
+Uttar Pradesh,2006,Kharif     ,Rice,5902577,11082993,1.877653269
+Uttar Pradesh,2006,Kharif     ,Soyabean,7494,7314,0.975980785
+Uttar Pradesh,2006,Kharif     ,Sugarcane,2246520,133949379,59.62527776
+Uttar Pradesh,2006,Rabi       ,Garlic,31932,140404,4.396968558
+Uttar Pradesh,2006,Rabi       ,Maize,4215,13278,3.150177936
+Uttar Pradesh,2006,Rabi       ,Masoor,615721,433856,0.704630831
+Uttar Pradesh,2006,Rabi       ,Onion,7525,144345,19.1820598
+Uttar Pradesh,2006,Rabi       ,Potato,469301,10247912,21.83654414
+Uttar Pradesh,2006,Rabi       ,Tobacco,23227,123614,5.321995953
+Uttar Pradesh,2006,Rabi       ,Turmeric,1625,5526,3.400615385
+Uttar Pradesh,2006,Rabi       ,Wheat,9197642,25443428,2.766299014
+Uttar Pradesh,2007,Kharif     ,Arhar/Tur,368230,327918,0.890524944
+Uttar Pradesh,2007,Kharif     ,Bajra,876979,1336355,1.52381642
+Uttar Pradesh,2007,Kharif     ,Dry chillies,15658,15093,0.963916209
+Uttar Pradesh,2007,Kharif     ,Groundnut,98981,59174,0.597831907
+Uttar Pradesh,2007,Kharif     ,Maize,812088,1167245,1.437338072
+Uttar Pradesh,2007,Kharif     ,Moong(Green Gram),31082,6183,0.198925423
+Uttar Pradesh,2007,Kharif     ,Rice,5690539,11731754,2.061624391
+Uttar Pradesh,2007,Kharif     ,Soyabean,4834,3239,0.670045511
+Uttar Pradesh,2007,Kharif     ,Sugarcane,2178987,124665288,57.21249737
+Uttar Pradesh,2007,Rabi       ,Maize,3627,10185,2.808105873
+Uttar Pradesh,2007,Rabi       ,Masoor,507235,367669,0.724849429
+Uttar Pradesh,2007,Rabi       ,Onion,9846,137576,13.97278082
+Uttar Pradesh,2007,Rabi       ,Potato,504858,11094868,21.97621509
+Uttar Pradesh,2007,Rabi       ,Tobacco,24951,139600,5.594966134
+Uttar Pradesh,2007,Rabi       ,Turmeric,1368,4199,3.069444444
+Uttar Pradesh,2007,Rabi       ,Wheat,9114880,25679089,2.817271209
+Uttar Pradesh,2008,Kharif     ,Arhar/Tur,314785,287720,0.914020681
+Uttar Pradesh,2008,Kharif     ,Bajra,809300,1302073,1.608887928
+Uttar Pradesh,2008,Kharif     ,Dry chillies,14918,14873,0.99698351
+Uttar Pradesh,2008,Kharif     ,Groundnut,94534,67482,0.713838407
+Uttar Pradesh,2008,Kharif     ,Maize,769793,1151245,1.49552542
+Uttar Pradesh,2008,Kharif     ,Moong(Green Gram),30518,11286,0.369814536
+Uttar Pradesh,2008,Kharif     ,Rice,6011761,13051365,2.170972033
+Uttar Pradesh,2008,Kharif     ,Soyabean,10599,9104,0.858948957
+Uttar Pradesh,2008,Kharif     ,Sugarcane,2084179,109047670,52.3216432
+Uttar Pradesh,2008,Rabi       ,Garlic,33421,196850,5.890009276
+Uttar Pradesh,2008,Rabi       ,Maize,3617,9495,2.625103677
+Uttar Pradesh,2008,Rabi       ,Masoor,520736,459705,0.882798577
+Uttar Pradesh,2008,Rabi       ,Onion,10161,119110,11.72227143
+Uttar Pradesh,2008,Rabi       ,Potato,527347,10809926,20.4986963
+Uttar Pradesh,2008,Rabi       ,Tobacco,22573,134309,5.949984495
+Uttar Pradesh,2008,Rabi       ,Wheat,9513039,28554178,3.001583195
+Uttar Pradesh,2009,Kharif     ,Arhar/Tur,304747,201685,0.661811273
+Uttar Pradesh,2009,Kharif     ,Bajra,848617,1388711,1.636440232
+Uttar Pradesh,2009,Kharif     ,Dry chillies,14922,13146,0.880981102
+Uttar Pradesh,2009,Kharif     ,Groundnut,90652,61093,0.673928871
+Uttar Pradesh,2009,Kharif     ,Maize,674808,982139,1.455434731
+Uttar Pradesh,2009,Kharif     ,Moong(Green Gram),35348,5227,0.147872581
+Uttar Pradesh,2009,Kharif     ,Rice,5148046,10714990,2.081370291
+Uttar Pradesh,2009,Kharif     ,Soyabean,7169,7563,1.054958851
+Uttar Pradesh,2009,Kharif     ,Sugarcane,1977324,117139919,59.24164123
+Uttar Pradesh,2009,Rabi       ,Garlic,34465,183113,5.313013202
+Uttar Pradesh,2009,Rabi       ,Maize,4636,14162,3.054788611
+Uttar Pradesh,2009,Rabi       ,Masoor,592405,475940,0.803403077
+Uttar Pradesh,2009,Rabi       ,Onion,10494,180225,17.17409949
+Uttar Pradesh,2009,Rabi       ,Potato,540797,13447272,24.86565569
+Uttar Pradesh,2009,Rabi       ,Tobacco,22861,130652,5.715060584
+Uttar Pradesh,2009,Rabi       ,Turmeric,1315,4346,3.304942966
+Uttar Pradesh,2009,Rabi       ,Wheat,9668152,27518022,2.846254589
+Uttar Pradesh,2010,Kharif     ,Arhar/Tur,344186,308419,0.896082351
+Uttar Pradesh,2010,Kharif     ,Bajra,935272,1556891,1.664639805
+Uttar Pradesh,2010,Kharif     ,Dry chillies,13673,11964,0.875009142
+Uttar Pradesh,2010,Kharif     ,Groundnut,85258,84246,0.988130146
+Uttar Pradesh,2010,Kharif     ,Maize,718026,1052727,1.466140502
+Uttar Pradesh,2010,Kharif     ,Moong(Green Gram),41377,19457,0.470237088
+Uttar Pradesh,2010,Kharif     ,Rice,5631949,11938078,2.11970634
+Uttar Pradesh,2010,Kharif     ,Soyabean,10939,13475,1.231831063
+Uttar Pradesh,2010,Kharif     ,Sugarcane,2124850,120544784,56.73096171
+Uttar Pradesh,2010,Rabi       ,Maize,5492,16498,3.004005827
+Uttar Pradesh,2010,Rabi       ,Masoor,586132,410968,0.701152641
+Uttar Pradesh,2010,Rabi       ,Onion,9830,180951,18.40803662
+Uttar Pradesh,2010,Rabi       ,Potato,556533,13576573,24.39491099
+Uttar Pradesh,2010,Rabi       ,Tobacco,25906,131506,5.076275766
+Uttar Pradesh,2010,Rabi       ,Turmeric,1294,4066,3.142194745
+Uttar Pradesh,2010,Rabi       ,Wheat,9636540,30000632,3.113216154
+Uttarakhand,2000,Kharif     ,Arhar/Tur,1890,981,0.519047619
+Uttarakhand,2000,Kharif     ,Bajra,11,15,1.363636364
+Uttarakhand,2000,Kharif     ,Groundnut,1750,1481,0.846285714
+Uttarakhand,2000,Kharif     ,Maize,33467,48302,1.443272477
+Uttarakhand,2000,Kharif     ,Moong(Green Gram),45,16,0.355555556
+Uttarakhand,2000,Kharif     ,Potato,6286,138309,22.00270442
+Uttarakhand,2000,Kharif     ,Ragi,127733,162286,1.270509579
+Uttarakhand,2000,Kharif     ,Rice,285545,579074,2.027960567
+Uttarakhand,2000,Kharif     ,Soyabean,6478,4382,0.676443347
+Uttarakhand,2000,Kharif     ,Sunflower,213,227,1.0657277
+Uttarakhand,2000,Rabi       ,Maize,63,99,1.571428571
+Uttarakhand,2000,Rabi       ,Masoor,15290,8156,0.533420536
+Uttarakhand,2000,Rabi       ,Moong(Green Gram),110,31,0.281818182
+Uttarakhand,2000,Rabi       ,Potato,6473,148125,22.88351614
+Uttarakhand,2000,Rabi       ,Rice,3062,9578,3.128020901
+Uttarakhand,2000,Rabi       ,Wheat,377340,711036,1.884337733
+Uttarakhand,2001,Kharif     ,Arhar/Tur,1934,1053,0.544467425
+Uttarakhand,2001,Kharif     ,Bajra,44,57,1.295454545
+Uttarakhand,2001,Kharif     ,Groundnut,1136,1014,0.892605634
+Uttarakhand,2001,Kharif     ,Maize,32938,40682,1.235108385
+Uttarakhand,2001,Kharif     ,Moong(Green Gram),67,32,0.47761194
+Uttarakhand,2001,Kharif     ,Potato,7761,155501,20.03620667
+Uttarakhand,2001,Kharif     ,Ragi,131779,161963,1.229050152
+Uttarakhand,2001,Kharif     ,Rice,280816,567662,2.021473135
+Uttarakhand,2001,Kharif     ,Soyabean,9688,6176,0.637489678
+Uttarakhand,2001,Kharif     ,Sunflower,47,46,0.978723404
+Uttarakhand,2001,Rabi       ,Maize,125,183,1.464
+Uttarakhand,2001,Rabi       ,Masoor,14649,7651,0.522288211
+Uttarakhand,2001,Rabi       ,Moong(Green Gram),59,16,0.271186441
+Uttarakhand,2001,Rabi       ,Potato,5739,121724,21.20996689
+Uttarakhand,2001,Rabi       ,Rice,3761,11855,3.152087211
+Uttarakhand,2001,Rabi       ,Wheat,375967,721618,1.919365263
+Uttarakhand,2002,Kharif     ,Arhar/Tur,1793,860,0.479643056
+Uttarakhand,2002,Kharif     ,Bajra,4,5,1.25
+Uttarakhand,2002,Kharif     ,Groundnut,1179,920,0.780322307
+Uttarakhand,2002,Kharif     ,Maize,28506,32127,1.127025889
+Uttarakhand,2002,Kharif     ,Moong(Green Gram),76,22,0.289473684
+Uttarakhand,2002,Kharif     ,Potato,7741,154194,19.9191319
+Uttarakhand,2002,Kharif     ,Ragi,127391,129586,1.017230417
+Uttarakhand,2002,Kharif     ,Rice,271219,511526,1.886025684
+Uttarakhand,2002,Kharif     ,Soyabean,11488,7295,0.635010446
+Uttarakhand,2002,Kharif     ,Sunflower,238,182,0.764705882
+Uttarakhand,2002,Rabi       ,Maize,82,127,1.548780488
+Uttarakhand,2002,Rabi       ,Masoor,14451,6437,0.445436302
+Uttarakhand,2002,Rabi       ,Moong(Green Gram),48,12,0.25
+Uttarakhand,2002,Rabi       ,Onion,8497,87690,10.32011298
+Uttarakhand,2002,Rabi       ,Potato,6803,143706,21.12391592
+Uttarakhand,2002,Rabi       ,Rice,4090,11649,2.848166259
+Uttarakhand,2002,Rabi       ,Wheat,374802,721653,1.925424624
+Uttarakhand,2003,Kharif     ,Arhar/Tur,1962,1453,0.740570846
+Uttarakhand,2003,Kharif     ,Bajra,3,3,1
+Uttarakhand,2003,Kharif     ,Groundnut,1273,1267,0.995286724
+Uttarakhand,2003,Kharif     ,Maize,31209,47446,1.52026659
+Uttarakhand,2003,Kharif     ,Moong(Green Gram),13,5,0.384615385
+Uttarakhand,2003,Kharif     ,Ragi,126421,165549,1.309505541
+Uttarakhand,2003,Kharif     ,Rice,271671,520831,1.917138745
+Uttarakhand,2003,Kharif     ,Soyabean,13998,15045,1.074796399
+Uttarakhand,2003,Kharif     ,Sunflower,262,301,1.148854962
+Uttarakhand,2003,Rabi       ,Masoor,11618,7168,0.616973662
+Uttarakhand,2003,Rabi       ,Wheat,383387,729653,1.903176164
+Uttarakhand,2004,Kharif     ,Arhar/Tur,1833,1182,0.644844517
+Uttarakhand,2004,Kharif     ,Groundnut,1624,2005,1.234605911
+Uttarakhand,2004,Kharif     ,Maize,29501,44967,1.524253415
+Uttarakhand,2004,Kharif     ,Moong(Green Gram),4,1,0.25
+Uttarakhand,2004,Kharif     ,Ragi,131003,164096,1.252612536
+Uttarakhand,2004,Kharif     ,Rice,281464,537876,1.910993946
+Uttarakhand,2004,Kharif     ,Soyabean,13347,17768,1.331235484
+Uttarakhand,2004,Kharif     ,Sunflower,206,246,1.194174757
+Uttarakhand,2004,Rabi       ,Masoor,11803,7001,0.593154283
+Uttarakhand,2004,Rabi       ,Wheat,387103,799221,2.064621044
+Uttarakhand,2005,Kharif     ,Arhar/Tur,1612,880,0.545905707
+Uttarakhand,2005,Kharif     ,Groundnut,1692,1645,0.972222222
+Uttarakhand,2005,Kharif     ,Maize,31372,39735,1.26657529
+Uttarakhand,2005,Kharif     ,Moong(Green Gram),1,0,0
+Uttarakhand,2005,Kharif     ,Ragi,124379,156720,1.260019778
+Uttarakhand,2005,Kharif     ,Rice,275459,526520,1.911427835
+Uttarakhand,2005,Kharif     ,Soyabean,12885,15860,1.23088863
+Uttarakhand,2005,Kharif     ,Sunflower,119,142,1.193277311
+Uttarakhand,2005,Rabi       ,Masoor,12972,6422,0.495066297
+Uttarakhand,2005,Rabi       ,Wheat,379237,642216,1.693442359
+Uttarakhand,2006,Kharif     ,Arhar/Tur,1827,995,0.544608648
+Uttarakhand,2006,Kharif     ,Bajra,11,13,1.181818182
+Uttarakhand,2006,Kharif     ,Groundnut,1749,1888,1.079473985
+Uttarakhand,2006,Kharif     ,Maize,27163,35850,1.319810036
+Uttarakhand,2006,Kharif     ,Moong(Green Gram),2,2,1
+Uttarakhand,2006,Kharif     ,Potato,8274,83792,10.12714527
+Uttarakhand,2006,Kharif     ,Ragi,125640,171181,1.362472143
+Uttarakhand,2006,Kharif     ,Rice,273662,540128,1.973704789
+Uttarakhand,2006,Kharif     ,Soyabean,9327,12329,1.321861263
+Uttarakhand,2006,Kharif     ,Sunflower,47,57,1.212765957
+Uttarakhand,2006,Rabi       ,Maize,81,131,1.617283951
+Uttarakhand,2006,Rabi       ,Masoor,12677,5846,0.461150114
+Uttarakhand,2006,Rabi       ,Moong(Green Gram),30,13,0.433333333
+Uttarakhand,2006,Rabi       ,Potato,7099,77930,10.97760248
+Uttarakhand,2006,Rabi       ,Rice,9923,31208,3.145016628
+Uttarakhand,2006,Rabi       ,Wheat,377870,796548,2.107994813
+Uttarakhand,2007,Kharif     ,Arhar/Tur,2932,2221,0.757503411
+Uttarakhand,2007,Kharif     ,Bajra,42,40,0.952380952
+Uttarakhand,2007,Kharif     ,Dry chillies,5671,2000,0.352671487
+Uttarakhand,2007,Kharif     ,Groundnut,1546,1318,0.852522639
+Uttarakhand,2007,Kharif     ,Maize,28000,43659,1.55925
+Uttarakhand,2007,Kharif     ,Moong(Green Gram),8,3,0.375
+Uttarakhand,2007,Kharif     ,Potato,7539,72247,9.583101207
+Uttarakhand,2007,Kharif     ,Ragi,122498,172157,1.40538621
+Uttarakhand,2007,Kharif     ,Rice,259805,523203,2.013829603
+Uttarakhand,2007,Kharif     ,Soyabean,9863,13234,1.341782419
+Uttarakhand,2007,Kharif     ,Sunflower,45,43,0.955555556
+Uttarakhand,2007,Rabi       ,Masoor,10873,4950,0.455256139
+Uttarakhand,2007,Rabi       ,Potato,6693,53843,8.04467354
+Uttarakhand,2007,Rabi       ,Wheat,372919,798233,2.14049968
+Uttarakhand,2008,Kharif     ,Arhar/Tur,2383,1710,0.717582879
+Uttarakhand,2008,Kharif     ,Bajra,20,19,0.95
+Uttarakhand,2008,Kharif     ,Groundnut,1355,1795,1.324723247
+Uttarakhand,2008,Kharif     ,Maize,26780,36287,1.355003734
+Uttarakhand,2008,Kharif     ,Moong(Green Gram),56,25,0.446428571
+Uttarakhand,2008,Kharif     ,Potato,7723,72666,9.409037939
+Uttarakhand,2008,Kharif     ,Ragi,120707,173627,1.438416993
+Uttarakhand,2008,Kharif     ,Rice,275711,528524,1.916949269
+Uttarakhand,2008,Kharif     ,Soyabean,8328,10133,1.216738713
+Uttarakhand,2008,Kharif     ,Sunflower,37,35,0.945945946
+Uttarakhand,2008,Rabi       ,Masoor,10987,3992,0.363338491
+Uttarakhand,2008,Rabi       ,Potato,6266,67396,10.75582509
+Uttarakhand,2008,Rabi       ,Wheat,379081,770934,2.033692008
+Uttarakhand,2009,Kharif     ,Arhar/Tur,1931,1320,0.683583635
+Uttarakhand,2009,Kharif     ,Bajra,1,1,1
+Uttarakhand,2009,Kharif     ,Groundnut,1369,1901,1.388604821
+Uttarakhand,2009,Kharif     ,Maize,26103,36088,1.382523082
+Uttarakhand,2009,Kharif     ,Moong(Green Gram),8,6,0.75
+Uttarakhand,2009,Kharif     ,Potato,10187,104530,10.26111711
+Uttarakhand,2009,Kharif     ,Ragi,116162,142978,1.23085002
+Uttarakhand,2009,Kharif     ,Rice,270608,551716,2.038801514
+Uttarakhand,2009,Kharif     ,Soyabean,8270,13660,1.651753325
+Uttarakhand,2009,Kharif     ,Sunflower,5,6,1.2
+Uttarakhand,2009,Rabi       ,Maize,63,103,1.634920635
+Uttarakhand,2009,Rabi       ,Masoor,10792,6222,0.576538176
+Uttarakhand,2009,Rabi       ,Moong(Green Gram),8,6,0.75
+Uttarakhand,2009,Rabi       ,Potato,5873,70526,12.00851354
+Uttarakhand,2009,Rabi       ,Rice,13775,39300,2.852994555
+Uttarakhand,2009,Rabi       ,Wheat,372846,829319,2.224293676
+Uttarakhand,2010,Kharif     ,Arhar/Tur,1963,1343,0.684156903
+Uttarakhand,2010,Kharif     ,Groundnut,1330,1449,1.089473684
+Uttarakhand,2010,Kharif     ,Maize,26193,40494,1.545985569
+Uttarakhand,2010,Kharif     ,Moong(Green Gram),102,54,0.529411765
+Uttarakhand,2010,Kharif     ,Potato,7578,72287,9.539060438
+Uttarakhand,2010,Kharif     ,Ragi,119207,159286,1.336213477
+Uttarakhand,2010,Kharif     ,Rice,270416,495083,1.830819922
+Uttarakhand,2010,Kharif     ,Soyabean,8135,13174,1.61942225
+Uttarakhand,2010,Rabi       ,Maize,64,130,2.03125
+Uttarakhand,2010,Rabi       ,Masoor,11027,8236,0.746893987
+Uttarakhand,2010,Rabi       ,Moong(Green Gram),16,9,0.5625
+Uttarakhand,2010,Rabi       ,Potato,4793,60822,12.68975589
+Uttarakhand,2010,Rabi       ,Rice,15277,50503,3.305819205
+Uttarakhand,2010,Rabi       ,Wheat,371225,882920,2.378395852
+West Bengal,2000,Kharif     ,Arhar/Tur,8868,5930,0.668696437
+West Bengal,2000,Kharif     ,Bajra,313,256,0.817891374
+West Bengal,2000,Kharif     ,Groundnut,2020,1594,0.789108911
+West Bengal,2000,Kharif     ,Maize,35267,88264,2.502736269
+West Bengal,2000,Kharif     ,Moong(Green Gram),635,308,0.48503937
+West Bengal,2000,Kharif     ,Ragi,12651,15242,1.204805944
+West Bengal,2000,Kharif     ,Soyabean,538,322,0.598513011
+West Bengal,2000,Kharif     ,Sunflower,246,156,0.634146341
+West Bengal,2000,Rabi       ,Groundnut,8513,12379,1.454128979
+West Bengal,2000,Rabi       ,Masoor,75994,68500,0.901386952
+West Bengal,2000,Rabi       ,Moong(Green Gram),2410,1402,0.581742739
+West Bengal,2000,Rabi       ,Wheat,426000,1057610,2.482652582
+West Bengal,2001,Kharif     ,Arhar/Tur,3938,3268,0.829862875
+West Bengal,2001,Kharif     ,Bajra,425,322,0.757647059
+West Bengal,2001,Kharif     ,Groundnut,2197,2126,0.967683204
+West Bengal,2001,Kharif     ,Maize,33288,86409,2.595800288
+West Bengal,2001,Kharif     ,Moong(Green Gram),619,311,0.502423263
+West Bengal,2001,Kharif     ,Ragi,12730,14558,1.1435978
+West Bengal,2001,Kharif     ,Soyabean,516,308,0.596899225
+West Bengal,2001,Kharif     ,Sunflower,1279,1691,1.322126661
+West Bengal,2001,Rabi       ,Groundnut,8679,11650,1.342320544
+West Bengal,2001,Rabi       ,Masoor,71377,37422,0.524286535
+West Bengal,2001,Rabi       ,Moong(Green Gram),1814,998,0.55016538
+West Bengal,2001,Rabi       ,Wheat,434004,961533,2.215493406
+West Bengal,2002,Kharif     ,Arhar/Tur,3075,2806,0.912520325
+West Bengal,2002,Kharif     ,Bajra,332,252,0.759036145
+West Bengal,2002,Kharif     ,Groundnut,1368,1317,0.962719298
+West Bengal,2002,Kharif     ,Maize,27724,55300,1.994661665
+West Bengal,2002,Kharif     ,Moong(Green Gram),556,268,0.482014388
+West Bengal,2002,Kharif     ,Ragi,13517,15639,1.156987497
+West Bengal,2002,Kharif     ,Soyabean,520,311,0.598076923
+West Bengal,2002,Kharif     ,Sunflower,2369,3207,1.353735753
+West Bengal,2002,Rabi       ,Dry chillies,43703,46457,1.063016269
+West Bengal,2002,Rabi       ,Groundnut,7020,10523,1.499002849
+West Bengal,2002,Rabi       ,Masoor,68721,43245,0.629283625
+West Bengal,2002,Rabi       ,Moong(Green Gram),1601,942,0.588382261
+West Bengal,2002,Rabi       ,Wheat,405350,887437,2.189310472
+West Bengal,2003,Kharif     ,Arhar/Tur,3361,3382,1.00624814
+West Bengal,2003,Kharif     ,Bajra,258,179,0.69379845
+West Bengal,2003,Kharif     ,Groundnut,1792,1833,1.022879464
+West Bengal,2003,Kharif     ,Maize,55530,126059,2.270106249
+West Bengal,2003,Kharif     ,Moong(Green Gram),835,431,0.516167665
+West Bengal,2003,Kharif     ,Ragi,13417,15505,1.155623463
+West Bengal,2003,Kharif     ,Soyabean,21,15,0.714285714
+West Bengal,2003,Kharif     ,Sunflower,8465,5594,0.660838748
+West Bengal,2003,Rabi       ,Groundnut,9173,14476,1.57810967
+West Bengal,2003,Rabi       ,Masoor,69380,53186,0.766589795
+West Bengal,2003,Rabi       ,Moong(Green Gram),1470,960,0.653061224
+West Bengal,2003,Rabi       ,Wheat,425721,985686,2.315333282
+West Bengal,2004,Kharif     ,Bajra,129,45,0.348837209
+West Bengal,2004,Kharif     ,Maize,64629,190546,2.948304941
+West Bengal,2004,Kharif     ,Moong(Green Gram),674,315,0.46735905
+West Bengal,2004,Kharif     ,Ragi,12358,15118,1.22333711
+West Bengal,2004,Kharif     ,Soyabean,540,305,0.564814815
+West Bengal,2004,Kharif     ,Sunflower,8541,11211,1.312609765
+West Bengal,2004,Rabi       ,Arhar/Tur,1481,1054,0.711681296
+West Bengal,2004,Rabi       ,Masoor,62698,37874,0.604070305
+West Bengal,2004,Rabi       ,Moong(Green Gram),1238,831,0.671243942
+West Bengal,2004,Rabi       ,Wheat,400093,841471,2.103188509
+West Bengal,2005,Kharif     ,Bajra,55,19,0.345454545
+West Bengal,2005,Kharif     ,Maize,71753,207252,2.888408847
+West Bengal,2005,Kharif     ,Moong(Green Gram),725,365,0.503448276
+West Bengal,2005,Kharif     ,Ragi,12621,15315,1.213453768
+West Bengal,2005,Kharif     ,Soyabean,573,328,0.572425829
+West Bengal,2005,Kharif     ,Sunflower,12473,15689,1.257836928
+West Bengal,2005,Rabi       ,Arhar/Tur,1830,1584,0.86557377
+West Bengal,2005,Rabi       ,Masoor,61493,46964,0.763729205
+West Bengal,2005,Rabi       ,Moong(Green Gram),1411,931,0.659815734
+West Bengal,2005,Rabi       ,Wheat,366729,773514,2.109225068
+West Bengal,2006,Kharif     ,Bajra,79,31,0.392405063
+West Bengal,2006,Kharif     ,Maize,85446,253505,2.966844557
+West Bengal,2006,Kharif     ,Moong(Green Gram),874,325,0.371853547
+West Bengal,2006,Kharif     ,Ragi,13135,14974,1.140007613
+West Bengal,2006,Kharif     ,Soyabean,531,317,0.596986817
+West Bengal,2006,Kharif     ,Sunflower,13674,17686,1.29340354
+West Bengal,2006,Rabi       ,Arhar/Tur,2044,1412,0.690802348
+West Bengal,2006,Rabi       ,Masoor,64239,42670,0.664238235
+West Bengal,2006,Rabi       ,Moong(Green Gram),1238,801,0.647011309
+West Bengal,2006,Rabi       ,Wheat,350621,799876,2.2813123
+West Bengal,2007,Kharif     ,Bajra,64,23,0.359375
+West Bengal,2007,Kharif     ,Garlic,3414,33728,9.879320445
+West Bengal,2007,Kharif     ,Groundnut,3257,3030,0.930303961
+West Bengal,2007,Kharif     ,Maize,34570,72463,2.096123807
+West Bengal,2007,Kharif     ,Moong(Green Gram),536,287,0.535447761
+West Bengal,2007,Kharif     ,Ragi,13062,14955,1.144924208
+West Bengal,2007,Kharif     ,Soyabean,536,322,0.600746269
+West Bengal,2007,Kharif     ,Sunflower,15984,19719,1.233671171
+West Bengal,2007,Rabi       ,Arhar/Tur,1097,889,0.810391978
+West Bengal,2007,Rabi       ,Groundnut,13005,21796,1.67597078
+West Bengal,2007,Rabi       ,Maize,17363,81620,4.700800553
+West Bengal,2007,Rabi       ,Masoor,58737,44815,0.76297734
+West Bengal,2007,Rabi       ,Moong(Green Gram),1677,1090,0.649970185
+West Bengal,2007,Rabi       ,Wheat,352579,917284,2.601641051
+West Bengal,2008,Kharif     ,Bajra,75,26,0.346666667
+West Bengal,2008,Kharif     ,Groundnut,2413,2264,0.93825114
+West Bengal,2008,Kharif     ,Moong(Green Gram),1079,989,0.916589435
+West Bengal,2008,Kharif     ,Soyabean,537,322,0.599627561
+West Bengal,2008,Kharif     ,Sunflower,10127,11007,1.086896416
+West Bengal,2008,Rabi       ,Arhar/Tur,629,530,0.842607313
+West Bengal,2008,Rabi       ,Groundnut,13860,23576,1.701010101
+West Bengal,2008,Rabi       ,Maize,17955,91856,5.115900863
+West Bengal,2008,Rabi       ,Masoor,49712,32428,0.652317348
+West Bengal,2008,Rabi       ,Moong(Green Gram),1570,1016,0.647133758
+West Bengal,2008,Rabi       ,Ragi,972,802,0.825102881
+West Bengal,2008,Rabi       ,Wheat,306985,764528,2.490440901
+West Bengal,2009,Kharif     ,Bajra,53,23,0.433962264
+West Bengal,2009,Kharif     ,Moong(Green Gram),2055,1718,0.836009732
+West Bengal,2009,Kharif     ,Soyabean,551,332,0.602540835
+West Bengal,2009,Kharif     ,Sunflower,10780,13021,1.207884972
+West Bengal,2009,Rabi       ,Arhar/Tur,755,582,0.770860927
+West Bengal,2009,Rabi       ,Groundnut,13462,23927,1.777373347
+West Bengal,2009,Rabi       ,Maize,23585,132526,5.619079924
+West Bengal,2009,Rabi       ,Masoor,51698,47123,0.911505281
+West Bengal,2009,Rabi       ,Moong(Green Gram),1677,1097,0.654144305
+West Bengal,2009,Rabi       ,Potato,384451,13807997,35.91614276
+West Bengal,2009,Rabi       ,Wheat,315888,846657,2.680244264
+West Bengal,2010,Kharif     ,Bajra,64,24,0.375
+West Bengal,2010,Kharif     ,Moong(Green Gram),869,613,0.705408516
+West Bengal,2010,Kharif     ,Soyabean,529,316,0.597353497
+West Bengal,2010,Kharif     ,Sunflower,6555,7358,1.122501907
+West Bengal,2010,Rabi       ,Arhar/Tur,1555,2212,1.422508039
+West Bengal,2010,Rabi       ,Groundnut,12222,21947,1.795696285
+West Bengal,2010,Rabi       ,Maize,17229,84356,4.896163445
+West Bengal,2010,Rabi       ,Masoor,57447,53369,0.929012829
+West Bengal,2010,Rabi       ,Moong(Green Gram),1820,1201,0.65989011
+West Bengal,2010,Rabi       ,Potato,406349,13391235,32.95500912
+West Bengal,2010,Rabi       ,Wheat,316808,874415,2.76007866
