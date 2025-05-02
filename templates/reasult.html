@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crop Recommendation Result</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Crop Recommendation Result</h1>
+        <p>For the state of <strong>{{ state }}</strong> and season <strong>{{ season }}</strong>, we recommend planting:</p>
+        <h2>{{ crop }}</h2>
+        <p>Area of Production: <strong>{{ area }}</strong> hectares</p>
+        <p>Productivity: <strong>{{ productivity }}</strong> tons/hectare</p>
+        <a href="/">Go Back</a>
+    </div>
+</body>
+</html>
