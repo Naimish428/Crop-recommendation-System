@@ -4,71 +4,31 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Crop Recommendation Result</title>
-    <style>
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(to right, #11998e, #38ef7d);
-            color: #fff;
-            margin: 0;
-            padding: 0;
-        }
-
-        .container {
-            max-width: 600px;
-            background-color: rgba(0, 0, 0, 0.65);
-            margin: 80px auto;
-            padding: 40px;
-            border-radius: 15px;
-            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
-            text-align: center;
-        }
-
-        h1 {
-            margin-bottom: 20px;
-            font-size: 2em;
-            color: #ffffff;
-        }
-
-        h2 {
-            margin: 20px 0;
-            font-size: 2.2em;
-            color: #00ffc8;
-        }
-
-        p {
-            font-size: 1.2em;
-            margin: 10px 0;
-        }
-
-        strong {
-            color: #ffeb3b;
-        }
-
-        a {
-            display: inline-block;
-            margin-top: 30px;
-            text-decoration: none;
-            background-color: #00c9a7;
-            color: #fff;
-            padding: 12px 25px;
-            border-radius: 5px;
-            font-weight: bold;
-            transition: background-color 0.3s ease;
-        }
-
-        a:hover {
-            background-color: #009e84;
-        }
-    </style>
 </head>
-<body>
-    <div class="container">
-        <h1>Crop Recommendation Result</h1>
-        <p>For the state of <strong>{{ state }}</strong> and season <strong>{{ season }}</strong>, we recommend planting:</p>
-        <h2>{{ crop }}</h2>
-        <p>Area of Production: <strong>{{ area }}</strong> hectares</p>
-        <p>Productivity: <strong>{{ productivity }}</strong> tons/hectare</p>
-        <a href="/">Go Back</a>
+<body style="font-family: Arial, sans-serif; background: linear-gradient(to right, #11998e, #38ef7d); color: white; margin: 0; padding: 0;">
+
+    <div style="max-width: 600px; background-color: rgba(0, 0, 0, 0.65); margin: 80px auto; padding: 40px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3); text-align: center;">
+
+        <h1 style="margin-bottom: 20px; font-size: 2em;">Crop Recommendation Result</h1>
+
+        <p style="font-size: 1.2em; margin: 10px 0;">
+            For the state of <strong style="color: #ffeb3b;">{{ state }}</strong> and season <strong style="color: #ffeb3b;">{{ season }}</strong>, we recommend planting:
+        </p>
+
+        <h2 style="margin: 20px 0; font-size: 2.2em; color: #00ffc8;">{{ crop }}</h2>
+
+        <p style="font-size: 1.2em; margin: 10px 0;">
+            Area of Production: <strong style="color: #ffeb3b;">{{ area }}</strong> hectares
+        </p>
+
+        <p style="font-size: 1.2em; margin: 10px 0;">
+            Productivity: <strong style="color: #ffeb3b;">{{ productivity }}</strong> tons/hectare
+        </p>
+
+        <a href="/" style="display: inline-block; margin-top: 30px; text-decoration: none; background-color: #00c9a7; color: white; padding: 12px 25px; border-radius: 5px; font-weight: bold;">
+            Go Back
+        </a>
     </div>
+
 </body>
 </html>
