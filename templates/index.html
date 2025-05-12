@@ -4,91 +4,40 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Crop Recommendation System</title>
-    <style>
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(to right, #43cea2, #185a9d);
-            color: #fff;
-            margin: 0;
-            padding: 0;
-        }
-
-        .container {
-            max-width: 600px;
-            background-color: rgba(0, 0, 0, 0.6);
-            margin: 60px auto;
-            padding: 40px;
-            border-radius: 15px;
-            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
-        }
-
-        h1 {
-            text-align: center;
-            margin-bottom: 30px;
-            color: #fff;
-        }
-
-        label {
-            display: block;
-            margin: 15px 0 5px;
-            font-weight: bold;
-        }
-
-        select,
-        input[type="number"] {
-            width: 100%;
-            padding: 10px;
-            margin-top: 5px;
-            border-radius: 5px;
-            border: none;
-            font-size: 1em;
-        }
-
-        button {
-            margin-top: 25px;
-            width: 100%;
-            padding: 12px;
-            background-color: #00c9a7;
-            border: none;
-            border-radius: 5px;
-            font-size: 1.1em;
-            font-weight: bold;
-            color: white;
-            cursor: pointer;
-            transition: background-color 0.3s ease;
-        }
-
-        button:hover {
-            background-color: #00a383;
-        }
-    </style>
 </head>
-<body>
-    <div class="container">
-        <h1>Crop Recommendation System</h1>
+<body style="font-family: Arial, sans-serif; background-color: #f2f2f2; color: #000; margin: 0; padding: 0;">
+
+    <div style="max-width: 600px; margin: 50px auto; padding: 30px; background-color: #ffffff; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+        <h1 style="text-align: center; margin-bottom: 30px;">Crop Recommendation System</h1>
+        
         <form action="/recommend" method="POST">
-            <label for="state">Select State:</label>
-            <select name="state" id="state" required>
+
+            <label for="state" style="font-weight: bold;">Select State:</label><br>
+            <select name="state" id="state" required style="width: 100%; padding: 10px; margin: 10px 0 20px 0;">
                 {% for state in states %}
                     <option value="{{ state }}">{{ state }}</option>
                 {% endfor %}
-            </select>
+            </select><br>
 
-            <label for="season">Select Season:</label>
-            <select name="season" id="season" required>
+            <label for="season" style="font-weight: bold;">Select Season:</label><br>
+            <select name="season" id="season" required style="width: 100%; padding: 10px; margin: 10px 0 20px 0;">
                 {% for season in seasons %}
                     <option value="{{ season }}">{{ season }}</option>
                 {% endfor %}
-            </select>
+            </select><br>
 
-            <label for="area">Enter Area of Production (in hectares):</label>
-            <input type="number" step="0.01" name="area" required>
+            <label for="area" style="font-weight: bold;">Enter Area of Production (in hectares):</label><br>
+            <input type="number" step="0.01" name="area" required style="width: 100%; padding: 10px; margin: 10px 0 20px 0;"><br>
 
-            <label for="crop_productivity">Enter Productivity (tons/hectare):</label>
-            <input type="number" step="0.01" name="crop_productivity" required>
+            <label for="crop_productivity" style="font-weight: bold;">Enter Productivity (tons/hectare):</label><br>
+            <input type="number" step="0.01" name="crop_productivity" required style="width: 100%; padding: 10px; margin: 10px 0 20px 0;"><br>
 
-            <button type="submit">Get Recommendation</button>
+            <button type="submit" style="width: 100%; padding: 12px; background-color: #28a745; color: white; font-size: 16px; border: none; border-radius: 5px; cursor: pointer;">
+                Get Recommendation
+            </button>
+
         </form>
     </div>
+
 </body>
 </html>
