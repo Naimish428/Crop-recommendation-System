@@ -27,4 +27,4 @@ From this, **crop productivity** was calculated and used as a key feature. The d
 - **Flask** – For building the web interface
 - **Scikit-learn** – For model training and prediction
 - **Pickle** – To save/load the model and label encoders
-- **HTML & CSS** – For frontend design
+- **HTML** – For frontend design
